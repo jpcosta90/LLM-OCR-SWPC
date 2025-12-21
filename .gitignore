@@ -7,3 +7,4 @@ wandb/
 *.pth
 *.bin
 .DS_Store
+paper/
