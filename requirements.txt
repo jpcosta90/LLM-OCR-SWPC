@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+pillow
+pandas
+matplotlib
+seaborn
+accelerate
+bitsandbytes
+sentencepiece
+protobuf
+openpyxl
