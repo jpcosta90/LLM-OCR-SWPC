@@ -1,0 +1,9 @@
+Isotopes of hydrogen
+
+---
+
+Hydrogen (1H) has three naturally occurring isotopes: \(^{1}H,\,^{2}H,\,^{3}H\). \(^{1}H\) and \(^{2}H\) are stable, while \(^{3}H\) has a half-life of 12.32 years. \(^{1}\,z^{-}\) tritium. The symbols \(D\) and \(T\) sometimes used for deutiumand tritium; \emph{U}PAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols \(^{3}H\) and \(^{1}H\) to avoid confusion in alphabetical sorting of chemical formulas. \(^{1}\,z^{-}\) neutrons, may be called protium to disambiguate\. [10] During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.
+
+---
+
+Hydrogen (1H) has three naturally occurring isotopes: \(^{1}H,\,^{2}H,\,^{3}H\)

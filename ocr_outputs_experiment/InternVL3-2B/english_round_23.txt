@@ -1,0 +1,38 @@
+From Wikipedia, the free encyclopedia
+
+Hydrogen (¹H) has three naturally occurring isotopes: ¹²H, and ³H. ¹H and ²H are stable, while ³H has a half-life of 12.32 years. [4][[nb 1]] Heavier isotopes also exist; all are synthetic and have a half-life of less than 1 zeptosecond (10⁻²¹ s). Hydrogen is the only element whose isotopes have different names that remain in common use today: ²H is deuterium and ³H is tritium. The symbols D and T are sometimes used for deuterium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols ²H and ³H, to avoid confusion in alphabetical sorting of chemical formulas.¹H, with no neutrons, may be called protium to disambiguate it. During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.
+
+The text provided contains information from a Wikipedia article discussing hydrogen isotopes. Here is the transcribed text:
+
+```
+Isotopes of hydrogen
+
+Article  Talk
+
+From Wikipedia, the free encyclopedia
+
+[Article]
+[Talk]
+
+Hydrogen (¹H) has three naturally occurring isotopes: ¹²H, and ³H. ¹H and ²H are stable, while ³H has a half-life of 12.32 years. [4][[nb 1]] Heavier isotopes also exist; all are synthetic and have a half-life of less than 1 zeptosecond (10⁻²¹ s).[5][6] Hydrogen is the only element whose isotopes have different names that remain in common use today: ²H is deuterium and ³H is tritium. The symbols D and T are sometimes used for deuterium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols ²H and ³H, to avoid confusion in alphabetical sorting of chemical formulas.¹H, with no neutrons, may be called protium to disambiguate it. During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.[10]
+
+The text reads from a Wikipedia article about the isotopes of hydrogen. Here are the key points from the text:
+
+1. **Hydrogen Isotopes**: Hydrogen in its natural forms has three isotopes: ¹H, ²H, and ³H, each with different properties.
+
+2. **Stability and Decay**:
+   - ¹H (protium) and ²H (deuterium) are stable over longer periods.
+   - ³H (tritium) has a half-life of 12.32 years, though heavier isotopes can exist but are synthetic and decay over much quicker timescales.
+
+3. **Standard Isotopic Notations**: The symbols D (deuterium) and T (tritium) are sometimes used but avoid confusion with IUPAC recommendations, which use ²H for deuterium and ³H for tritium.
+
+4. **Common Use**: In common use, ²H (deuterium) is used for deuterium and ³H (tritium) is used for tritium.
+
+5. **No Neutrons in Protium**: Protium (¹H) has no neutrons and sometimes referred to as protium to distinguish it.
+
+6. **Less Common Use Today**: In scientific contexts, especially regarding heavy radioisotopes like the discussion in the early study of radioactivity, these names are less commonly used, though they were previously.
+
+7. **IUPAC Recommendations**: IUPAC recommends the use of the standard isotopic symbols to avoid confusion in chemical formulas, minimizing usage of terms like deuterium and tritium.
+
+The text describes the different isotopes of hydrogen with their common uses and standardized symbols, avoiding confusion with earlier naming practices.
+```

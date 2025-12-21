@@ -1,0 +1,4 @@
+From Wikipedia, the free encyclopedia
+
+Hydrogen (¹ₙH) has three naturally occurring isotopes: ¹² H, and ¹³ H. ¹²H and ¹²H are stable, while ¹³H has a half-life of 12.32 years. Heavy isotopes also exist; all are synthetic and have a half-life of less than 1 zeptosecond (10⁻²¹ s). Hydrogen is the only element whose isotopes have different names that remain in common use today: ²H is deuterium[] and ³H is tritium[].
+The symbols D and T are sometimes used for deuterium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols ²² H and ³H, to avoid confusion in alphabetical sorting of chemical formulas.¹H, with no neutrons, may be called protium to disambiguate. Early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.

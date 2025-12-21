@@ -1,0 +1,7 @@
+Isotopes of hydrogen
+
+From Wikipedia, the free encyclopedia
+
+Hydrogen (1H) has three naturally occurring isotopes: \(^{1H}\), \(^{2H}\), and \(^{3H}\). \(^{1H}\) and \(^{2H}\) are stable, while \(^{3H}\) has a half-life of 12.32 years. \(^{1H}\) and \(^{2H}\) are synthetic and have a half-life of less than 1 zetocpend (10\(^{-2}\) s). The symbols \(^\text{D}\) and \(^\text{T}\) are sometimes used for deuteryium and tritenium. The standard isotope symbols \(^\text{2H}\) and \(^\text{3H}\), to avoid confusion in alphabetical sorting of chemical formulas. \(^{1H}\), with no neutrons, may be called protium to disambiguate. \(^{100}\) most, but such names are rarely used today.
+
+The symbols \(^\text{D}\) and \(^\text{T}\) are sometimes used for deuteryium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotope symbols \(^\text{2H}\) and \(^\text{3H}\), to avoid confusion in alphabetical sorting of chemical formulas. \(^{1H}\), with no neutrons, may be called protium to disambige. \(^{10^{3}H}\) most, but such names are rarely used today.

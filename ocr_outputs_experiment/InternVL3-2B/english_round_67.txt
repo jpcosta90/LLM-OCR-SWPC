@@ -1,0 +1,16 @@
+From Wikipedia, the free encyclopedia
+
+---
+
+Hydrogen (¹H) has three naturally occurring isotopes: ¹²H, and ³H. ¹H and ²H are stable, while ³H has a half-life of 12.32 years. Heavy isotopes also exist; all are synthetic and have a half-life of less than 1 zeptosecond (10⁻²¹ s). Hydrogen is the only element whose isotopes have different names that remain in common use today: ²⁶H is deuterium and ³⁶H is tritium. The symbols D and T are sometimes used for deuterium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols ²H and ³H, to avoid confusion in alphabetical sorting of chemical formulas.¹H, with no neutrons, may be called protium to disambiguate. During the early study of radioactivity, some other heavy radioactive isotopes were given names, but such names are rarely used today.
+
+---
+
+Hydrogen is the only element whose isotopes have different names that remain in    ²⁶H is deuterium    ³⁶H is tritium.
+The symbols D and T are sometimes used for deuterium and tritium;
+IUPAC (International Union of Pure and
+
+Applied Chemistry) accepts said symbols, but recommends the standard isotopic
+symbols ²D and ³H, to avoid confusion in alphabetical sorting of    1H, with no neutrons, may be called protium to disambiguate.
+
+During the early study of radioactivity, some other heavy radioactive isotopes were given names, but such names are rarely used today.

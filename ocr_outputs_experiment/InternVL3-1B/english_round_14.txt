@@ -1,0 +1,6 @@
+Isotopes of hydrogen
+Article
+Talk
+
+Hydrogen (`1H`, `2`, and `3H`). `1H` and `2H` are naturally occurring isotopes; all `3H` have a half-life of 12.32 years. `1` heavier isotopes also exist; all are synthetic and have a half-life of less than 1 zep-tosecond (10⁻²¹ s). [5][6] Heavier isotopes have different names that remain in common use today: `2H` is deuteron[7] and `3H` is tritium.[8] The symbols `D` and `T` are sometimes used for deuteryum and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols `2H` and `3H`, to avoid confusion in alphabetical sorting of chemical formulas. [9] symbols` 2H and `3H` are recommended to avoid confusion and [9] `2H` and `3H` is recommended to avoid confusion. [10] Some study is being carried out to disambiguate `prot-` [10] to suggest alternative names for `n` [p].
+During the early study of radioactivity, some other heavy radioses were given `names`, but such names are rarely used today.

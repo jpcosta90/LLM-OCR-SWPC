@@ -1,0 +1,14 @@
+Sure, here is the text from the image:
+
+# Isotopes of hydrogen
+
+Isotopes of hydrogen are:
+1\. \( ^1\mathbf{H} \) and \( ^3\mathbf{H} \) have three naturally occurring isotopes: \( ^{1\mathbf{H}} \), and \( ^{2\mathbf{H}} \). \( ^{1\mathbf{H}} \) and \( ^{2\mathbf{H}} \) are stable, while \( ^{3\mathbf{H}} \) has a half-life of 12.32 years. 
+\( ^{1\mathbf{H}} \) and \( ^{2\mathbf{H}} \) are synthesized and have a half-life of less than 1 zeptosec (10\(^{-21}\) s).  
+Heavier isotopes also exist;
+all are synthetic and have a half-life of less than 1 zeptosec (10\(^{-21}\) s).
+
+The symbols \( ^{D}\) and \( ^{T} \) are sometimes used for deuteron and tritium:
+IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols \( ^{2\mathbf{H}} \) and \( ^{3\mathbf{H}} \), to avoid confusion in alphabetical sorting of chemical formulas.  
+\[^1\mathbf{H}\] with no neutrons, may be called plutonium to disambiguate.  
+During the early study of radioactivity, some other heavy radioactive substances were given names, but such names are rarely used today.

@@ -1,0 +1,17 @@
+**Isotopes of hydrogen**
+
+From Wikipedia, the free encyclopedia
+
+---
+
+**Hydrogen (1H)**
+
+Has three naturally occurring isotopes: \( ^1H \), \( ^2H \), and \( ^3H \). \( ^1H \) and \( ^2H \) are stable, while \( ^3H \) has a half-life of 12.32 years. [4][nb 1] Heavier isotopes also exist; all are synthetic and have a half-life of less than 1 zep-topisecond (10^-21 s). [5][6]
+
+---
+
+The symbols \( \text{D} \) and \( \text{T} \) sometimes used for deutium and tritium; \( \text{IUPAC } \text{ International Union of Pure and applied Chemistry} \) accepts said symbols, but recommends the standard isotopic symbols \( ^\(2H\) and \(^3H \), to avoid confusion in alphabetical sorting of chemical formulas. [9] \( \text{I}\text{P}\text{U}\text{C}\) (International Union of Pure and Applied Chemistry) \text{ accepts said symbols, but recommends the standard isotopic symbols \( ^\text{D}\) and \(^T\text{S}\text{I}\) \[9\] \( \text{I}\text{P}\text{T}\text{U}\)I\text{\]sometimes used for deutium and tritium) and \( ^\text{D}\text{S}\text{S}\text{I}\) \[9\) \( \text{I}\text{P}\text{T}\text{U}\) usually used for deutium and tritium).
+
+The symbols \( \text{H} \) and \( \text{B} \) are sometimes used for barium and cesium. \( \text{H} \) and \( \text{B} \) are also separated by a comma.
+
+During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.
