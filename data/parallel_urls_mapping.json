@@ -1,0 +1,32 @@
+{
+    "Hydrogen Isotopes": {
+        "en": "https://en.wikipedia.org/wiki/Isotopes_of_hydrogen",
+        "zh_simp": "https://zh.wikipedia.org/wiki/氫的同位素?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/氫的同位素?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/水素の同位体",
+        "ar": "https://ar.wikipedia.org/wiki/نظائر_الهيدروجين",
+        "vi": "https://vi.wikipedia.org/wiki/Đồng_vị_của_hydro"
+    },
+    "Periodic Table": {
+        "en": "https://en.wikipedia.org/wiki/Periodic_table",
+        "zh_simp": "https://zh.wikipedia.org/wiki/元素周期表?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/元素周期表?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/周期表",
+        "ar": "https://ar.wikipedia.org/wiki/الجدول_الدوري",
+        "vi": "https://vi.wikipedia.org/wiki/Bảng_tuần_hoàn"
+    },
+    "History of Printing": {
+        "en": "https://en.wikipedia.org/wiki/History_of_printing",
+        "zh_simp": "https://zh.wikipedia.org/wiki/印刷史?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/印刷史?variant=zh-hant",
+        "ar": "https://ar.wikipedia.org/wiki/تاريخ_الطباعة"
+    },
+    "Artificial Intelligence": {
+        "en": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "zh_simp": "https://zh.wikipedia.org/wiki/人工智能?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/人工智能?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/人工知能",
+        "ar": "https://ar.wikipedia.org/wiki/ذكاء_اصطناعي",
+        "vi": "https://vi.wikipedia.org/wiki/Trí_tuệ_nhân_tạo"
+    }
+}

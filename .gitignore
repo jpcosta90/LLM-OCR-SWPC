@@ -8,3 +8,6 @@ wandb/
 *.bin
 .DS_Store
 paper/
+paper-impossible-triangle/
+.env
+venv_collector
