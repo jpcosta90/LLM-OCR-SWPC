@@ -28,5 +28,197 @@
         "ja": "https://ja.wikipedia.org/wiki/人工知能",
         "ar": "https://ar.wikipedia.org/wiki/ذكاء_اصطناعي",
         "vi": "https://vi.wikipedia.org/wiki/Trí_tuệ_nhân_tạo"
+    },
+    "Earth": {
+        "en": "https://en.wikipedia.org/wiki/Earth",
+        "zh_simp": "https://zh.wikipedia.org/wiki/地球?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/地球?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/地球",
+        "ar": "https://ar.wikipedia.org/wiki/الأرض",
+        "vi": "https://vi.wikipedia.org/wiki/Trái_Đất"
+    },
+    "Sun": {
+        "en": "https://en.wikipedia.org/wiki/Sun",
+        "zh_simp": "https://zh.wikipedia.org/wiki/太阳?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/太阳?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/太陽",
+        "ar": "https://ar.wikipedia.org/wiki/الشمس",
+        "vi": "https://vi.wikipedia.org/wiki/Mặt_Trời"
+    },
+    "Moon": {
+        "en": "https://en.wikipedia.org/wiki/Moon",
+        "zh_simp": "https://zh.wikipedia.org/wiki/月球?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/月球?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/月",
+        "ar": "https://ar.wikipedia.org/wiki/القمر",
+        "vi": "https://vi.wikipedia.org/wiki/Mặt_Trăng"
+    },
+    "Water": {
+        "en": "https://en.wikipedia.org/wiki/Water",
+        "zh_simp": "https://zh.wikipedia.org/wiki/水?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/水?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/水",
+        "ar": "https://ar.wikipedia.org/wiki/ماء",
+        "vi": "https://vi.wikipedia.org/wiki/Nước"
+    },
+    "Oxygen": {
+        "en": "https://en.wikipedia.org/wiki/Oxygen",
+        "zh_simp": "https://zh.wikipedia.org/wiki/氧?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/氧?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/酸素",
+        "ar": "https://ar.wikipedia.org/wiki/أكسجين",
+        "vi": "https://vi.wikipedia.org/wiki/Oxy"
+    },
+    "Gold": {
+        "en": "https://en.wikipedia.org/wiki/Gold",
+        "zh_simp": "https://zh.wikipedia.org/wiki/金?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/金?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/金",
+        "ar": "https://ar.wikipedia.org/wiki/ذهب",
+        "vi": "https://vi.wikipedia.org/wiki/Vàng"
+    },
+    "Iron": {
+        "en": "https://en.wikipedia.org/wiki/Iron",
+        "zh_simp": "https://zh.wikipedia.org/wiki/铁?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/铁?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/鉄",
+        "ar": "https://ar.wikipedia.org/wiki/حديد",
+        "vi": "https://vi.wikipedia.org/wiki/Sắt"
+    },
+    "Mathematics": {
+        "en": "https://en.wikipedia.org/wiki/Mathematics",
+        "zh_simp": "https://zh.wikipedia.org/wiki/数学?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/数学?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/数学",
+        "ar": "https://ar.wikipedia.org/wiki/رياضيات",
+        "vi": "https://vi.wikipedia.org/wiki/Toán_học"
+    },
+    "Physics": {
+        "en": "https://en.wikipedia.org/wiki/Physics",
+        "zh_simp": "https://zh.wikipedia.org/wiki/物理学?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/物理学?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/物理学",
+        "ar": "https://ar.wikipedia.org/wiki/فيزياء",
+        "vi": "https://vi.wikipedia.org/wiki/Vật_lý_học"
+    },
+    "Biology": {
+        "en": "https://en.wikipedia.org/wiki/Biology",
+        "zh_simp": "https://zh.wikipedia.org/wiki/生物学?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/生物学?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/生物学",
+        "ar": "https://ar.wikipedia.org/wiki/علم_الأحياء",
+        "vi": "https://vi.wikipedia.org/wiki/Sinh_học"
+    },
+    "Chemistry": {
+        "en": "https://en.wikipedia.org/wiki/Chemistry",
+        "zh_simp": "https://zh.wikipedia.org/wiki/化學?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/化學?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/化学",
+        "ar": "https://ar.wikipedia.org/wiki/كيمياء",
+        "vi": "https://vi.wikipedia.org/wiki/Hóa_học"
+    },
+    "Internet": {
+        "en": "https://en.wikipedia.org/wiki/Internet",
+        "zh_simp": "https://zh.wikipedia.org/wiki/互联网?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/互联网?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/インターネット",
+        "ar": "https://ar.wikipedia.org/wiki/إنترنت",
+        "vi": "https://vi.wikipedia.org/wiki/Internet"
+    },
+    "Mobile Phone": {
+        "en": "https://en.wikipedia.org/wiki/Mobile_phone",
+        "zh_simp": "https://zh.wikipedia.org/wiki/移动电话?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/移动电话?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/携帯電話",
+        "ar": "https://ar.wikipedia.org/wiki/هاتف_محمول",
+        "vi": "https://vi.wikipedia.org/wiki/Điện_thoại_di_động"
+    },
+    "Electricity": {
+        "en": "https://en.wikipedia.org/wiki/Electricity",
+        "zh_simp": "https://zh.wikipedia.org/wiki/電?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/電?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/電気",
+        "ar": "https://ar.wikipedia.org/wiki/كهرباء",
+        "vi": "https://vi.wikipedia.org/wiki/Điện"
+    },
+    "Paper": {
+        "en": "https://en.wikipedia.org/wiki/Paper",
+        "zh_simp": "https://zh.wikipedia.org/wiki/纸?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/纸?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/紙",
+        "ar": "https://ar.wikipedia.org/wiki/ورق",
+        "vi": "https://vi.wikipedia.org/wiki/Giấy"
+    },
+    "Wheel": {
+        "en": "https://en.wikipedia.org/wiki/Wheel",
+        "zh_simp": "https://zh.wikipedia.org/wiki/輪?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/輪?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/車輪",
+        "ar": "https://ar.wikipedia.org/wiki/عجلة",
+        "vi": "https://vi.wikipedia.org/wiki/Bánh_xe"
+    },
+    "Fire": {
+        "en": "https://en.wikipedia.org/wiki/Fire",
+        "zh_simp": "https://zh.wikipedia.org/wiki/火?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/火?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/火",
+        "ar": "https://ar.wikipedia.org/wiki/نار",
+        "vi": "https://vi.wikipedia.org/wiki/Lửa"
+    },
+    "Agriculture": {
+        "en": "https://en.wikipedia.org/wiki/Agriculture",
+        "zh_simp": "https://zh.wikipedia.org/wiki/农业?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/农业?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/農業",
+        "ar": "https://ar.wikipedia.org/wiki/زراعة",
+        "vi": "https://vi.wikipedia.org/wiki/Nông_nghiệp"
+    },
+    "Democracy": {
+        "en": "https://en.wikipedia.org/wiki/Democracy",
+        "zh_simp": "https://zh.wikipedia.org/wiki/民主?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/民主?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/民主主義",
+        "ar": "https://ar.wikipedia.org/wiki/ديمقراطية",
+        "vi": "https://vi.wikipedia.org/wiki/Dân_chủ"
+    },
+    "Philosophy": {
+        "en": "https://en.wikipedia.org/wiki/Philosophy",
+        "zh_simp": "https://zh.wikipedia.org/wiki/哲学?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/哲学?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/哲学",
+        "ar": "https://ar.wikipedia.org/wiki/فلسفة",
+        "vi": "https://vi.wikipedia.org/wiki/Triết_học"
+    },
+    "Music": {
+        "en": "https://en.wikipedia.org/wiki/Music",
+        "zh_simp": "https://zh.wikipedia.org/wiki/音乐?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/音乐?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/音楽",
+        "ar": "https://ar.wikipedia.org/wiki/موسيقى",
+        "vi": "https://vi.wikipedia.org/wiki/Âm_nhạc"
+    },
+    "Art": {
+        "en": "https://en.wikipedia.org/wiki/Art",
+        "zh_simp": "https://zh.wikipedia.org/wiki/艺术?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/艺术?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/芸術",
+        "ar": "https://ar.wikipedia.org/wiki/فن",
+        "vi": "https://vi.wikipedia.org/wiki/Nghệ_thuật"
+    },
+    "Architecture": {
+        "en": "https://en.wikipedia.org/wiki/Architecture",
+        "zh_simp": "https://zh.wikipedia.org/wiki/建筑学?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/建筑学?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/建築",
+        "ar": "https://ar.wikipedia.org/wiki/عمارة",
+        "vi": "https://vi.wikipedia.org/wiki/Kiến_trúc"
+    },
+    "Computer": {
+        "en": "https://en.wikipedia.org/wiki/Computer",
+        "zh_simp": "https://zh.wikipedia.org/wiki/电子计算机?variant=zh-hans",
+        "zh_trad": "https://zh.wikipedia.org/wiki/电子计算机?variant=zh-hant",
+        "ja": "https://ja.wikipedia.org/wiki/コンピュータ",
+        "ar": "https://ar.wikipedia.org/wiki/حاسوب",
+        "vi": "https://vi.wikipedia.org/wiki/Máy_tính"
     }
 }
