@@ -1,0 +1,1621 @@
+model,filename,language,topic,cer
+qwen3.5_2b,en_agriculture.png,en,Agriculture,0.000723589001447178
+qwen3.5_2b,ar_agriculture.png,ar,Agriculture,1.0
+qwen3.5_2b,ja_agriculture.png,ja,Agriculture,0.0
+qwen3.5_2b,vi_agriculture.png,vi,Agriculture,0.008863819500402902
+qwen3.5_2b,zh_simp_agriculture.png,zh_simp,Agriculture,0.005714285714285714
+qwen3.5_2b,zh_trad_agriculture.png,zh_trad,Agriculture,0.008571428571428572
+qwen3.5_2b,en_architecture.png,en,Architecture,0.008388256440982624
+qwen3.5_2b,ar_architecture.png,ar,Architecture,1.0
+qwen3.5_2b,ja_architecture.png,ja,Architecture,0.024630541871921183
+qwen3.5_2b,vi_architecture.png,vi,Architecture,0.0013605442176870747
+qwen3.5_2b,zh_simp_architecture.png,zh_simp,Architecture,0.02413793103448276
+qwen3.5_2b,zh_trad_architecture.png,zh_trad,Architecture,0.0
+qwen3.5_2b,en_art.png,en,Art,0.0009852216748768472
+qwen3.5_2b,ar_art.png,ar,Art,1.0
+qwen3.5_2b,ja_art.png,ja,Art,0.6760259179265659
+qwen3.5_2b,vi_art.png,vi,Art,0.0012422360248447205
+qwen3.5_2b,zh_simp_art.png,zh_simp,Art,1.0
+qwen3.5_2b,zh_trad_art.png,zh_trad,Art,0.0030959752321981426
+qwen3.5_2b,en_artificial_intelligence.png,en,Artificial Intelligence,0.0012658227848101266
+qwen3.5_2b,ar_artificial_intelligence.png,ar,Artificial Intelligence,1.0
+qwen3.5_2b,ja_artificial_intelligence.png,ja,Artificial Intelligence,1.0
+qwen3.5_2b,vi_artificial_intelligence.png,vi,Artificial Intelligence,1.0
+qwen3.5_2b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.00390625
+qwen3.5_2b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.00390625
+qwen3.5_2b,en_biology.png,en,Biology,0.0007496251874062968
+qwen3.5_2b,ar_biology.png,ar,Biology,1.0
+qwen3.5_2b,ja_biology.png,ja,Biology,1.0
+qwen3.5_2b,vi_biology.png,vi,Biology,0.0027906976744186047
+qwen3.5_2b,zh_simp_biology.png,zh_simp,Biology,0.0014367816091954023
+qwen3.5_2b,zh_trad_biology.png,zh_trad,Biology,0.6149425287356322
+qwen3.5_2b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+qwen3.5_2b,ar_chemistry.png,ar,Chemistry,1.0
+qwen3.5_2b,ja_chemistry.png,ja,Chemistry,1.0
+qwen3.5_2b,vi_chemistry.png,vi,Chemistry,1.0
+qwen3.5_2b,zh_simp_chemistry.png,zh_simp,Chemistry,0.010416666666666666
+qwen3.5_2b,zh_trad_chemistry.png,zh_trad,Chemistry,0.0020833333333333333
+qwen3.5_2b,en_computer.png,en,Computer,0.0010090817356205853
+qwen3.5_2b,ar_computer.png,ar,Computer,1.0
+qwen3.5_2b,ja_computer.png,ja,Computer,1.0
+qwen3.5_2b,vi_computer.png,vi,Computer,0.014588859416445624
+qwen3.5_2b,zh_simp_computer.png,zh_simp,Computer,0.002403846153846154
+qwen3.5_2b,zh_trad_computer.png,zh_trad,Computer,0.002403846153846154
+qwen3.5_2b,en_democracy.png,en,Democracy,0.0010070493454179255
+qwen3.5_2b,ar_democracy.png,ar,Democracy,1.0
+qwen3.5_2b,ja_democracy.png,ja,Democracy,0.023305084745762712
+qwen3.5_2b,vi_democracy.png,vi,Democracy,0.013024602026049204
+qwen3.5_2b,zh_simp_democracy.png,zh_simp,Democracy,0.019639934533551555
+qwen3.5_2b,zh_trad_democracy.png,zh_trad,Democracy,1.0
+qwen3.5_2b,en_earth.png,en,Earth,0.0015060240963855422
+qwen3.5_2b,ar_earth.png,ar,Earth,1.0
+qwen3.5_2b,ja_earth.png,ja,Earth,0.005571030640668524
+qwen3.5_2b,vi_earth.png,vi,Earth,0.0794979079497908
+qwen3.5_2b,zh_simp_earth.png,zh_simp,Earth,0.0011976047904191617
+qwen3.5_2b,zh_trad_earth.png,zh_trad,Earth,1.0
+qwen3.5_2b,en_electricity.png,en,Electricity,0.0012106537530266344
+qwen3.5_2b,ar_electricity.png,ar,Electricity,1.0
+qwen3.5_2b,ja_electricity.png,ja,Electricity,0.03333333333333333
+qwen3.5_2b,vi_electricity.png,vi,Electricity,1.0
+qwen3.5_2b,zh_simp_electricity.png,zh_simp,Electricity,0.00273224043715847
+qwen3.5_2b,zh_trad_electricity.png,zh_trad,Electricity,1.0
+qwen3.5_2b,en_fire.png,en,Fire,0.0013559322033898306
+qwen3.5_2b,ar_fire.png,ar,Fire,1.0
+qwen3.5_2b,ja_fire.png,ja,Fire,0.6729857819905213
+qwen3.5_2b,vi_fire.png,vi,Fire,0.006382978723404255
+qwen3.5_2b,zh_simp_fire.png,zh_simp,Fire,0.006134969325153374
+qwen3.5_2b,zh_trad_fire.png,zh_trad,Fire,0.006134969325153374
+qwen3.5_2b,en_gold.png,en,Gold,0.0033707865168539327
+qwen3.5_2b,ar_gold.png,ar,Gold,1.0
+qwen3.5_2b,ja_gold.png,ja,Gold,0.01910828025477707
+qwen3.5_2b,vi_gold.png,vi,Gold,1.0
+qwen3.5_2b,zh_simp_gold.png,zh_simp,Gold,0.059665871121718374
+qwen3.5_2b,zh_trad_gold.png,zh_trad,Gold,1.0
+qwen3.5_2b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.004932182490752158
+qwen3.5_2b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,1.0
+qwen3.5_2b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.006389776357827476
+qwen3.5_2b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,1.0
+qwen3.5_2b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.003125
+qwen3.5_2b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,1.0
+qwen3.5_2b,en_internet.png,en,Internet,0.0007473841554559044
+qwen3.5_2b,ar_internet.png,ar,Internet,1.0
+qwen3.5_2b,ja_internet.png,ja,Internet,0.046511627906976744
+qwen3.5_2b,vi_internet.png,vi,Internet,0.011695906432748537
+qwen3.5_2b,zh_simp_internet.png,zh_simp,Internet,0.004210526315789474
+qwen3.5_2b,zh_trad_internet.png,zh_trad,Internet,0.0020833333333333333
+qwen3.5_2b,en_iron.png,en,Iron,0.005917159763313609
+qwen3.5_2b,ar_iron.png,ar,Iron,1.0
+qwen3.5_2b,ja_iron.png,ja,Iron,0.004761904761904762
+qwen3.5_2b,vi_iron.png,vi,Iron,1.0
+qwen3.5_2b,zh_simp_iron.png,zh_simp,Iron,0.058355437665782495
+qwen3.5_2b,zh_trad_iron.png,zh_trad,Iron,0.058355437665782495
+qwen3.5_2b,en_mathematics.png,en,Mathematics,0.0017123287671232876
+qwen3.5_2b,ar_mathematics.png,ar,Mathematics,1.0
+qwen3.5_2b,ja_mathematics.png,ja,Mathematics,0.027950310559006212
+qwen3.5_2b,vi_mathematics.png,vi,Mathematics,0.011904761904761904
+qwen3.5_2b,zh_simp_mathematics.png,zh_simp,Mathematics,0.003424657534246575
+qwen3.5_2b,zh_trad_mathematics.png,zh_trad,Mathematics,0.003424657534246575
+qwen3.5_2b,en_mobile_phone.png,en,Mobile Phone,0.0022988505747126436
+qwen3.5_2b,ar_mobile_phone.png,ar,Mobile Phone,1.0
+qwen3.5_2b,ja_mobile_phone.png,ja,Mobile Phone,0.0028169014084507044
+qwen3.5_2b,vi_mobile_phone.png,vi,Mobile Phone,0.026825633383010434
+qwen3.5_2b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.007272727272727273
+qwen3.5_2b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.007272727272727273
+qwen3.5_2b,en_moon.png,en,Moon,0.002891566265060241
+qwen3.5_2b,ar_moon.png,ar,Moon,1.0
+qwen3.5_2b,ja_moon.png,ja,Moon,0.0
+qwen3.5_2b,vi_moon.png,vi,Moon,0.010115606936416185
+qwen3.5_2b,zh_simp_moon.png,zh_simp,Moon,0.0048543689320388345
+qwen3.5_2b,zh_trad_moon.png,zh_trad,Moon,0.009708737864077669
+qwen3.5_2b,en_music.png,en,Music,0.0007251631617113851
+qwen3.5_2b,ar_music.png,ar,Music,1.0
+qwen3.5_2b,ja_music.png,ja,Music,0.012084592145015106
+qwen3.5_2b,vi_music.png,vi,Music,1.0
+qwen3.5_2b,zh_simp_music.png,zh_simp,Music,0.042328042328042326
+qwen3.5_2b,zh_trad_music.png,zh_trad,Music,0.047619047619047616
+qwen3.5_2b,en_oxygen.png,en,Oxygen,0.00247320692497939
+qwen3.5_2b,ar_oxygen.png,ar,Oxygen,1.0
+qwen3.5_2b,ja_oxygen.png,ja,Oxygen,0.028112449799196786
+qwen3.5_2b,vi_oxygen.png,vi,Oxygen,0.008935824532900082
+qwen3.5_2b,zh_simp_oxygen.png,zh_simp,Oxygen,1.0
+qwen3.5_2b,zh_trad_oxygen.png,zh_trad,Oxygen,1.0
+qwen3.5_2b,en_paper.png,en,Paper,0.0012626262626262627
+qwen3.5_2b,ar_paper.png,ar,Paper,1.0
+qwen3.5_2b,ja_paper.png,ja,Paper,0.009966777408637873
+qwen3.5_2b,vi_paper.png,vi,Paper,0.00778816199376947
+qwen3.5_2b,zh_simp_paper.png,zh_simp,Paper,0.011278195488721804
+qwen3.5_2b,zh_trad_paper.png,zh_trad,Paper,0.12030075187969924
+qwen3.5_2b,en_periodic_table.png,en,Periodic Table,0.0011918951132300357
+qwen3.5_2b,ar_periodic_table.png,ar,Periodic Table,1.0
+qwen3.5_2b,ja_periodic_table.png,ja,Periodic Table,0.0041841004184100415
+qwen3.5_2b,vi_periodic_table.png,vi,Periodic Table,0.007819287576020852
+qwen3.5_2b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.004464285714285714
+qwen3.5_2b,zh_trad_periodic_table.png,zh_trad,Periodic Table,1.0
+qwen3.5_2b,en_philosophy.png,en,Philosophy,0.0037071362372567192
+qwen3.5_2b,ar_philosophy.png,ar,Philosophy,1.0
+qwen3.5_2b,ja_philosophy.png,ja,Philosophy,1.0
+qwen3.5_2b,vi_philosophy.png,vi,Philosophy,1.0
+qwen3.5_2b,zh_simp_philosophy.png,zh_simp,Philosophy,0.0038022813688212928
+qwen3.5_2b,zh_trad_philosophy.png,zh_trad,Philosophy,0.019011406844106463
+qwen3.5_2b,en_physics.png,en,Physics,0.0010277492291880781
+qwen3.5_2b,ar_physics.png,ar,Physics,1.0
+qwen3.5_2b,ja_physics.png,ja,Physics,0.022388059701492536
+qwen3.5_2b,vi_physics.png,vi,Physics,0.3617957746478873
+qwen3.5_2b,zh_simp_physics.png,zh_simp,Physics,0.016227180527383367
+qwen3.5_2b,zh_trad_physics.png,zh_trad,Physics,0.006085192697768763
+qwen3.5_2b,en_sun.png,en,Sun,0.009630818619582664
+qwen3.5_2b,ar_sun.png,ar,Sun,1.0
+qwen3.5_2b,ja_sun.png,ja,Sun,0.012944983818770227
+qwen3.5_2b,vi_sun.png,vi,Sun,0.4763205828779599
+qwen3.5_2b,zh_simp_sun.png,zh_simp,Sun,1.0
+qwen3.5_2b,zh_trad_sun.png,zh_trad,Sun,1.0
+qwen3.5_2b,en_water.png,en,Water,0.0008620689655172414
+qwen3.5_2b,ar_water.png,ar,Water,1.0
+qwen3.5_2b,ja_water.png,ja,Water,1.0
+qwen3.5_2b,vi_water.png,vi,Water,0.0017605633802816902
+qwen3.5_2b,zh_simp_water.png,zh_simp,Water,0.025
+qwen3.5_2b,zh_trad_water.png,zh_trad,Water,1.0
+qwen3.5_2b,en_wheel.png,en,Wheel,0.01953125
+qwen3.5_2b,ar_wheel.png,ar,Wheel,1.0
+qwen3.5_2b,ja_wheel.png,ja,Wheel,0.02577319587628866
+qwen3.5_2b,vi_wheel.png,vi,Wheel,0.03549899531145345
+qwen3.5_2b,zh_simp_wheel.png,zh_simp,Wheel,0.005917159763313609
+qwen3.5_2b,zh_trad_wheel.png,zh_trad,Wheel,0.005917159763313609
+blaifa_InternVL3_5_8b,en_agriculture.png,en,Agriculture,0.04630969609261939
+blaifa_InternVL3_5_8b,ar_agriculture.png,ar,Agriculture,0.995768688293371
+blaifa_InternVL3_5_8b,ja_agriculture.png,ja,Agriculture,0.027586206896551724
+blaifa_InternVL3_5_8b,vi_agriculture.png,vi,Agriculture,0.37711522965350525
+blaifa_InternVL3_5_8b,zh_simp_agriculture.png,zh_simp,Agriculture,0.06
+blaifa_InternVL3_5_8b,zh_trad_agriculture.png,zh_trad,Agriculture,0.3342857142857143
+blaifa_InternVL3_5_8b,en_architecture.png,en,Architecture,0.1719592570401438
+blaifa_InternVL3_5_8b,ar_architecture.png,ar,Architecture,1.0
+blaifa_InternVL3_5_8b,ja_architecture.png,ja,Architecture,0.1477832512315271
+blaifa_InternVL3_5_8b,vi_architecture.png,vi,Architecture,0.15918367346938775
+blaifa_InternVL3_5_8b,zh_simp_architecture.png,zh_simp,Architecture,0.04827586206896552
+blaifa_InternVL3_5_8b,zh_trad_architecture.png,zh_trad,Architecture,0.05862068965517241
+blaifa_InternVL3_5_8b,en_art.png,en,Art,0.0009852216748768472
+blaifa_InternVL3_5_8b,ar_art.png,ar,Art,1.0
+blaifa_InternVL3_5_8b,ja_art.png,ja,Art,0.16846652267818574
+blaifa_InternVL3_5_8b,vi_art.png,vi,Art,0.062111801242236024
+blaifa_InternVL3_5_8b,zh_simp_art.png,zh_simp,Art,0.06811145510835913
+blaifa_InternVL3_5_8b,zh_trad_art.png,zh_trad,Art,0.19504643962848298
+blaifa_InternVL3_5_8b,en_artificial_intelligence.png,en,Artificial Intelligence,0.010126582278481013
+blaifa_InternVL3_5_8b,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.9227642276422764
+blaifa_InternVL3_5_8b,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.305982905982906
+blaifa_InternVL3_5_8b,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.32868852459016396
+blaifa_InternVL3_5_8b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.0234375
+blaifa_InternVL3_5_8b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.32421875
+blaifa_InternVL3_5_8b,en_biology.png,en,Biology,0.049475262368815595
+blaifa_InternVL3_5_8b,ar_biology.png,ar,Biology,0.9220588235294118
+blaifa_InternVL3_5_8b,ja_biology.png,ja,Biology,0.048
+blaifa_InternVL3_5_8b,vi_biology.png,vi,Biology,0.4558139534883721
+blaifa_InternVL3_5_8b,zh_simp_biology.png,zh_simp,Biology,0.27298850574712646
+blaifa_InternVL3_5_8b,zh_trad_biology.png,zh_trad,Biology,0.49137931034482757
+blaifa_InternVL3_5_8b,en_chemistry.png,en,Chemistry,0.02099236641221374
+blaifa_InternVL3_5_8b,ar_chemistry.png,ar,Chemistry,0.7786069651741293
+blaifa_InternVL3_5_8b,ja_chemistry.png,ja,Chemistry,0.10364145658263306
+blaifa_InternVL3_5_8b,vi_chemistry.png,vi,Chemistry,0.17585301837270342
+blaifa_InternVL3_5_8b,zh_simp_chemistry.png,zh_simp,Chemistry,0.16458333333333333
+blaifa_InternVL3_5_8b,zh_trad_chemistry.png,zh_trad,Chemistry,0.4708333333333333
+blaifa_InternVL3_5_8b,en_computer.png,en,Computer,0.029263370332996974
+blaifa_InternVL3_5_8b,ar_computer.png,ar,Computer,0.7286374133949192
+blaifa_InternVL3_5_8b,ja_computer.png,ja,Computer,0.06666666666666667
+blaifa_InternVL3_5_8b,vi_computer.png,vi,Computer,0.15782493368700265
+blaifa_InternVL3_5_8b,zh_simp_computer.png,zh_simp,Computer,0.052884615384615384
+blaifa_InternVL3_5_8b,zh_trad_computer.png,zh_trad,Computer,0.3894230769230769
+blaifa_InternVL3_5_8b,en_democracy.png,en,Democracy,0.0010070493454179255
+blaifa_InternVL3_5_8b,ar_democracy.png,ar,Democracy,1.0
+blaifa_InternVL3_5_8b,ja_democracy.png,ja,Democracy,0.1694915254237288
+blaifa_InternVL3_5_8b,vi_democracy.png,vi,Democracy,1.0
+blaifa_InternVL3_5_8b,zh_simp_democracy.png,zh_simp,Democracy,0.3027823240589198
+blaifa_InternVL3_5_8b,zh_trad_democracy.png,zh_trad,Democracy,0.29296235679214405
+blaifa_InternVL3_5_8b,en_earth.png,en,Earth,0.4603413654618474
+blaifa_InternVL3_5_8b,ar_earth.png,ar,Earth,0.8390804597701149
+blaifa_InternVL3_5_8b,ja_earth.png,ja,Earth,0.06963788300835655
+blaifa_InternVL3_5_8b,vi_earth.png,vi,Earth,1.0
+blaifa_InternVL3_5_8b,zh_simp_earth.png,zh_simp,Earth,0.6850299401197605
+blaifa_InternVL3_5_8b,zh_trad_earth.png,zh_trad,Earth,0.8610778443113772
+blaifa_InternVL3_5_8b,en_electricity.png,en,Electricity,0.0012106537530266344
+blaifa_InternVL3_5_8b,ar_electricity.png,ar,Electricity,1.0
+blaifa_InternVL3_5_8b,ja_electricity.png,ja,Electricity,0.15333333333333332
+blaifa_InternVL3_5_8b,vi_electricity.png,vi,Electricity,0.25
+blaifa_InternVL3_5_8b,zh_simp_electricity.png,zh_simp,Electricity,0.05737704918032787
+blaifa_InternVL3_5_8b,zh_trad_electricity.png,zh_trad,Electricity,0.26229508196721313
+blaifa_InternVL3_5_8b,en_fire.png,en,Fire,0.1111864406779661
+blaifa_InternVL3_5_8b,ar_fire.png,ar,Fire,0.7923433874709976
+blaifa_InternVL3_5_8b,ja_fire.png,ja,Fire,0.061611374407582936
+blaifa_InternVL3_5_8b,vi_fire.png,vi,Fire,0.15531914893617021
+blaifa_InternVL3_5_8b,zh_simp_fire.png,zh_simp,Fire,0.03680981595092025
+blaifa_InternVL3_5_8b,zh_trad_fire.png,zh_trad,Fire,0.006134969325153374
+blaifa_InternVL3_5_8b,en_gold.png,en,Gold,0.07528089887640449
+blaifa_InternVL3_5_8b,ar_gold.png,ar,Gold,1.0
+blaifa_InternVL3_5_8b,ja_gold.png,ja,Gold,0.17834394904458598
+blaifa_InternVL3_5_8b,vi_gold.png,vi,Gold,0.6133682830930537
+blaifa_InternVL3_5_8b,zh_simp_gold.png,zh_simp,Gold,0.13126491646778043
+blaifa_InternVL3_5_8b,zh_trad_gold.png,zh_trad,Gold,0.48687350835322196
+blaifa_InternVL3_5_8b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.014796547472256474
+blaifa_InternVL3_5_8b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,0.8740157480314961
+blaifa_InternVL3_5_8b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.36421725239616615
+blaifa_InternVL3_5_8b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.3420038535645472
+blaifa_InternVL3_5_8b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.075
+blaifa_InternVL3_5_8b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.08125
+blaifa_InternVL3_5_8b,en_internet.png,en,Internet,0.1591928251121076
+blaifa_InternVL3_5_8b,ar_internet.png,ar,Internet,1.0
+blaifa_InternVL3_5_8b,ja_internet.png,ja,Internet,0.03255813953488372
+blaifa_InternVL3_5_8b,vi_internet.png,vi,Internet,0.1543859649122807
+blaifa_InternVL3_5_8b,zh_simp_internet.png,zh_simp,Internet,0.10105263157894737
+blaifa_InternVL3_5_8b,zh_trad_internet.png,zh_trad,Internet,0.36666666666666664
+blaifa_InternVL3_5_8b,en_iron.png,en,Iron,0.04311073541842773
+blaifa_InternVL3_5_8b,ar_iron.png,ar,Iron,1.0
+blaifa_InternVL3_5_8b,ja_iron.png,ja,Iron,0.05238095238095238
+blaifa_InternVL3_5_8b,vi_iron.png,vi,Iron,0.13191990577149587
+blaifa_InternVL3_5_8b,zh_simp_iron.png,zh_simp,Iron,0.13793103448275862
+blaifa_InternVL3_5_8b,zh_trad_iron.png,zh_trad,Iron,0.16180371352785147
+blaifa_InternVL3_5_8b,en_mathematics.png,en,Mathematics,0.06078767123287671
+blaifa_InternVL3_5_8b,ar_mathematics.png,ar,Mathematics,0.8958051420838972
+blaifa_InternVL3_5_8b,ja_mathematics.png,ja,Mathematics,0.11801242236024845
+blaifa_InternVL3_5_8b,vi_mathematics.png,vi,Mathematics,0.3507326007326007
+blaifa_InternVL3_5_8b,zh_simp_mathematics.png,zh_simp,Mathematics,0.07534246575342465
+blaifa_InternVL3_5_8b,zh_trad_mathematics.png,zh_trad,Mathematics,0.0684931506849315
+blaifa_InternVL3_5_8b,en_mobile_phone.png,en,Mobile Phone,0.05517241379310345
+blaifa_InternVL3_5_8b,ar_mobile_phone.png,ar,Mobile Phone,0.964769647696477
+blaifa_InternVL3_5_8b,ja_mobile_phone.png,ja,Mobile Phone,0.061971830985915494
+blaifa_InternVL3_5_8b,vi_mobile_phone.png,vi,Mobile Phone,0.9100844510680576
+blaifa_InternVL3_5_8b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.04363636363636364
+blaifa_InternVL3_5_8b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.05090909090909091
+blaifa_InternVL3_5_8b,en_moon.png,en,Moon,0.5132530120481927
+blaifa_InternVL3_5_8b,ar_moon.png,ar,Moon,0.9399488926746167
+blaifa_InternVL3_5_8b,ja_moon.png,ja,Moon,0.03067484662576687
+blaifa_InternVL3_5_8b,vi_moon.png,vi,Moon,0.11271676300578035
+blaifa_InternVL3_5_8b,zh_simp_moon.png,zh_simp,Moon,0.05339805825242718
+blaifa_InternVL3_5_8b,zh_trad_moon.png,zh_trad,Moon,0.2766990291262136
+blaifa_InternVL3_5_8b,en_music.png,en,Music,0.15953589557650472
+blaifa_InternVL3_5_8b,ar_music.png,ar,Music,1.0
+blaifa_InternVL3_5_8b,ja_music.png,ja,Music,0.10574018126888217
+blaifa_InternVL3_5_8b,vi_music.png,vi,Music,0.7375
+blaifa_InternVL3_5_8b,zh_simp_music.png,zh_simp,Music,0.037037037037037035
+blaifa_InternVL3_5_8b,zh_trad_music.png,zh_trad,Music,0.06878306878306878
+blaifa_InternVL3_5_8b,en_oxygen.png,en,Oxygen,0.03709810387469085
+blaifa_InternVL3_5_8b,ar_oxygen.png,ar,Oxygen,0.9296435272045028
+blaifa_InternVL3_5_8b,ja_oxygen.png,ja,Oxygen,0.08433734939759036
+blaifa_InternVL3_5_8b,vi_oxygen.png,vi,Oxygen,1.0
+blaifa_InternVL3_5_8b,zh_simp_oxygen.png,zh_simp,Oxygen,0.4818976279650437
+blaifa_InternVL3_5_8b,zh_trad_oxygen.png,zh_trad,Oxygen,0.49563046192259674
+blaifa_InternVL3_5_8b,en_paper.png,en,Paper,0.003787878787878788
+blaifa_InternVL3_5_8b,ar_paper.png,ar,Paper,0.998719590268886
+blaifa_InternVL3_5_8b,ja_paper.png,ja,Paper,0.13953488372093023
+blaifa_InternVL3_5_8b,vi_paper.png,vi,Paper,0.5521806853582555
+blaifa_InternVL3_5_8b,zh_simp_paper.png,zh_simp,Paper,0.07518796992481203
+blaifa_InternVL3_5_8b,zh_trad_paper.png,zh_trad,Paper,0.38345864661654133
+blaifa_InternVL3_5_8b,en_periodic_table.png,en,Periodic Table,0.08820023837902265
+blaifa_InternVL3_5_8b,ar_periodic_table.png,ar,Periodic Table,1.0
+blaifa_InternVL3_5_8b,ja_periodic_table.png,ja,Periodic Table,0.06276150627615062
+blaifa_InternVL3_5_8b,vi_periodic_table.png,vi,Periodic Table,0.2154648132059079
+blaifa_InternVL3_5_8b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.0625
+blaifa_InternVL3_5_8b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.27901785714285715
+blaifa_InternVL3_5_8b,en_philosophy.png,en,Philosophy,0.019462465245597776
+blaifa_InternVL3_5_8b,ar_philosophy.png,ar,Philosophy,0.8521183053557154
+blaifa_InternVL3_5_8b,ja_philosophy.png,ja,Philosophy,1.0
+blaifa_InternVL3_5_8b,vi_philosophy.png,vi,Philosophy,0.28833792470156105
+blaifa_InternVL3_5_8b,zh_simp_philosophy.png,zh_simp,Philosophy,0.034220532319391636
+blaifa_InternVL3_5_8b,zh_trad_philosophy.png,zh_trad,Philosophy,0.3193916349809886
+blaifa_InternVL3_5_8b,en_physics.png,en,Physics,0.0010277492291880781
+blaifa_InternVL3_5_8b,ar_physics.png,ar,Physics,0.7782026768642447
+blaifa_InternVL3_5_8b,ja_physics.png,ja,Physics,0.08208955223880597
+blaifa_InternVL3_5_8b,vi_physics.png,vi,Physics,0.3512323943661972
+blaifa_InternVL3_5_8b,zh_simp_physics.png,zh_simp,Physics,0.21906693711967545
+blaifa_InternVL3_5_8b,zh_trad_physics.png,zh_trad,Physics,0.49290060851926976
+blaifa_InternVL3_5_8b,en_sun.png,en,Sun,0.09791332263242375
+blaifa_InternVL3_5_8b,ar_sun.png,ar,Sun,0.9075907590759076
+blaifa_InternVL3_5_8b,ja_sun.png,ja,Sun,0.07119741100323625
+blaifa_InternVL3_5_8b,vi_sun.png,vi,Sun,1.0
+blaifa_InternVL3_5_8b,zh_simp_sun.png,zh_simp,Sun,0.07207207207207207
+blaifa_InternVL3_5_8b,zh_trad_sun.png,zh_trad,Sun,0.25675675675675674
+blaifa_InternVL3_5_8b,en_water.png,en,Water,0.025
+blaifa_InternVL3_5_8b,ar_water.png,ar,Water,1.0
+blaifa_InternVL3_5_8b,ja_water.png,ja,Water,0.045
+blaifa_InternVL3_5_8b,vi_water.png,vi,Water,0.13732394366197184
+blaifa_InternVL3_5_8b,zh_simp_water.png,zh_simp,Water,0.1025
+blaifa_InternVL3_5_8b,zh_trad_water.png,zh_trad,Water,0.1275
+blaifa_InternVL3_5_8b,en_wheel.png,en,Wheel,0.00390625
+blaifa_InternVL3_5_8b,ar_wheel.png,ar,Wheel,1.0
+blaifa_InternVL3_5_8b,ja_wheel.png,ja,Wheel,0.06701030927835051
+blaifa_InternVL3_5_8b,vi_wheel.png,vi,Wheel,1.0
+blaifa_InternVL3_5_8b,zh_simp_wheel.png,zh_simp,Wheel,0.0650887573964497
+blaifa_InternVL3_5_8b,zh_trad_wheel.png,zh_trad,Wheel,0.3727810650887574
+gemma4_e4b,en_agriculture.png,en,Agriculture,0.004341534008683068
+gemma4_e4b,ar_agriculture.png,ar,Agriculture,0.10437235543018336
+gemma4_e4b,ja_agriculture.png,ja,Agriculture,0.05517241379310345
+gemma4_e4b,vi_agriculture.png,vi,Agriculture,0.017727639000805803
+gemma4_e4b,zh_simp_agriculture.png,zh_simp,Agriculture,0.037142857142857144
+gemma4_e4b,zh_trad_agriculture.png,zh_trad,Agriculture,0.04857142857142857
+gemma4_e4b,en_architecture.png,en,Architecture,0.0689035350509287
+gemma4_e4b,ar_architecture.png,ar,Architecture,0.061394380853277836
+gemma4_e4b,ja_architecture.png,ja,Architecture,0.024630541871921183
+gemma4_e4b,vi_architecture.png,vi,Architecture,0.014965986394557823
+gemma4_e4b,zh_simp_architecture.png,zh_simp,Architecture,0.020689655172413793
+gemma4_e4b,zh_trad_architecture.png,zh_trad,Architecture,0.020689655172413793
+gemma4_e4b,en_art.png,en,Art,0.002955665024630542
+gemma4_e4b,ar_art.png,ar,Art,0.041928721174004195
+gemma4_e4b,ja_art.png,ja,Art,0.13822894168466524
+gemma4_e4b,vi_art.png,vi,Art,0.016149068322981366
+gemma4_e4b,zh_simp_art.png,zh_simp,Art,0.07739938080495357
+gemma4_e4b,zh_trad_art.png,zh_trad,Art,0.14860681114551083
+gemma4_e4b,en_artificial_intelligence.png,en,Artificial Intelligence,0.0037974683544303796
+gemma4_e4b,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.2073170731707317
+gemma4_e4b,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.20512820512820512
+gemma4_e4b,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.009836065573770493
+gemma4_e4b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.0234375
+gemma4_e4b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.01953125
+gemma4_e4b,en_biology.png,en,Biology,0.0007496251874062968
+gemma4_e4b,ar_biology.png,ar,Biology,0.14926470588235294
+gemma4_e4b,ja_biology.png,ja,Biology,0.032
+gemma4_e4b,vi_biology.png,vi,Biology,0.021395348837209303
+gemma4_e4b,zh_simp_biology.png,zh_simp,Biology,0.3146551724137931
+gemma4_e4b,zh_trad_biology.png,zh_trad,Biology,0.4454022988505747
+gemma4_e4b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+gemma4_e4b,ar_chemistry.png,ar,Chemistry,0.11194029850746269
+gemma4_e4b,ja_chemistry.png,ja,Chemistry,0.07563025210084033
+gemma4_e4b,vi_chemistry.png,vi,Chemistry,0.0026246719160104987
+gemma4_e4b,zh_simp_chemistry.png,zh_simp,Chemistry,0.05416666666666667
+gemma4_e4b,zh_trad_chemistry.png,zh_trad,Chemistry,0.058333333333333334
+gemma4_e4b,en_computer.png,en,Computer,0.0020181634712411706
+gemma4_e4b,ar_computer.png,ar,Computer,0.10277136258660508
+gemma4_e4b,ja_computer.png,ja,Computer,0.007407407407407408
+gemma4_e4b,vi_computer.png,vi,Computer,0.017241379310344827
+gemma4_e4b,zh_simp_computer.png,zh_simp,Computer,0.09615384615384616
+gemma4_e4b,zh_trad_computer.png,zh_trad,Computer,0.0985576923076923
+gemma4_e4b,en_democracy.png,en,Democracy,0.014098690835850957
+gemma4_e4b,ar_democracy.png,ar,Democracy,0.4554016620498615
+gemma4_e4b,ja_democracy.png,ja,Democracy,0.08050847457627118
+gemma4_e4b,vi_democracy.png,vi,Democracy,0.09117221418234443
+gemma4_e4b,zh_simp_democracy.png,zh_simp,Democracy,0.10638297872340426
+gemma4_e4b,zh_trad_democracy.png,zh_trad,Democracy,0.2078559738134206
+gemma4_e4b,en_earth.png,en,Earth,0.0050200803212851405
+gemma4_e4b,ar_earth.png,ar,Earth,0.21839080459770116
+gemma4_e4b,ja_earth.png,ja,Earth,0.04178272980501393
+gemma4_e4b,vi_earth.png,vi,Earth,0.04184100418410042
+gemma4_e4b,zh_simp_earth.png,zh_simp,Earth,1.0
+gemma4_e4b,zh_trad_earth.png,zh_trad,Earth,0.3904191616766467
+gemma4_e4b,en_electricity.png,en,Electricity,0.013317191283292978
+gemma4_e4b,ar_electricity.png,ar,Electricity,0.08149779735682819
+gemma4_e4b,ja_electricity.png,ja,Electricity,0.05333333333333334
+gemma4_e4b,vi_electricity.png,vi,Electricity,0.016927083333333332
+gemma4_e4b,zh_simp_electricity.png,zh_simp,Electricity,0.05191256830601093
+gemma4_e4b,zh_trad_electricity.png,zh_trad,Electricity,0.06557377049180328
+gemma4_e4b,en_fire.png,en,Fire,0.0013559322033898306
+gemma4_e4b,ar_fire.png,ar,Fire,0.11136890951276102
+gemma4_e4b,ja_fire.png,ja,Fire,0.023696682464454975
+gemma4_e4b,vi_fire.png,vi,Fire,0.02872340425531915
+gemma4_e4b,zh_simp_fire.png,zh_simp,Fire,0.024539877300613498
+gemma4_e4b,zh_trad_fire.png,zh_trad,Fire,0.012269938650306749
+gemma4_e4b,en_gold.png,en,Gold,0.0011235955056179776
+gemma4_e4b,ar_gold.png,ar,Gold,0.12655086848635236
+gemma4_e4b,ja_gold.png,ja,Gold,0.050955414012738856
+gemma4_e4b,vi_gold.png,vi,Gold,0.03473132372214941
+gemma4_e4b,zh_simp_gold.png,zh_simp,Gold,0.11455847255369929
+gemma4_e4b,zh_trad_gold.png,zh_trad,Gold,0.1766109785202864
+gemma4_e4b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.16769420468557336
+gemma4_e4b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,0.2929133858267717
+gemma4_e4b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.025559105431309903
+gemma4_e4b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.007707129094412331
+gemma4_e4b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.315625
+gemma4_e4b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.090625
+gemma4_e4b,en_internet.png,en,Internet,0.007473841554559043
+gemma4_e4b,ar_internet.png,ar,Internet,0.36615935541629363
+gemma4_e4b,ja_internet.png,ja,Internet,0.013953488372093023
+gemma4_e4b,vi_internet.png,vi,Internet,0.03625730994152047
+gemma4_e4b,zh_simp_internet.png,zh_simp,Internet,0.12421052631578948
+gemma4_e4b,zh_trad_internet.png,zh_trad,Internet,0.11041666666666666
+gemma4_e4b,en_iron.png,en,Iron,0.005917159763313609
+gemma4_e4b,ar_iron.png,ar,Iron,0.2838813151563753
+gemma4_e4b,ja_iron.png,ja,Iron,0.04285714285714286
+gemma4_e4b,vi_iron.png,vi,Iron,0.04711425206124853
+gemma4_e4b,zh_simp_iron.png,zh_simp,Iron,0.07692307692307693
+gemma4_e4b,zh_trad_iron.png,zh_trad,Iron,0.07427055702917772
+gemma4_e4b,en_mathematics.png,en,Mathematics,0.01113013698630137
+gemma4_e4b,ar_mathematics.png,ar,Mathematics,0.14208389715832206
+gemma4_e4b,ja_mathematics.png,ja,Mathematics,0.021739130434782608
+gemma4_e4b,vi_mathematics.png,vi,Mathematics,0.010073260073260074
+gemma4_e4b,zh_simp_mathematics.png,zh_simp,Mathematics,0.0410958904109589
+gemma4_e4b,zh_trad_mathematics.png,zh_trad,Mathematics,1.0
+gemma4_e4b,en_mobile_phone.png,en,Mobile Phone,0.0022988505747126436
+gemma4_e4b,ar_mobile_phone.png,ar,Mobile Phone,0.14498644986449866
+gemma4_e4b,ja_mobile_phone.png,ja,Mobile Phone,0.07042253521126761
+gemma4_e4b,vi_mobile_phone.png,vi,Mobile Phone,0.05663189269746647
+gemma4_e4b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.07636363636363637
+gemma4_e4b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.08363636363636363
+gemma4_e4b,en_moon.png,en,Moon,0.006746987951807229
+gemma4_e4b,ar_moon.png,ar,Moon,0.44846678023850084
+gemma4_e4b,ja_moon.png,ja,Moon,0.0736196319018405
+gemma4_e4b,vi_moon.png,vi,Moon,0.001445086705202312
+gemma4_e4b,zh_simp_moon.png,zh_simp,Moon,0.02912621359223301
+gemma4_e4b,zh_trad_moon.png,zh_trad,Moon,0.024271844660194174
+gemma4_e4b,en_music.png,en,Music,0.0007251631617113851
+gemma4_e4b,ar_music.png,ar,Music,0.17543859649122806
+gemma4_e4b,ja_music.png,ja,Music,0.045317220543806644
+gemma4_e4b,vi_music.png,vi,Music,0.02638888888888889
+gemma4_e4b,zh_simp_music.png,zh_simp,Music,0.09523809523809523
+gemma4_e4b,zh_trad_music.png,zh_trad,Music,0.10052910052910052
+gemma4_e4b,en_oxygen.png,en,Oxygen,0.016488046166529265
+gemma4_e4b,ar_oxygen.png,ar,Oxygen,0.7392120075046904
+gemma4_e4b,ja_oxygen.png,ja,Oxygen,0.020080321285140562
+gemma4_e4b,vi_oxygen.png,vi,Oxygen,0.03168155970755483
+gemma4_e4b,zh_simp_oxygen.png,zh_simp,Oxygen,0.23345817727840198
+gemma4_e4b,zh_trad_oxygen.png,zh_trad,Oxygen,0.66167290886392
+gemma4_e4b,en_paper.png,en,Paper,0.012626262626262626
+gemma4_e4b,ar_paper.png,ar,Paper,0.034571062740076826
+gemma4_e4b,ja_paper.png,ja,Paper,0.036544850498338874
+gemma4_e4b,vi_paper.png,vi,Paper,0.024922118380062305
+gemma4_e4b,zh_simp_paper.png,zh_simp,Paper,0.23308270676691728
+gemma4_e4b,zh_trad_paper.png,zh_trad,Paper,0.37593984962406013
+gemma4_e4b,en_periodic_table.png,en,Periodic Table,0.0011918951132300357
+gemma4_e4b,ar_periodic_table.png,ar,Periodic Table,1.0
+gemma4_e4b,ja_periodic_table.png,ja,Periodic Table,0.04602510460251046
+gemma4_e4b,vi_periodic_table.png,vi,Periodic Table,0.010425716768027803
+gemma4_e4b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.03571428571428571
+gemma4_e4b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.05357142857142857
+gemma4_e4b,en_philosophy.png,en,Philosophy,0.0037071362372567192
+gemma4_e4b,ar_philosophy.png,ar,Philosophy,0.19344524380495604
+gemma4_e4b,ja_philosophy.png,ja,Philosophy,0.10260115606936417
+gemma4_e4b,vi_philosophy.png,vi,Philosophy,0.13590449954086317
+gemma4_e4b,zh_simp_philosophy.png,zh_simp,Philosophy,0.049429657794676805
+gemma4_e4b,zh_trad_philosophy.png,zh_trad,Philosophy,0.33079847908745247
+gemma4_e4b,en_physics.png,en,Physics,0.0
+gemma4_e4b,ar_physics.png,ar,Physics,0.21032504780114722
+gemma4_e4b,ja_physics.png,ja,Physics,0.05223880597014925
+gemma4_e4b,vi_physics.png,vi,Physics,0.040492957746478875
+gemma4_e4b,zh_simp_physics.png,zh_simp,Physics,0.6064908722109533
+gemma4_e4b,zh_trad_physics.png,zh_trad,Physics,1.0
+gemma4_e4b,en_sun.png,en,Sun,0.008025682182985553
+gemma4_e4b,ar_sun.png,ar,Sun,0.057755775577557754
+gemma4_e4b,ja_sun.png,ja,Sun,0.08414239482200647
+gemma4_e4b,vi_sun.png,vi,Sun,0.42896174863387976
+gemma4_e4b,zh_simp_sun.png,zh_simp,Sun,0.04504504504504504
+gemma4_e4b,zh_trad_sun.png,zh_trad,Sun,0.036036036036036036
+gemma4_e4b,en_water.png,en,Water,0.0017241379310344827
+gemma4_e4b,ar_water.png,ar,Water,0.11252268602540835
+gemma4_e4b,ja_water.png,ja,Water,0.065
+gemma4_e4b,vi_water.png,vi,Water,0.0035211267605633804
+gemma4_e4b,zh_simp_water.png,zh_simp,Water,0.0675
+gemma4_e4b,zh_trad_water.png,zh_trad,Water,0.08
+gemma4_e4b,en_wheel.png,en,Wheel,0.0013020833333333333
+gemma4_e4b,ar_wheel.png,ar,Wheel,0.024965325936199722
+gemma4_e4b,ja_wheel.png,ja,Wheel,0.03608247422680412
+gemma4_e4b,vi_wheel.png,vi,Wheel,0.03750837240455459
+gemma4_e4b,zh_simp_wheel.png,zh_simp,Wheel,0.05325443786982249
+gemma4_e4b,zh_trad_wheel.png,zh_trad,Wheel,0.04142011834319527
+ministral-3_8b,en_agriculture.png,en,Agriculture,0.000723589001447178
+ministral-3_8b,ar_agriculture.png,ar,Agriculture,0.08039492242595205
+ministral-3_8b,ja_agriculture.png,ja,Agriculture,0.013793103448275862
+ministral-3_8b,vi_agriculture.png,vi,Agriculture,0.023368251410153102
+ministral-3_8b,zh_simp_agriculture.png,zh_simp,Agriculture,0.014285714285714285
+ministral-3_8b,zh_trad_agriculture.png,zh_trad,Agriculture,0.011428571428571429
+ministral-3_8b,en_architecture.png,en,Architecture,0.011983223487118035
+ministral-3_8b,ar_architecture.png,ar,Architecture,0.05827263267429761
+ministral-3_8b,ja_architecture.png,ja,Architecture,0.009852216748768473
+ministral-3_8b,vi_architecture.png,vi,Architecture,0.00816326530612245
+ministral-3_8b,zh_simp_architecture.png,zh_simp,Architecture,0.010344827586206896
+ministral-3_8b,zh_trad_architecture.png,zh_trad,Architecture,0.017241379310344827
+ministral-3_8b,en_art.png,en,Art,0.0009852216748768472
+ministral-3_8b,ar_art.png,ar,Art,0.03563941299790356
+ministral-3_8b,ja_art.png,ja,Art,0.08423326133909287
+ministral-3_8b,vi_art.png,vi,Art,0.002484472049689441
+ministral-3_8b,zh_simp_art.png,zh_simp,Art,0.006191950464396285
+ministral-3_8b,zh_trad_art.png,zh_trad,Art,0.015479876160990712
+ministral-3_8b,en_artificial_intelligence.png,en,Artificial Intelligence,0.0012658227848101266
+ministral-3_8b,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.10975609756097561
+ministral-3_8b,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.006837606837606838
+ministral-3_8b,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.014754098360655738
+ministral-3_8b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.01171875
+ministral-3_8b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.00390625
+ministral-3_8b,en_biology.png,en,Biology,0.0007496251874062968
+ministral-3_8b,ar_biology.png,ar,Biology,0.0661764705882353
+ministral-3_8b,ja_biology.png,ja,Biology,0.008
+ministral-3_8b,vi_biology.png,vi,Biology,0.022325581395348838
+ministral-3_8b,zh_simp_biology.png,zh_simp,Biology,0.021551724137931036
+ministral-3_8b,zh_trad_biology.png,zh_trad,Biology,0.020114942528735632
+ministral-3_8b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+ministral-3_8b,ar_chemistry.png,ar,Chemistry,0.08333333333333333
+ministral-3_8b,ja_chemistry.png,ja,Chemistry,0.05042016806722689
+ministral-3_8b,vi_chemistry.png,vi,Chemistry,0.015748031496062992
+ministral-3_8b,zh_simp_chemistry.png,zh_simp,Chemistry,0.008333333333333333
+ministral-3_8b,zh_trad_chemistry.png,zh_trad,Chemistry,0.03125
+ministral-3_8b,en_computer.png,en,Computer,0.009081735620585268
+ministral-3_8b,ar_computer.png,ar,Computer,0.10277136258660508
+ministral-3_8b,ja_computer.png,ja,Computer,0.007407407407407408
+ministral-3_8b,vi_computer.png,vi,Computer,0.003978779840848806
+ministral-3_8b,zh_simp_computer.png,zh_simp,Computer,0.009615384615384616
+ministral-3_8b,zh_trad_computer.png,zh_trad,Computer,0.004807692307692308
+ministral-3_8b,en_democracy.png,en,Democracy,0.0010070493454179255
+ministral-3_8b,ar_democracy.png,ar,Democracy,0.14293628808864267
+ministral-3_8b,ja_democracy.png,ja,Democracy,0.01059322033898305
+ministral-3_8b,vi_democracy.png,vi,Democracy,0.049927641099855286
+ministral-3_8b,zh_simp_democracy.png,zh_simp,Democracy,0.027823240589198037
+ministral-3_8b,zh_trad_democracy.png,zh_trad,Democracy,0.022913256955810146
+ministral-3_8b,en_earth.png,en,Earth,0.002008032128514056
+ministral-3_8b,ar_earth.png,ar,Earth,0.04597701149425287
+ministral-3_8b,ja_earth.png,ja,Earth,0.016713091922005572
+ministral-3_8b,vi_earth.png,vi,Earth,0.0198744769874477
+ministral-3_8b,zh_simp_earth.png,zh_simp,Earth,0.008383233532934131
+ministral-3_8b,zh_trad_earth.png,zh_trad,Earth,0.011976047904191617
+ministral-3_8b,en_electricity.png,en,Electricity,0.0012106537530266344
+ministral-3_8b,ar_electricity.png,ar,Electricity,0.04405286343612335
+ministral-3_8b,ja_electricity.png,ja,Electricity,0.02666666666666667
+ministral-3_8b,vi_electricity.png,vi,Electricity,0.005208333333333333
+ministral-3_8b,zh_simp_electricity.png,zh_simp,Electricity,0.01366120218579235
+ministral-3_8b,zh_trad_electricity.png,zh_trad,Electricity,0.00546448087431694
+ministral-3_8b,en_fire.png,en,Fire,0.0013559322033898306
+ministral-3_8b,ar_fire.png,ar,Fire,0.03596287703016241
+ministral-3_8b,ja_fire.png,ja,Fire,0.004739336492890996
+ministral-3_8b,vi_fire.png,vi,Fire,0.007446808510638298
+ministral-3_8b,zh_simp_fire.png,zh_simp,Fire,0.024539877300613498
+ministral-3_8b,zh_trad_fire.png,zh_trad,Fire,0.018404907975460124
+ministral-3_8b,en_gold.png,en,Gold,0.007865168539325843
+ministral-3_8b,ar_gold.png,ar,Gold,0.13027295285359802
+ministral-3_8b,ja_gold.png,ja,Gold,0.01910828025477707
+ministral-3_8b,vi_gold.png,vi,Gold,0.02162516382699869
+ministral-3_8b,zh_simp_gold.png,zh_simp,Gold,0.06921241050119331
+ministral-3_8b,zh_trad_gold.png,zh_trad,Gold,0.06443914081145585
+ministral-3_8b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.011097410604192354
+ministral-3_8b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,0.30708661417322836
+ministral-3_8b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.022364217252396165
+ministral-3_8b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.0019267822736030828
+ministral-3_8b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.0125
+ministral-3_8b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.01875
+ministral-3_8b,en_internet.png,en,Internet,0.0007473841554559044
+ministral-3_8b,ar_internet.png,ar,Internet,0.05640107430617726
+ministral-3_8b,ja_internet.png,ja,Internet,0.037209302325581395
+ministral-3_8b,vi_internet.png,vi,Internet,0.008187134502923977
+ministral-3_8b,zh_simp_internet.png,zh_simp,Internet,0.004210526315789474
+ministral-3_8b,zh_trad_internet.png,zh_trad,Internet,0.0020833333333333333
+ministral-3_8b,en_iron.png,en,Iron,0.01014370245139476
+ministral-3_8b,ar_iron.png,ar,Iron,0.09783480352846832
+ministral-3_8b,ja_iron.png,ja,Iron,0.01904761904761905
+ministral-3_8b,vi_iron.png,vi,Iron,0.024734982332155476
+ministral-3_8b,zh_simp_iron.png,zh_simp,Iron,0.06631299734748011
+ministral-3_8b,zh_trad_iron.png,zh_trad,Iron,0.0636604774535809
+ministral-3_8b,en_mathematics.png,en,Mathematics,0.0017123287671232876
+ministral-3_8b,ar_mathematics.png,ar,Mathematics,0.07983761840324763
+ministral-3_8b,ja_mathematics.png,ja,Mathematics,0.015527950310559006
+ministral-3_8b,vi_mathematics.png,vi,Mathematics,0.00641025641025641
+ministral-3_8b,zh_simp_mathematics.png,zh_simp,Mathematics,0.00684931506849315
+ministral-3_8b,zh_trad_mathematics.png,zh_trad,Mathematics,0.00684931506849315
+ministral-3_8b,en_mobile_phone.png,en,Mobile Phone,0.0022988505747126436
+ministral-3_8b,ar_mobile_phone.png,ar,Mobile Phone,0.0948509485094851
+ministral-3_8b,ja_mobile_phone.png,ja,Mobile Phone,0.008450704225352112
+ministral-3_8b,vi_mobile_phone.png,vi,Mobile Phone,0.010432190760059613
+ministral-3_8b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.014545454545454545
+ministral-3_8b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.01090909090909091
+ministral-3_8b,en_moon.png,en,Moon,0.002891566265060241
+ministral-3_8b,ar_moon.png,ar,Moon,0.059625212947189095
+ministral-3_8b,ja_moon.png,ja,Moon,0.006134969325153374
+ministral-3_8b,vi_moon.png,vi,Moon,0.011560693641618497
+ministral-3_8b,zh_simp_moon.png,zh_simp,Moon,0.038834951456310676
+ministral-3_8b,zh_trad_moon.png,zh_trad,Moon,0.03398058252427184
+ministral-3_8b,en_music.png,en,Music,0.0007251631617113851
+ministral-3_8b,ar_music.png,ar,Music,0.058704453441295545
+ministral-3_8b,ja_music.png,ja,Music,0.027190332326283987
+ministral-3_8b,vi_music.png,vi,Music,0.004861111111111111
+ministral-3_8b,zh_simp_music.png,zh_simp,Music,0.0582010582010582
+ministral-3_8b,zh_trad_music.png,zh_trad,Music,0.047619047619047616
+ministral-3_8b,en_oxygen.png,en,Oxygen,0.004122011541632316
+ministral-3_8b,ar_oxygen.png,ar,Oxygen,0.2861163227016886
+ministral-3_8b,ja_oxygen.png,ja,Oxygen,0.004016064257028112
+ministral-3_8b,vi_oxygen.png,vi,Oxygen,0.021933387489845652
+ministral-3_8b,zh_simp_oxygen.png,zh_simp,Oxygen,0.11860174781523096
+ministral-3_8b,zh_trad_oxygen.png,zh_trad,Oxygen,0.11735330836454431
+ministral-3_8b,en_paper.png,en,Paper,0.0012626262626262627
+ministral-3_8b,ar_paper.png,ar,Paper,0.02560819462227913
+ministral-3_8b,ja_paper.png,ja,Paper,0.009966777408637873
+ministral-3_8b,vi_paper.png,vi,Paper,0.0264797507788162
+ministral-3_8b,zh_simp_paper.png,zh_simp,Paper,0.03383458646616541
+ministral-3_8b,zh_trad_paper.png,zh_trad,Paper,0.045112781954887216
+ministral-3_8b,en_periodic_table.png,en,Periodic Table,0.0059594755661501785
+ministral-3_8b,ar_periodic_table.png,ar,Periodic Table,0.026676829268292682
+ministral-3_8b,ja_periodic_table.png,ja,Periodic Table,0.012552301255230125
+ministral-3_8b,vi_periodic_table.png,vi,Periodic Table,0.015638575152041704
+ministral-3_8b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.013392857142857142
+ministral-3_8b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.013392857142857142
+ministral-3_8b,en_philosophy.png,en,Philosophy,0.0037071362372567192
+ministral-3_8b,ar_philosophy.png,ar,Philosophy,0.08313349320543566
+ministral-3_8b,ja_philosophy.png,ja,Philosophy,0.03468208092485549
+ministral-3_8b,vi_philosophy.png,vi,Philosophy,0.0009182736455463728
+ministral-3_8b,zh_simp_philosophy.png,zh_simp,Philosophy,0.0076045627376425855
+ministral-3_8b,zh_trad_philosophy.png,zh_trad,Philosophy,0.0076045627376425855
+ministral-3_8b,en_physics.png,en,Physics,0.0010277492291880781
+ministral-3_8b,ar_physics.png,ar,Physics,0.124282982791587
+ministral-3_8b,ja_physics.png,ja,Physics,0.026119402985074626
+ministral-3_8b,vi_physics.png,vi,Physics,0.014964788732394365
+ministral-3_8b,zh_simp_physics.png,zh_simp,Physics,0.018255578093306288
+ministral-3_8b,zh_trad_physics.png,zh_trad,Physics,0.016227180527383367
+ministral-3_8b,en_sun.png,en,Sun,0.012038523274478331
+ministral-3_8b,ar_sun.png,ar,Sun,0.026402640264026403
+ministral-3_8b,ja_sun.png,ja,Sun,0.016181229773462782
+ministral-3_8b,vi_sun.png,vi,Sun,0.010018214936247723
+ministral-3_8b,zh_simp_sun.png,zh_simp,Sun,0.04504504504504504
+ministral-3_8b,zh_trad_sun.png,zh_trad,Sun,0.05855855855855856
+ministral-3_8b,en_water.png,en,Water,0.0017241379310344827
+ministral-3_8b,ar_water.png,ar,Water,0.06352087114337568
+ministral-3_8b,ja_water.png,ja,Water,0.03
+ministral-3_8b,vi_water.png,vi,Water,0.0035211267605633804
+ministral-3_8b,zh_simp_water.png,zh_simp,Water,0.0225
+ministral-3_8b,zh_trad_water.png,zh_trad,Water,0.0525
+ministral-3_8b,en_wheel.png,en,Wheel,0.0013020833333333333
+ministral-3_8b,ar_wheel.png,ar,Wheel,0.1317614424410541
+ministral-3_8b,ja_wheel.png,ja,Wheel,0.015463917525773196
+ministral-3_8b,vi_wheel.png,vi,Wheel,0.010046885465505693
+ministral-3_8b,zh_simp_wheel.png,zh_simp,Wheel,0.005917159763313609
+ministral-3_8b,zh_trad_wheel.png,zh_trad,Wheel,0.03550295857988166
+ministral-3_3b,en_agriculture.png,en,Agriculture,0.000723589001447178
+ministral-3_3b,ar_agriculture.png,ar,Agriculture,0.1071932299012694
+ministral-3_3b,ja_agriculture.png,ja,Agriculture,0.013793103448275862
+ministral-3_3b,vi_agriculture.png,vi,Agriculture,0.0378726833199033
+ministral-3_3b,zh_simp_agriculture.png,zh_simp,Agriculture,0.011428571428571429
+ministral-3_3b,zh_trad_agriculture.png,zh_trad,Agriculture,0.017142857142857144
+ministral-3_3b,en_architecture.png,en,Architecture,0.011983223487118035
+ministral-3_3b,ar_architecture.png,ar,Architecture,1.0
+ministral-3_3b,ja_architecture.png,ja,Architecture,0.024630541871921183
+ministral-3_3b,vi_architecture.png,vi,Architecture,0.006802721088435374
+ministral-3_3b,zh_simp_architecture.png,zh_simp,Architecture,0.006896551724137931
+ministral-3_3b,zh_trad_architecture.png,zh_trad,Architecture,0.020689655172413793
+ministral-3_3b,en_art.png,en,Art,0.008866995073891626
+ministral-3_3b,ar_art.png,ar,Art,0.04821802935010482
+ministral-3_3b,ja_art.png,ja,Art,0.056155507559395246
+ministral-3_3b,vi_art.png,vi,Art,0.009937888198757764
+ministral-3_3b,zh_simp_art.png,zh_simp,Art,0.058823529411764705
+ministral-3_3b,zh_trad_art.png,zh_trad,Art,0.058823529411764705
+ministral-3_3b,en_artificial_intelligence.png,en,Artificial Intelligence,0.0012658227848101266
+ministral-3_3b,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.16056910569105692
+ministral-3_3b,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.008547008547008548
+ministral-3_3b,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.03114754098360656
+ministral-3_3b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.01953125
+ministral-3_3b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.03125
+ministral-3_3b,en_biology.png,en,Biology,0.0007496251874062968
+ministral-3_3b,ar_biology.png,ar,Biology,0.09485294117647058
+ministral-3_3b,ja_biology.png,ja,Biology,0.008
+ministral-3_3b,vi_biology.png,vi,Biology,0.008372093023255815
+ministral-3_3b,zh_simp_biology.png,zh_simp,Biology,0.015804597701149427
+ministral-3_3b,zh_trad_biology.png,zh_trad,Biology,0.021551724137931036
+ministral-3_3b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+ministral-3_3b,ar_chemistry.png,ar,Chemistry,0.12935323383084577
+ministral-3_3b,ja_chemistry.png,ja,Chemistry,0.01680672268907563
+ministral-3_3b,vi_chemistry.png,vi,Chemistry,0.023622047244094488
+ministral-3_3b,zh_simp_chemistry.png,zh_simp,Chemistry,0.008333333333333333
+ministral-3_3b,zh_trad_chemistry.png,zh_trad,Chemistry,0.004166666666666667
+ministral-3_3b,en_computer.png,en,Computer,0.009081735620585268
+ministral-3_3b,ar_computer.png,ar,Computer,0.28752886836027713
+ministral-3_3b,ja_computer.png,ja,Computer,0.037037037037037035
+ministral-3_3b,vi_computer.png,vi,Computer,0.011936339522546418
+ministral-3_3b,zh_simp_computer.png,zh_simp,Computer,0.019230769230769232
+ministral-3_3b,zh_trad_computer.png,zh_trad,Computer,0.016826923076923076
+ministral-3_3b,en_democracy.png,en,Democracy,0.0010070493454179255
+ministral-3_3b,ar_democracy.png,ar,Democracy,0.1490304709141274
+ministral-3_3b,ja_democracy.png,ja,Democracy,0.1059322033898305
+ministral-3_3b,vi_democracy.png,vi,Democracy,0.015918958031837915
+ministral-3_3b,zh_simp_democracy.png,zh_simp,Democracy,0.04091653027823241
+ministral-3_3b,zh_trad_democracy.png,zh_trad,Democracy,0.04091653027823241
+ministral-3_3b,en_earth.png,en,Earth,0.002008032128514056
+ministral-3_3b,ar_earth.png,ar,Earth,0.05747126436781609
+ministral-3_3b,ja_earth.png,ja,Earth,0.022284122562674095
+ministral-3_3b,vi_earth.png,vi,Earth,0.040271966527196654
+ministral-3_3b,zh_simp_earth.png,zh_simp,Earth,0.010778443113772455
+ministral-3_3b,zh_trad_earth.png,zh_trad,Earth,0.015568862275449102
+ministral-3_3b,en_electricity.png,en,Electricity,0.0012106537530266344
+ministral-3_3b,ar_electricity.png,ar,Electricity,0.1277533039647577
+ministral-3_3b,ja_electricity.png,ja,Electricity,0.03333333333333333
+ministral-3_3b,vi_electricity.png,vi,Electricity,0.01953125
+ministral-3_3b,zh_simp_electricity.png,zh_simp,Electricity,0.01092896174863388
+ministral-3_3b,zh_trad_electricity.png,zh_trad,Electricity,0.00546448087431694
+ministral-3_3b,en_fire.png,en,Fire,0.0013559322033898306
+ministral-3_3b,ar_fire.png,ar,Fire,0.10672853828306264
+ministral-3_3b,ja_fire.png,ja,Fire,0.02843601895734597
+ministral-3_3b,vi_fire.png,vi,Fire,0.007446808510638298
+ministral-3_3b,zh_simp_fire.png,zh_simp,Fire,0.024539877300613498
+ministral-3_3b,zh_trad_fire.png,zh_trad,Fire,0.024539877300613498
+ministral-3_3b,en_gold.png,en,Gold,0.0056179775280898875
+ministral-3_3b,ar_gold.png,ar,Gold,0.15508684863523572
+ministral-3_3b,ja_gold.png,ja,Gold,0.06369426751592357
+ministral-3_3b,vi_gold.png,vi,Gold,0.025557011795543906
+ministral-3_3b,zh_simp_gold.png,zh_simp,Gold,0.1026252983293556
+ministral-3_3b,zh_trad_gold.png,zh_trad,Gold,0.07398568019093078
+ministral-3_3b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.007398273736128237
+ministral-3_3b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,0.28818897637795277
+ministral-3_3b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.01597444089456869
+ministral-3_3b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.007707129094412331
+ministral-3_3b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.01875
+ministral-3_3b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.021875
+ministral-3_3b,en_internet.png,en,Internet,0.006726457399103139
+ministral-3_3b,ar_internet.png,ar,Internet,0.08415398388540735
+ministral-3_3b,ja_internet.png,ja,Internet,0.037209302325581395
+ministral-3_3b,vi_internet.png,vi,Internet,0.021052631578947368
+ministral-3_3b,zh_simp_internet.png,zh_simp,Internet,0.04421052631578947
+ministral-3_3b,zh_trad_internet.png,zh_trad,Internet,0.010416666666666666
+ministral-3_3b,en_iron.png,en,Iron,0.01267962806424345
+ministral-3_3b,ar_iron.png,ar,Iron,0.08340016038492382
+ministral-3_3b,ja_iron.png,ja,Iron,0.023809523809523808
+ministral-3_3b,vi_iron.png,vi,Iron,0.043580683156654886
+ministral-3_3b,zh_simp_iron.png,zh_simp,Iron,0.0610079575596817
+ministral-3_3b,zh_trad_iron.png,zh_trad,Iron,0.0636604774535809
+ministral-3_3b,en_mathematics.png,en,Mathematics,0.0017123287671232876
+ministral-3_3b,ar_mathematics.png,ar,Mathematics,0.06224627875507442
+ministral-3_3b,ja_mathematics.png,ja,Mathematics,0.031055900621118012
+ministral-3_3b,vi_mathematics.png,vi,Mathematics,0.023809523809523808
+ministral-3_3b,zh_simp_mathematics.png,zh_simp,Mathematics,0.00684931506849315
+ministral-3_3b,zh_trad_mathematics.png,zh_trad,Mathematics,0.00684931506849315
+ministral-3_3b,en_mobile_phone.png,en,Mobile Phone,0.0022988505747126436
+ministral-3_3b,ar_mobile_phone.png,ar,Mobile Phone,0.14498644986449866
+ministral-3_3b,ja_mobile_phone.png,ja,Mobile Phone,0.014084507042253521
+ministral-3_3b,vi_mobile_phone.png,vi,Mobile Phone,0.01639344262295082
+ministral-3_3b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.014545454545454545
+ministral-3_3b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.025454545454545455
+ministral-3_3b,en_moon.png,en,Moon,0.002891566265060241
+ministral-3_3b,ar_moon.png,ar,Moon,0.07793867120954004
+ministral-3_3b,ja_moon.png,ja,Moon,0.006134969325153374
+ministral-3_3b,vi_moon.png,vi,Moon,0.03468208092485549
+ministral-3_3b,zh_simp_moon.png,zh_simp,Moon,0.043689320388349516
+ministral-3_3b,zh_trad_moon.png,zh_trad,Moon,0.009708737864077669
+ministral-3_3b,en_music.png,en,Music,0.0007251631617113851
+ministral-3_3b,ar_music.png,ar,Music,0.08974358974358974
+ministral-3_3b,ja_music.png,ja,Music,0.027190332326283987
+ministral-3_3b,vi_music.png,vi,Music,0.014583333333333334
+ministral-3_3b,zh_simp_music.png,zh_simp,Music,0.047619047619047616
+ministral-3_3b,zh_trad_music.png,zh_trad,Music,0.042328042328042326
+ministral-3_3b,en_oxygen.png,en,Oxygen,0.00741962077493817
+ministral-3_3b,ar_oxygen.png,ar,Oxygen,0.26454033771106944
+ministral-3_3b,ja_oxygen.png,ja,Oxygen,0.020080321285140562
+ministral-3_3b,vi_oxygen.png,vi,Oxygen,0.01868399675060926
+ministral-3_3b,zh_simp_oxygen.png,zh_simp,Oxygen,0.12484394506866417
+ministral-3_3b,zh_trad_oxygen.png,zh_trad,Oxygen,0.11860174781523096
+ministral-3_3b,en_paper.png,en,Paper,0.0012626262626262627
+ministral-3_3b,ar_paper.png,ar,Paper,0.06274007682458387
+ministral-3_3b,ja_paper.png,ja,Paper,0.03322259136212625
+ministral-3_3b,vi_paper.png,vi,Paper,0.012461059190031152
+ministral-3_3b,zh_simp_paper.png,zh_simp,Paper,0.041353383458646614
+ministral-3_3b,zh_trad_paper.png,zh_trad,Paper,0.03383458646616541
+ministral-3_3b,en_periodic_table.png,en,Periodic Table,0.0059594755661501785
+ministral-3_3b,ar_periodic_table.png,ar,Periodic Table,0.0625
+ministral-3_3b,ja_periodic_table.png,ja,Periodic Table,0.029288702928870293
+ministral-3_3b,vi_periodic_table.png,vi,Periodic Table,0.015638575152041704
+ministral-3_3b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.015625
+ministral-3_3b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.011160714285714286
+ministral-3_3b,en_philosophy.png,en,Philosophy,0.0037071362372567192
+ministral-3_3b,ar_philosophy.png,ar,Philosophy,0.0903277378097522
+ministral-3_3b,ja_philosophy.png,ja,Philosophy,0.044797687861271675
+ministral-3_3b,vi_philosophy.png,vi,Philosophy,0.012855831037649219
+ministral-3_3b,zh_simp_philosophy.png,zh_simp,Philosophy,0.0038022813688212928
+ministral-3_3b,zh_trad_philosophy.png,zh_trad,Philosophy,0.0076045627376425855
+ministral-3_3b,en_physics.png,en,Physics,0.0010277492291880781
+ministral-3_3b,ar_physics.png,ar,Physics,0.1338432122370937
+ministral-3_3b,ja_physics.png,ja,Physics,0.026119402985074626
+ministral-3_3b,vi_physics.png,vi,Physics,0.01936619718309859
+ministral-3_3b,zh_simp_physics.png,zh_simp,Physics,0.032454361054766734
+ministral-3_3b,zh_trad_physics.png,zh_trad,Physics,0.036511156186612576
+ministral-3_3b,en_sun.png,en,Sun,0.011235955056179775
+ministral-3_3b,ar_sun.png,ar,Sun,0.10066006600660066
+ministral-3_3b,ja_sun.png,ja,Sun,0.012944983818770227
+ministral-3_3b,vi_sun.png,vi,Sun,0.031420765027322405
+ministral-3_3b,zh_simp_sun.png,zh_simp,Sun,0.036036036036036036
+ministral-3_3b,zh_trad_sun.png,zh_trad,Sun,0.02252252252252252
+ministral-3_3b,en_water.png,en,Water,0.0017241379310344827
+ministral-3_3b,ar_water.png,ar,Water,0.10435571687840291
+ministral-3_3b,ja_water.png,ja,Water,0.03
+ministral-3_3b,vi_water.png,vi,Water,0.0035211267605633804
+ministral-3_3b,zh_simp_water.png,zh_simp,Water,0.0225
+ministral-3_3b,zh_trad_water.png,zh_trad,Water,0.02
+ministral-3_3b,en_wheel.png,en,Wheel,0.00390625
+ministral-3_3b,ar_wheel.png,ar,Wheel,0.15811373092926492
+ministral-3_3b,ja_wheel.png,ja,Wheel,0.02577319587628866
+ministral-3_3b,vi_wheel.png,vi,Wheel,0.017414601473543203
+ministral-3_3b,zh_simp_wheel.png,zh_simp,Wheel,0.05325443786982249
+ministral-3_3b,zh_trad_wheel.png,zh_trad,Wheel,0.04142011834319527
+blaifa_InternVL3_5_4B,en_agriculture.png,en,Agriculture,0.08104196816208394
+blaifa_InternVL3_5_4B,ar_agriculture.png,ar,Agriculture,0.7320169252468265
+blaifa_InternVL3_5_4B,ja_agriculture.png,ja,Agriculture,0.034482758620689655
+blaifa_InternVL3_5_4B,vi_agriculture.png,vi,Agriculture,0.3287671232876712
+blaifa_InternVL3_5_4B,zh_simp_agriculture.png,zh_simp,Agriculture,0.04857142857142857
+blaifa_InternVL3_5_4B,zh_trad_agriculture.png,zh_trad,Agriculture,0.08285714285714285
+blaifa_InternVL3_5_4B,en_architecture.png,en,Architecture,0.21509886159376873
+blaifa_InternVL3_5_4B,ar_architecture.png,ar,Architecture,0.886576482830385
+blaifa_InternVL3_5_4B,ja_architecture.png,ja,Architecture,0.06403940886699508
+blaifa_InternVL3_5_4B,vi_architecture.png,vi,Architecture,0.17959183673469387
+blaifa_InternVL3_5_4B,zh_simp_architecture.png,zh_simp,Architecture,0.05172413793103448
+blaifa_InternVL3_5_4B,zh_trad_architecture.png,zh_trad,Architecture,0.12758620689655173
+blaifa_InternVL3_5_4B,en_art.png,en,Art,0.016748768472906402
+blaifa_InternVL3_5_4B,ar_art.png,ar,Art,0.8176100628930818
+blaifa_InternVL3_5_4B,ja_art.png,ja,Art,0.23758099352051837
+blaifa_InternVL3_5_4B,vi_art.png,vi,Art,0.2248447204968944
+blaifa_InternVL3_5_4B,zh_simp_art.png,zh_simp,Art,0.09907120743034056
+blaifa_InternVL3_5_4B,zh_trad_art.png,zh_trad,Art,0.17027863777089783
+blaifa_InternVL3_5_4B,en_artificial_intelligence.png,en,Artificial Intelligence,0.005063291139240506
+blaifa_InternVL3_5_4B,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.8689024390243902
+blaifa_InternVL3_5_4B,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.30427350427350425
+blaifa_InternVL3_5_4B,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.5319672131147541
+blaifa_InternVL3_5_4B,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.03125
+blaifa_InternVL3_5_4B,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.3125
+blaifa_InternVL3_5_4B,en_biology.png,en,Biology,0.06971514242878561
+blaifa_InternVL3_5_4B,ar_biology.png,ar,Biology,0.7463235294117647
+blaifa_InternVL3_5_4B,ja_biology.png,ja,Biology,0.152
+blaifa_InternVL3_5_4B,vi_biology.png,vi,Biology,0.27348837209302324
+blaifa_InternVL3_5_4B,zh_simp_biology.png,zh_simp,Biology,0.3074712643678161
+blaifa_InternVL3_5_4B,zh_trad_biology.png,zh_trad,Biology,0.33620689655172414
+blaifa_InternVL3_5_4B,en_chemistry.png,en,Chemistry,0.015267175572519083
+blaifa_InternVL3_5_4B,ar_chemistry.png,ar,Chemistry,0.8072139303482587
+blaifa_InternVL3_5_4B,ja_chemistry.png,ja,Chemistry,0.23529411764705882
+blaifa_InternVL3_5_4B,vi_chemistry.png,vi,Chemistry,0.07874015748031496
+blaifa_InternVL3_5_4B,zh_simp_chemistry.png,zh_simp,Chemistry,0.32083333333333336
+blaifa_InternVL3_5_4B,zh_trad_chemistry.png,zh_trad,Chemistry,0.43125
+blaifa_InternVL3_5_4B,en_computer.png,en,Computer,0.054490413723511606
+blaifa_InternVL3_5_4B,ar_computer.png,ar,Computer,1.0
+blaifa_InternVL3_5_4B,ja_computer.png,ja,Computer,0.08148148148148149
+blaifa_InternVL3_5_4B,vi_computer.png,vi,Computer,0.14588859416445624
+blaifa_InternVL3_5_4B,zh_simp_computer.png,zh_simp,Computer,0.06490384615384616
+blaifa_InternVL3_5_4B,zh_trad_computer.png,zh_trad,Computer,0.42788461538461536
+blaifa_InternVL3_5_4B,en_democracy.png,en,Democracy,0.015105740181268883
+blaifa_InternVL3_5_4B,ar_democracy.png,ar,Democracy,0.7767313019390581
+blaifa_InternVL3_5_4B,ja_democracy.png,ja,Democracy,0.211864406779661
+blaifa_InternVL3_5_4B,vi_democracy.png,vi,Democracy,0.6070911722141823
+blaifa_InternVL3_5_4B,zh_simp_democracy.png,zh_simp,Democracy,0.28805237315875615
+blaifa_InternVL3_5_4B,zh_trad_democracy.png,zh_trad,Democracy,0.49263502454991814
+blaifa_InternVL3_5_4B,en_earth.png,en,Earth,0.5225903614457831
+blaifa_InternVL3_5_4B,ar_earth.png,ar,Earth,0.7777777777777778
+blaifa_InternVL3_5_4B,ja_earth.png,ja,Earth,0.11420612813370473
+blaifa_InternVL3_5_4B,vi_earth.png,vi,Earth,1.0
+blaifa_InternVL3_5_4B,zh_simp_earth.png,zh_simp,Earth,0.8491017964071856
+blaifa_InternVL3_5_4B,zh_trad_earth.png,zh_trad,Earth,0.8538922155688623
+blaifa_InternVL3_5_4B,en_electricity.png,en,Electricity,0.013317191283292978
+blaifa_InternVL3_5_4B,ar_electricity.png,ar,Electricity,0.7533039647577092
+blaifa_InternVL3_5_4B,ja_electricity.png,ja,Electricity,0.22
+blaifa_InternVL3_5_4B,vi_electricity.png,vi,Electricity,0.14322916666666666
+blaifa_InternVL3_5_4B,zh_simp_electricity.png,zh_simp,Electricity,0.04918032786885246
+blaifa_InternVL3_5_4B,zh_trad_electricity.png,zh_trad,Electricity,0.25956284153005466
+blaifa_InternVL3_5_4B,en_fire.png,en,Fire,0.1023728813559322
+blaifa_InternVL3_5_4B,ar_fire.png,ar,Fire,0.7540603248259861
+blaifa_InternVL3_5_4B,ja_fire.png,ja,Fire,0.13270142180094788
+blaifa_InternVL3_5_4B,vi_fire.png,vi,Fire,0.21595744680851064
+blaifa_InternVL3_5_4B,zh_simp_fire.png,zh_simp,Fire,0.006134969325153374
+blaifa_InternVL3_5_4B,zh_trad_fire.png,zh_trad,Fire,0.25766871165644173
+blaifa_InternVL3_5_4B,en_gold.png,en,Gold,0.10786516853932585
+blaifa_InternVL3_5_4B,ar_gold.png,ar,Gold,0.8325062034739454
+blaifa_InternVL3_5_4B,ja_gold.png,ja,Gold,0.1942675159235669
+blaifa_InternVL3_5_4B,vi_gold.png,vi,Gold,0.6979030144167759
+blaifa_InternVL3_5_4B,zh_simp_gold.png,zh_simp,Gold,0.26014319809069214
+blaifa_InternVL3_5_4B,zh_trad_gold.png,zh_trad,Gold,0.4439140811455847
+blaifa_InternVL3_5_4B,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.018495684340320593
+blaifa_InternVL3_5_4B,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,1.0
+blaifa_InternVL3_5_4B,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.25878594249201275
+blaifa_InternVL3_5_4B,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.19845857418111754
+blaifa_InternVL3_5_4B,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.153125
+blaifa_InternVL3_5_4B,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.134375
+blaifa_InternVL3_5_4B,en_internet.png,en,Internet,0.10538116591928251
+blaifa_InternVL3_5_4B,ar_internet.png,ar,Internet,0.7314234556848702
+blaifa_InternVL3_5_4B,ja_internet.png,ja,Internet,0.06976744186046512
+blaifa_InternVL3_5_4B,vi_internet.png,vi,Internet,0.1391812865497076
+blaifa_InternVL3_5_4B,zh_simp_internet.png,zh_simp,Internet,0.11789473684210526
+blaifa_InternVL3_5_4B,zh_trad_internet.png,zh_trad,Internet,0.4125
+blaifa_InternVL3_5_4B,en_iron.png,en,Iron,0.03803888419273035
+blaifa_InternVL3_5_4B,ar_iron.png,ar,Iron,0.9550922213311949
+blaifa_InternVL3_5_4B,ja_iron.png,ja,Iron,0.14285714285714285
+blaifa_InternVL3_5_4B,vi_iron.png,vi,Iron,0.1790341578327444
+blaifa_InternVL3_5_4B,zh_simp_iron.png,zh_simp,Iron,0.18037135278514588
+blaifa_InternVL3_5_4B,zh_trad_iron.png,zh_trad,Iron,0.16445623342175067
+blaifa_InternVL3_5_4B,en_mathematics.png,en,Mathematics,0.036815068493150686
+blaifa_InternVL3_5_4B,ar_mathematics.png,ar,Mathematics,0.7889039242219216
+blaifa_InternVL3_5_4B,ja_mathematics.png,ja,Mathematics,0.15838509316770186
+blaifa_InternVL3_5_4B,vi_mathematics.png,vi,Mathematics,0.22985347985347984
+blaifa_InternVL3_5_4B,zh_simp_mathematics.png,zh_simp,Mathematics,0.06164383561643835
+blaifa_InternVL3_5_4B,zh_trad_mathematics.png,zh_trad,Mathematics,0.4246575342465753
+blaifa_InternVL3_5_4B,en_mobile_phone.png,en,Mobile Phone,0.006896551724137931
+blaifa_InternVL3_5_4B,ar_mobile_phone.png,ar,Mobile Phone,0.9566395663956639
+blaifa_InternVL3_5_4B,ja_mobile_phone.png,ja,Mobile Phone,0.10140845070422536
+blaifa_InternVL3_5_4B,vi_mobile_phone.png,vi,Mobile Phone,0.7128663686040735
+blaifa_InternVL3_5_4B,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.05818181818181818
+blaifa_InternVL3_5_4B,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.4509090909090909
+blaifa_InternVL3_5_4B,en_moon.png,en,Moon,0.8684337349397591
+blaifa_InternVL3_5_4B,ar_moon.png,ar,Moon,1.0
+blaifa_InternVL3_5_4B,ja_moon.png,ja,Moon,0.15337423312883436
+blaifa_InternVL3_5_4B,vi_moon.png,vi,Moon,0.1069364161849711
+blaifa_InternVL3_5_4B,zh_simp_moon.png,zh_simp,Moon,0.07281553398058252
+blaifa_InternVL3_5_4B,zh_trad_moon.png,zh_trad,Moon,0.05825242718446602
+blaifa_InternVL3_5_4B,en_music.png,en,Music,0.09862218999274837
+blaifa_InternVL3_5_4B,ar_music.png,ar,Music,0.9082321187584346
+blaifa_InternVL3_5_4B,ja_music.png,ja,Music,0.14501510574018128
+blaifa_InternVL3_5_4B,vi_music.png,vi,Music,0.5319444444444444
+blaifa_InternVL3_5_4B,zh_simp_music.png,zh_simp,Music,0.05291005291005291
+blaifa_InternVL3_5_4B,zh_trad_music.png,zh_trad,Music,0.2962962962962963
+blaifa_InternVL3_5_4B,en_oxygen.png,en,Oxygen,0.02720527617477329
+blaifa_InternVL3_5_4B,ar_oxygen.png,ar,Oxygen,0.9033771106941839
+blaifa_InternVL3_5_4B,ja_oxygen.png,ja,Oxygen,0.10040160642570281
+blaifa_InternVL3_5_4B,vi_oxygen.png,vi,Oxygen,0.3330625507717303
+blaifa_InternVL3_5_4B,zh_simp_oxygen.png,zh_simp,Oxygen,0.8314606741573034
+blaifa_InternVL3_5_4B,zh_trad_oxygen.png,zh_trad,Oxygen,0.5493133583021224
+blaifa_InternVL3_5_4B,en_paper.png,en,Paper,0.020202020202020204
+blaifa_InternVL3_5_4B,ar_paper.png,ar,Paper,0.7272727272727273
+blaifa_InternVL3_5_4B,ja_paper.png,ja,Paper,0.18272425249169436
+blaifa_InternVL3_5_4B,vi_paper.png,vi,Paper,0.38161993769470404
+blaifa_InternVL3_5_4B,zh_simp_paper.png,zh_simp,Paper,0.08646616541353383
+blaifa_InternVL3_5_4B,zh_trad_paper.png,zh_trad,Paper,0.40977443609022557
+blaifa_InternVL3_5_4B,en_periodic_table.png,en,Periodic Table,0.01907032181168057
+blaifa_InternVL3_5_4B,ar_periodic_table.png,ar,Periodic Table,0.8323170731707317
+blaifa_InternVL3_5_4B,ja_periodic_table.png,ja,Periodic Table,0.18410041841004185
+blaifa_InternVL3_5_4B,vi_periodic_table.png,vi,Periodic Table,0.2206776715899218
+blaifa_InternVL3_5_4B,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.08928571428571429
+blaifa_InternVL3_5_4B,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.30357142857142855
+blaifa_InternVL3_5_4B,en_philosophy.png,en,Philosophy,0.03151065801668211
+blaifa_InternVL3_5_4B,ar_philosophy.png,ar,Philosophy,1.0
+blaifa_InternVL3_5_4B,ja_philosophy.png,ja,Philosophy,0.5289017341040463
+blaifa_InternVL3_5_4B,vi_philosophy.png,vi,Philosophy,0.34618916437098257
+blaifa_InternVL3_5_4B,zh_simp_philosophy.png,zh_simp,Philosophy,0.03802281368821293
+blaifa_InternVL3_5_4B,zh_trad_philosophy.png,zh_trad,Philosophy,0.35361216730038025
+blaifa_InternVL3_5_4B,en_physics.png,en,Physics,0.0020554984583761563
+blaifa_InternVL3_5_4B,ar_physics.png,ar,Physics,0.7934990439770554
+blaifa_InternVL3_5_4B,ja_physics.png,ja,Physics,0.08955223880597014
+blaifa_InternVL3_5_4B,vi_physics.png,vi,Physics,0.31778169014084506
+blaifa_InternVL3_5_4B,zh_simp_physics.png,zh_simp,Physics,0.1947261663286004
+blaifa_InternVL3_5_4B,zh_trad_physics.png,zh_trad,Physics,0.3752535496957404
+blaifa_InternVL3_5_4B,en_sun.png,en,Sun,0.08025682182985554
+blaifa_InternVL3_5_4B,ar_sun.png,ar,Sun,0.8481848184818482
+blaifa_InternVL3_5_4B,ja_sun.png,ja,Sun,0.09385113268608414
+blaifa_InternVL3_5_4B,vi_sun.png,vi,Sun,1.0
+blaifa_InternVL3_5_4B,zh_simp_sun.png,zh_simp,Sun,0.16666666666666666
+blaifa_InternVL3_5_4B,zh_trad_sun.png,zh_trad,Sun,0.17567567567567569
+blaifa_InternVL3_5_4B,en_water.png,en,Water,0.04827586206896552
+blaifa_InternVL3_5_4B,ar_water.png,ar,Water,1.0
+blaifa_InternVL3_5_4B,ja_water.png,ja,Water,0.1
+blaifa_InternVL3_5_4B,vi_water.png,vi,Water,0.13028169014084506
+blaifa_InternVL3_5_4B,zh_simp_water.png,zh_simp,Water,0.11
+blaifa_InternVL3_5_4B,zh_trad_water.png,zh_trad,Water,0.32
+blaifa_InternVL3_5_4B,en_wheel.png,en,Wheel,0.0026041666666666665
+blaifa_InternVL3_5_4B,ar_wheel.png,ar,Wheel,1.0
+blaifa_InternVL3_5_4B,ja_wheel.png,ja,Wheel,0.13917525773195877
+blaifa_InternVL3_5_4B,vi_wheel.png,vi,Wheel,0.5157401205626256
+blaifa_InternVL3_5_4B,zh_simp_wheel.png,zh_simp,Wheel,0.0650887573964497
+blaifa_InternVL3_5_4B,zh_trad_wheel.png,zh_trad,Wheel,0.40828402366863903
+qwen3.5_9b,en_agriculture.png,en,Agriculture,0.000723589001447178
+qwen3.5_9b,ar_agriculture.png,ar,Agriculture,1.0
+qwen3.5_9b,ja_agriculture.png,ja,Agriculture,0.006896551724137931
+qwen3.5_9b,vi_agriculture.png,vi,Agriculture,0.0056406124093473006
+qwen3.5_9b,zh_simp_agriculture.png,zh_simp,Agriculture,0.002857142857142857
+qwen3.5_9b,zh_trad_agriculture.png,zh_trad,Agriculture,0.002857142857142857
+qwen3.5_9b,en_architecture.png,en,Architecture,0.7974835230677052
+qwen3.5_9b,ar_architecture.png,ar,Architecture,1.0
+qwen3.5_9b,ja_architecture.png,ja,Architecture,0.03940886699507389
+qwen3.5_9b,vi_architecture.png,vi,Architecture,0.0013605442176870747
+qwen3.5_9b,zh_simp_architecture.png,zh_simp,Architecture,0.0
+qwen3.5_9b,zh_trad_architecture.png,zh_trad,Architecture,0.0
+qwen3.5_9b,en_art.png,en,Art,0.008866995073891626
+qwen3.5_9b,ar_art.png,ar,Art,0.8155136268343816
+qwen3.5_9b,ja_art.png,ja,Art,1.0
+qwen3.5_9b,vi_art.png,vi,Art,0.006211180124223602
+qwen3.5_9b,zh_simp_art.png,zh_simp,Art,0.0
+qwen3.5_9b,zh_trad_art.png,zh_trad,Art,0.006191950464396285
+qwen3.5_9b,en_artificial_intelligence.png,en,Artificial Intelligence,0.0012658227848101266
+qwen3.5_9b,ar_artificial_intelligence.png,ar,Artificial Intelligence,1.0
+qwen3.5_9b,ja_artificial_intelligence.png,ja,Artificial Intelligence,1.0
+qwen3.5_9b,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.000819672131147541
+qwen3.5_9b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.0
+qwen3.5_9b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.0
+qwen3.5_9b,en_biology.png,en,Biology,0.0007496251874062968
+qwen3.5_9b,ar_biology.png,ar,Biology,1.0
+qwen3.5_9b,ja_biology.png,ja,Biology,0.016
+qwen3.5_9b,vi_biology.png,vi,Biology,0.22232558139534883
+qwen3.5_9b,zh_simp_biology.png,zh_simp,Biology,0.5402298850574713
+qwen3.5_9b,zh_trad_biology.png,zh_trad,Biology,0.004310344827586207
+qwen3.5_9b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+qwen3.5_9b,ar_chemistry.png,ar,Chemistry,0.7786069651741293
+qwen3.5_9b,ja_chemistry.png,ja,Chemistry,0.0784313725490196
+qwen3.5_9b,vi_chemistry.png,vi,Chemistry,0.0026246719160104987
+qwen3.5_9b,zh_simp_chemistry.png,zh_simp,Chemistry,0.0
+qwen3.5_9b,zh_trad_chemistry.png,zh_trad,Chemistry,0.0020833333333333333
+qwen3.5_9b,en_computer.png,en,Computer,0.0010090817356205853
+qwen3.5_9b,ar_computer.png,ar,Computer,1.0
+qwen3.5_9b,ja_computer.png,ja,Computer,0.0
+qwen3.5_9b,vi_computer.png,vi,Computer,0.007957559681697613
+qwen3.5_9b,zh_simp_computer.png,zh_simp,Computer,1.0
+qwen3.5_9b,zh_trad_computer.png,zh_trad,Computer,0.0
+qwen3.5_9b,en_democracy.png,en,Democracy,0.0010070493454179255
+qwen3.5_9b,ar_democracy.png,ar,Democracy,1.0
+qwen3.5_9b,ja_democracy.png,ja,Democracy,0.01059322033898305
+qwen3.5_9b,vi_democracy.png,vi,Democracy,0.001447178002894356
+qwen3.5_9b,zh_simp_democracy.png,zh_simp,Democracy,0.016366612111292964
+qwen3.5_9b,zh_trad_democracy.png,zh_trad,Democracy,1.0
+qwen3.5_9b,en_earth.png,en,Earth,0.0015060240963855422
+qwen3.5_9b,ar_earth.png,ar,Earth,1.0
+qwen3.5_9b,ja_earth.png,ja,Earth,0.005571030640668524
+qwen3.5_9b,vi_earth.png,vi,Earth,0.27405857740585776
+qwen3.5_9b,zh_simp_earth.png,zh_simp,Earth,1.0
+qwen3.5_9b,zh_trad_earth.png,zh_trad,Earth,1.0
+qwen3.5_9b,en_electricity.png,en,Electricity,0.0012106537530266344
+qwen3.5_9b,ar_electricity.png,ar,Electricity,1.0
+qwen3.5_9b,ja_electricity.png,ja,Electricity,1.0
+qwen3.5_9b,vi_electricity.png,vi,Electricity,0.00390625
+qwen3.5_9b,zh_simp_electricity.png,zh_simp,Electricity,0.00273224043715847
+qwen3.5_9b,zh_trad_electricity.png,zh_trad,Electricity,0.00273224043715847
+qwen3.5_9b,en_fire.png,en,Fire,0.0013559322033898306
+qwen3.5_9b,ar_fire.png,ar,Fire,0.771461716937355
+qwen3.5_9b,ja_fire.png,ja,Fire,0.004739336492890996
+qwen3.5_9b,vi_fire.png,vi,Fire,0.0010638297872340426
+qwen3.5_9b,zh_simp_fire.png,zh_simp,Fire,0.0
+qwen3.5_9b,zh_trad_fire.png,zh_trad,Fire,0.0
+qwen3.5_9b,en_gold.png,en,Gold,0.0011235955056179776
+qwen3.5_9b,ar_gold.png,ar,Gold,0.8200992555831266
+qwen3.5_9b,ja_gold.png,ja,Gold,0.012738853503184714
+qwen3.5_9b,vi_gold.png,vi,Gold,0.000655307994757536
+qwen3.5_9b,zh_simp_gold.png,zh_simp,Gold,0.05489260143198091
+qwen3.5_9b,zh_trad_gold.png,zh_trad,Gold,1.0
+qwen3.5_9b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,1.0
+qwen3.5_9b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,1.0
+qwen3.5_9b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,1.0
+qwen3.5_9b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,1.0
+qwen3.5_9b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,1.0
+qwen3.5_9b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,1.0
+qwen3.5_9b,en_internet.png,en,Internet,0.0007473841554559044
+qwen3.5_9b,ar_internet.png,ar,Internet,1.0
+qwen3.5_9b,ja_internet.png,ja,Internet,0.004651162790697674
+qwen3.5_9b,vi_internet.png,vi,Internet,0.0023391812865497076
+qwen3.5_9b,zh_simp_internet.png,zh_simp,Internet,1.0
+qwen3.5_9b,zh_trad_internet.png,zh_trad,Internet,0.0020833333333333333
+qwen3.5_9b,en_iron.png,en,Iron,0.005917159763313609
+qwen3.5_9b,ar_iron.png,ar,Iron,0.12510024057738572
+qwen3.5_9b,ja_iron.png,ja,Iron,0.009523809523809525
+qwen3.5_9b,vi_iron.png,vi,Iron,0.001177856301531213
+qwen3.5_9b,zh_simp_iron.png,zh_simp,Iron,0.06631299734748011
+qwen3.5_9b,zh_trad_iron.png,zh_trad,Iron,0.06631299734748011
+qwen3.5_9b,en_mathematics.png,en,Mathematics,0.0017123287671232876
+qwen3.5_9b,ar_mathematics.png,ar,Mathematics,1.0
+qwen3.5_9b,ja_mathematics.png,ja,Mathematics,1.0
+qwen3.5_9b,vi_mathematics.png,vi,Mathematics,0.003663003663003663
+qwen3.5_9b,zh_simp_mathematics.png,zh_simp,Mathematics,1.0
+qwen3.5_9b,zh_trad_mathematics.png,zh_trad,Mathematics,0.0
+qwen3.5_9b,en_mobile_phone.png,en,Mobile Phone,0.0022988505747126436
+qwen3.5_9b,ar_mobile_phone.png,ar,Mobile Phone,1.0
+qwen3.5_9b,ja_mobile_phone.png,ja,Mobile Phone,0.008450704225352112
+qwen3.5_9b,vi_mobile_phone.png,vi,Mobile Phone,1.0
+qwen3.5_9b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.007272727272727273
+qwen3.5_9b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.0
+qwen3.5_9b,en_moon.png,en,Moon,0.002891566265060241
+qwen3.5_9b,ar_moon.png,ar,Moon,1.0
+qwen3.5_9b,ja_moon.png,ja,Moon,0.0
+qwen3.5_9b,vi_moon.png,vi,Moon,0.004335260115606936
+qwen3.5_9b,zh_simp_moon.png,zh_simp,Moon,0.0
+qwen3.5_9b,zh_trad_moon.png,zh_trad,Moon,0.0
+qwen3.5_9b,en_music.png,en,Music,0.0007251631617113851
+qwen3.5_9b,ar_music.png,ar,Music,1.0
+qwen3.5_9b,ja_music.png,ja,Music,0.0
+qwen3.5_9b,vi_music.png,vi,Music,0.003472222222222222
+qwen3.5_9b,zh_simp_music.png,zh_simp,Music,0.0
+qwen3.5_9b,zh_trad_music.png,zh_trad,Music,0.005291005291005291
+qwen3.5_9b,en_oxygen.png,en,Oxygen,0.00247320692497939
+qwen3.5_9b,ar_oxygen.png,ar,Oxygen,1.0
+qwen3.5_9b,ja_oxygen.png,ja,Oxygen,0.0
+qwen3.5_9b,vi_oxygen.png,vi,Oxygen,0.002437043054427295
+qwen3.5_9b,zh_simp_oxygen.png,zh_simp,Oxygen,0.11735330836454431
+qwen3.5_9b,zh_trad_oxygen.png,zh_trad,Oxygen,0.1136079900124844
+qwen3.5_9b,en_paper.png,en,Paper,0.0012626262626262627
+qwen3.5_9b,ar_paper.png,ar,Paper,0.7605633802816901
+qwen3.5_9b,ja_paper.png,ja,Paper,0.0
+qwen3.5_9b,vi_paper.png,vi,Paper,1.0
+qwen3.5_9b,zh_simp_paper.png,zh_simp,Paper,0.0
+qwen3.5_9b,zh_trad_paper.png,zh_trad,Paper,0.007518796992481203
+qwen3.5_9b,en_periodic_table.png,en,Periodic Table,0.0011918951132300357
+qwen3.5_9b,ar_periodic_table.png,ar,Periodic Table,0.40015243902439024
+qwen3.5_9b,ja_periodic_table.png,ja,Periodic Table,0.0041841004184100415
+qwen3.5_9b,vi_periodic_table.png,vi,Periodic Table,0.0008688097306689834
+qwen3.5_9b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.0
+qwen3.5_9b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.0
+qwen3.5_9b,en_philosophy.png,en,Philosophy,0.0027803521779425394
+qwen3.5_9b,ar_philosophy.png,ar,Philosophy,1.0
+qwen3.5_9b,ja_philosophy.png,ja,Philosophy,0.28034682080924855
+qwen3.5_9b,vi_philosophy.png,vi,Philosophy,0.005509641873278237
+qwen3.5_9b,zh_simp_philosophy.png,zh_simp,Philosophy,0.015209125475285171
+qwen3.5_9b,zh_trad_philosophy.png,zh_trad,Philosophy,0.0038022813688212928
+qwen3.5_9b,en_physics.png,en,Physics,0.0010277492291880781
+qwen3.5_9b,ar_physics.png,ar,Physics,1.0
+qwen3.5_9b,ja_physics.png,ja,Physics,0.022388059701492536
+qwen3.5_9b,vi_physics.png,vi,Physics,0.0008802816901408451
+qwen3.5_9b,zh_simp_physics.png,zh_simp,Physics,0.004056795131845842
+qwen3.5_9b,zh_trad_physics.png,zh_trad,Physics,0.006085192697768763
+qwen3.5_9b,en_sun.png,en,Sun,1.0
+qwen3.5_9b,ar_sun.png,ar,Sun,0.7788778877887789
+qwen3.5_9b,ja_sun.png,ja,Sun,0.8284789644012945
+qwen3.5_9b,vi_sun.png,vi,Sun,1.0
+qwen3.5_9b,zh_simp_sun.png,zh_simp,Sun,0.009009009009009009
+qwen3.5_9b,zh_trad_sun.png,zh_trad,Sun,0.009009009009009009
+qwen3.5_9b,en_water.png,en,Water,0.0008620689655172414
+qwen3.5_9b,ar_water.png,ar,Water,1.0
+qwen3.5_9b,ja_water.png,ja,Water,0.025
+qwen3.5_9b,vi_water.png,vi,Water,0.0017605633802816902
+qwen3.5_9b,zh_simp_water.png,zh_simp,Water,0.025
+qwen3.5_9b,zh_trad_water.png,zh_trad,Water,0.025
+qwen3.5_9b,en_wheel.png,en,Wheel,0.0013020833333333333
+qwen3.5_9b,ar_wheel.png,ar,Wheel,0.8668515950069348
+qwen3.5_9b,ja_wheel.png,ja,Wheel,0.005154639175257732
+qwen3.5_9b,vi_wheel.png,vi,Wheel,1.0
+qwen3.5_9b,zh_simp_wheel.png,zh_simp,Wheel,0.0
+qwen3.5_9b,zh_trad_wheel.png,zh_trad,Wheel,0.0
+gemma4_e2b,en_agriculture.png,en,Agriculture,0.22286541244573083
+gemma4_e2b,ar_agriculture.png,ar,Agriculture,0.538787023977433
+gemma4_e2b,ja_agriculture.png,ja,Agriculture,0.30344827586206896
+gemma4_e2b,vi_agriculture.png,vi,Agriculture,0.7163577759871071
+gemma4_e2b,zh_simp_agriculture.png,zh_simp,Agriculture,0.54
+gemma4_e2b,zh_trad_agriculture.png,zh_trad,Agriculture,0.6228571428571429
+gemma4_e2b,en_architecture.png,en,Architecture,0.37567405632115036
+gemma4_e2b,ar_architecture.png,ar,Architecture,0.6004162330905307
+gemma4_e2b,ja_architecture.png,ja,Architecture,0.6551724137931034
+gemma4_e2b,vi_architecture.png,vi,Architecture,0.30612244897959184
+gemma4_e2b,zh_simp_architecture.png,zh_simp,Architecture,0.17586206896551723
+gemma4_e2b,zh_trad_architecture.png,zh_trad,Architecture,0.4724137931034483
+gemma4_e2b,en_art.png,en,Art,0.016748768472906402
+gemma4_e2b,ar_art.png,ar,Art,0.39832285115303984
+gemma4_e2b,ja_art.png,ja,Art,0.7667386609071274
+gemma4_e2b,vi_art.png,vi,Art,0.6658385093167701
+gemma4_e2b,zh_simp_art.png,zh_simp,Art,0.718266253869969
+gemma4_e2b,zh_trad_art.png,zh_trad,Art,0.7213622291021672
+gemma4_e2b,en_artificial_intelligence.png,en,Artificial Intelligence,0.030379746835443037
+gemma4_e2b,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.5873983739837398
+gemma4_e2b,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.6632478632478632
+gemma4_e2b,vi_artificial_intelligence.png,vi,Artificial Intelligence,1.0
+gemma4_e2b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.640625
+gemma4_e2b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.359375
+gemma4_e2b,en_biology.png,en,Biology,0.006746626686656672
+gemma4_e2b,ar_biology.png,ar,Biology,0.5794117647058824
+gemma4_e2b,ja_biology.png,ja,Biology,0.464
+gemma4_e2b,vi_biology.png,vi,Biology,0.6632558139534884
+gemma4_e2b,zh_simp_biology.png,zh_simp,Biology,0.7701149425287356
+gemma4_e2b,zh_trad_biology.png,zh_trad,Biology,1.0
+gemma4_e2b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+gemma4_e2b,ar_chemistry.png,ar,Chemistry,0.47761194029850745
+gemma4_e2b,ja_chemistry.png,ja,Chemistry,0.7086834733893558
+gemma4_e2b,vi_chemistry.png,vi,Chemistry,0.7349081364829396
+gemma4_e2b,zh_simp_chemistry.png,zh_simp,Chemistry,1.0
+gemma4_e2b,zh_trad_chemistry.png,zh_trad,Chemistry,0.7229166666666667
+gemma4_e2b,en_computer.png,en,Computer,0.4228052472250252
+gemma4_e2b,ar_computer.png,ar,Computer,0.6143187066974596
+gemma4_e2b,ja_computer.png,ja,Computer,0.5259259259259259
+gemma4_e2b,vi_computer.png,vi,Computer,0.6631299734748011
+gemma4_e2b,zh_simp_computer.png,zh_simp,Computer,0.5817307692307693
+gemma4_e2b,zh_trad_computer.png,zh_trad,Computer,1.0
+gemma4_e2b,en_democracy.png,en,Democracy,0.0010070493454179255
+gemma4_e2b,ar_democracy.png,ar,Democracy,0.7185595567867036
+gemma4_e2b,ja_democracy.png,ja,Democracy,0.7733050847457628
+gemma4_e2b,vi_democracy.png,vi,Democracy,0.6005788712011577
+gemma4_e2b,zh_simp_democracy.png,zh_simp,Democracy,0.6088379705400983
+gemma4_e2b,zh_trad_democracy.png,zh_trad,Democracy,0.8608837970540099
+gemma4_e2b,en_earth.png,en,Earth,0.44929718875502006
+gemma4_e2b,ar_earth.png,ar,Earth,0.2950191570881226
+gemma4_e2b,ja_earth.png,ja,Earth,0.6685236768802229
+gemma4_e2b,vi_earth.png,vi,Earth,0.7656903765690377
+gemma4_e2b,zh_simp_earth.png,zh_simp,Earth,0.7712574850299401
+gemma4_e2b,zh_trad_earth.png,zh_trad,Earth,0.8179640718562874
+gemma4_e2b,en_electricity.png,en,Electricity,0.24818401937046006
+gemma4_e2b,ar_electricity.png,ar,Electricity,0.22687224669603523
+gemma4_e2b,ja_electricity.png,ja,Electricity,0.47333333333333333
+gemma4_e2b,vi_electricity.png,vi,Electricity,0.6354166666666666
+gemma4_e2b,zh_simp_electricity.png,zh_simp,Electricity,0.5382513661202186
+gemma4_e2b,zh_trad_electricity.png,zh_trad,Electricity,0.46174863387978143
+gemma4_e2b,en_fire.png,en,Fire,0.18372881355932202
+gemma4_e2b,ar_fire.png,ar,Fire,0.5092807424593968
+gemma4_e2b,ja_fire.png,ja,Fire,0.46445497630331756
+gemma4_e2b,vi_fire.png,vi,Fire,0.5457446808510639
+gemma4_e2b,zh_simp_fire.png,zh_simp,Fire,0.26380368098159507
+gemma4_e2b,zh_trad_fire.png,zh_trad,Fire,0.6441717791411042
+gemma4_e2b,en_gold.png,en,Gold,0.0011235955056179776
+gemma4_e2b,ar_gold.png,ar,Gold,0.5421836228287841
+gemma4_e2b,ja_gold.png,ja,Gold,0.3503184713375796
+gemma4_e2b,vi_gold.png,vi,Gold,0.7018348623853211
+gemma4_e2b,zh_simp_gold.png,zh_simp,Gold,0.8066825775656324
+gemma4_e2b,zh_trad_gold.png,zh_trad,Gold,0.6467780429594272
+gemma4_e2b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.6017262638717632
+gemma4_e2b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,0.3716535433070866
+gemma4_e2b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.5846645367412141
+gemma4_e2b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.7552986512524085
+gemma4_e2b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.50625
+gemma4_e2b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.9
+gemma4_e2b,en_internet.png,en,Internet,0.2227204783258595
+gemma4_e2b,ar_internet.png,ar,Internet,1.0
+gemma4_e2b,ja_internet.png,ja,Internet,0.5069767441860465
+gemma4_e2b,vi_internet.png,vi,Internet,0.3146198830409357
+gemma4_e2b,zh_simp_internet.png,zh_simp,Internet,0.7031578947368421
+gemma4_e2b,zh_trad_internet.png,zh_trad,Internet,0.7291666666666666
+gemma4_e2b,en_iron.png,en,Iron,0.05156382079459002
+gemma4_e2b,ar_iron.png,ar,Iron,1.0
+gemma4_e2b,ja_iron.png,ja,Iron,0.5619047619047619
+gemma4_e2b,vi_iron.png,vi,Iron,0.7856301531213192
+gemma4_e2b,zh_simp_iron.png,zh_simp,Iron,0.41114058355437666
+gemma4_e2b,zh_trad_iron.png,zh_trad,Iron,0.6790450928381963
+gemma4_e2b,en_mathematics.png,en,Mathematics,0.4238013698630137
+gemma4_e2b,ar_mathematics.png,ar,Mathematics,0.38159675236806495
+gemma4_e2b,ja_mathematics.png,ja,Mathematics,0.7080745341614907
+gemma4_e2b,vi_mathematics.png,vi,Mathematics,0.6327838827838828
+gemma4_e2b,zh_simp_mathematics.png,zh_simp,Mathematics,0.7328767123287672
+gemma4_e2b,zh_trad_mathematics.png,zh_trad,Mathematics,0.613013698630137
+gemma4_e2b,en_mobile_phone.png,en,Mobile Phone,0.011494252873563218
+gemma4_e2b,ar_mobile_phone.png,ar,Mobile Phone,0.34417344173441733
+gemma4_e2b,ja_mobile_phone.png,ja,Mobile Phone,0.7295774647887324
+gemma4_e2b,vi_mobile_phone.png,vi,Mobile Phone,0.7019374068554396
+gemma4_e2b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.610909090909091
+gemma4_e2b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.6436363636363637
+gemma4_e2b,en_moon.png,en,Moon,0.5151807228915662
+gemma4_e2b,ar_moon.png,ar,Moon,0.8547700170357752
+gemma4_e2b,ja_moon.png,ja,Moon,0.7300613496932515
+gemma4_e2b,vi_moon.png,vi,Moon,0.3439306358381503
+gemma4_e2b,zh_simp_moon.png,zh_simp,Moon,0.6116504854368932
+gemma4_e2b,zh_trad_moon.png,zh_trad,Moon,0.6019417475728155
+gemma4_e2b,en_music.png,en,Music,0.22915155910079768
+gemma4_e2b,ar_music.png,ar,Music,1.0
+gemma4_e2b,ja_music.png,ja,Music,0.5196374622356495
+gemma4_e2b,vi_music.png,vi,Music,0.6395833333333333
+gemma4_e2b,zh_simp_music.png,zh_simp,Music,0.7883597883597884
+gemma4_e2b,zh_trad_music.png,zh_trad,Music,0.5502645502645502
+gemma4_e2b,en_oxygen.png,en,Oxygen,0.3742786479802143
+gemma4_e2b,ar_oxygen.png,ar,Oxygen,0.47373358348968103
+gemma4_e2b,ja_oxygen.png,ja,Oxygen,0.7188755020080321
+gemma4_e2b,vi_oxygen.png,vi,Oxygen,0.661251015434606
+gemma4_e2b,zh_simp_oxygen.png,zh_simp,Oxygen,0.8289637952559301
+gemma4_e2b,zh_trad_oxygen.png,zh_trad,Oxygen,1.0
+gemma4_e2b,en_paper.png,en,Paper,0.015151515151515152
+gemma4_e2b,ar_paper.png,ar,Paper,0.5070422535211268
+gemma4_e2b,ja_paper.png,ja,Paper,0.7209302325581395
+gemma4_e2b,vi_paper.png,vi,Paper,0.7071651090342679
+gemma4_e2b,zh_simp_paper.png,zh_simp,Paper,0.6541353383458647
+gemma4_e2b,zh_trad_paper.png,zh_trad,Paper,0.7706766917293233
+gemma4_e2b,en_periodic_table.png,en,Periodic Table,0.5518474374255066
+gemma4_e2b,ar_periodic_table.png,ar,Periodic Table,0.5594512195121951
+gemma4_e2b,ja_periodic_table.png,ja,Periodic Table,0.5271966527196653
+gemma4_e2b,vi_periodic_table.png,vi,Periodic Table,0.4274543874891399
+gemma4_e2b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.6138392857142857
+gemma4_e2b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.7589285714285714
+gemma4_e2b,en_philosophy.png,en,Philosophy,0.1927710843373494
+gemma4_e2b,ar_philosophy.png,ar,Philosophy,0.6147082334132694
+gemma4_e2b,ja_philosophy.png,ja,Philosophy,0.7846820809248555
+gemma4_e2b,vi_philosophy.png,vi,Philosophy,0.5766758494031221
+gemma4_e2b,zh_simp_philosophy.png,zh_simp,Philosophy,0.6197718631178707
+gemma4_e2b,zh_trad_philosophy.png,zh_trad,Philosophy,0.5437262357414449
+gemma4_e2b,en_physics.png,en,Physics,0.7862281603288798
+gemma4_e2b,ar_physics.png,ar,Physics,0.5449330783938815
+gemma4_e2b,ja_physics.png,ja,Physics,0.585820895522388
+gemma4_e2b,vi_physics.png,vi,Physics,0.6038732394366197
+gemma4_e2b,zh_simp_physics.png,zh_simp,Physics,0.847870182555781
+gemma4_e2b,zh_trad_physics.png,zh_trad,Physics,1.0
+gemma4_e2b,en_sun.png,en,Sun,0.24959871589085073
+gemma4_e2b,ar_sun.png,ar,Sun,0.4389438943894389
+gemma4_e2b,ja_sun.png,ja,Sun,0.5469255663430421
+gemma4_e2b,vi_sun.png,vi,Sun,0.605191256830601
+gemma4_e2b,zh_simp_sun.png,zh_simp,Sun,0.36486486486486486
+gemma4_e2b,zh_trad_sun.png,zh_trad,Sun,0.22972972972972974
+gemma4_e2b,en_water.png,en,Water,0.35344827586206895
+gemma4_e2b,ar_water.png,ar,Water,0.352994555353902
+gemma4_e2b,ja_water.png,ja,Water,0.545
+gemma4_e2b,vi_water.png,vi,Water,0.5757042253521126
+gemma4_e2b,zh_simp_water.png,zh_simp,Water,1.0
+gemma4_e2b,zh_trad_water.png,zh_trad,Water,0.595
+gemma4_e2b,en_wheel.png,en,Wheel,0.23307291666666666
+gemma4_e2b,ar_wheel.png,ar,Wheel,0.24687933425797504
+gemma4_e2b,ja_wheel.png,ja,Wheel,0.5824742268041238
+gemma4_e2b,vi_wheel.png,vi,Wheel,0.7273945077026122
+gemma4_e2b,zh_simp_wheel.png,zh_simp,Wheel,0.6863905325443787
+gemma4_e2b,zh_trad_wheel.png,zh_trad,Wheel,0.5976331360946746
+granite3.2-vision_2b,en_agriculture.png,en,Agriculture,0.6331403762662807
+granite3.2-vision_2b,ar_agriculture.png,ar,Agriculture,1.0
+granite3.2-vision_2b,ja_agriculture.png,ja,Agriculture,1.0
+granite3.2-vision_2b,vi_agriculture.png,vi,Agriculture,0.7195809830781628
+granite3.2-vision_2b,zh_simp_agriculture.png,zh_simp,Agriculture,1.0
+granite3.2-vision_2b,zh_trad_agriculture.png,zh_trad,Agriculture,1.0
+granite3.2-vision_2b,en_architecture.png,en,Architecture,0.6135410425404434
+granite3.2-vision_2b,ar_architecture.png,ar,Architecture,0.7627471383975026
+granite3.2-vision_2b,ja_architecture.png,ja,Architecture,0.7438423645320197
+granite3.2-vision_2b,vi_architecture.png,vi,Architecture,0.5891156462585034
+granite3.2-vision_2b,zh_simp_architecture.png,zh_simp,Architecture,0.7793103448275862
+granite3.2-vision_2b,zh_trad_architecture.png,zh_trad,Architecture,0.8413793103448276
+granite3.2-vision_2b,en_art.png,en,Art,0.6137931034482759
+granite3.2-vision_2b,ar_art.png,ar,Art,0.8427672955974843
+granite3.2-vision_2b,ja_art.png,ja,Art,0.9460043196544277
+granite3.2-vision_2b,vi_art.png,vi,Art,0.8745341614906832
+granite3.2-vision_2b,zh_simp_art.png,zh_simp,Art,1.0
+granite3.2-vision_2b,zh_trad_art.png,zh_trad,Art,0.9226006191950464
+granite3.2-vision_2b,en_artificial_intelligence.png,en,Artificial Intelligence,0.2848101265822785
+granite3.2-vision_2b,ar_artificial_intelligence.png,ar,Artificial Intelligence,0.9166666666666666
+granite3.2-vision_2b,ja_artificial_intelligence.png,ja,Artificial Intelligence,0.8786324786324786
+granite3.2-vision_2b,vi_artificial_intelligence.png,vi,Artificial Intelligence,1.0
+granite3.2-vision_2b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.80078125
+granite3.2-vision_2b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,1.0
+granite3.2-vision_2b,en_biology.png,en,Biology,0.6551724137931034
+granite3.2-vision_2b,ar_biology.png,ar,Biology,1.0
+granite3.2-vision_2b,ja_biology.png,ja,Biology,0.688
+granite3.2-vision_2b,vi_biology.png,vi,Biology,0.6762790697674419
+granite3.2-vision_2b,zh_simp_biology.png,zh_simp,Biology,0.7758620689655172
+granite3.2-vision_2b,zh_trad_biology.png,zh_trad,Biology,1.0
+granite3.2-vision_2b,en_chemistry.png,en,Chemistry,0.6145038167938931
+granite3.2-vision_2b,ar_chemistry.png,ar,Chemistry,0.8072139303482587
+granite3.2-vision_2b,ja_chemistry.png,ja,Chemistry,1.0
+granite3.2-vision_2b,vi_chemistry.png,vi,Chemistry,0.29658792650918636
+granite3.2-vision_2b,zh_simp_chemistry.png,zh_simp,Chemistry,1.0
+granite3.2-vision_2b,zh_trad_chemistry.png,zh_trad,Chemistry,0.8520833333333333
+granite3.2-vision_2b,en_computer.png,en,Computer,0.6387487386478304
+granite3.2-vision_2b,ar_computer.png,ar,Computer,1.0
+granite3.2-vision_2b,ja_computer.png,ja,Computer,0.6592592592592592
+granite3.2-vision_2b,vi_computer.png,vi,Computer,0.6153846153846154
+granite3.2-vision_2b,zh_simp_computer.png,zh_simp,Computer,0.8004807692307693
+granite3.2-vision_2b,zh_trad_computer.png,zh_trad,Computer,0.7860576923076923
+granite3.2-vision_2b,en_democracy.png,en,Democracy,0.5065458207452165
+granite3.2-vision_2b,ar_democracy.png,ar,Democracy,0.771191135734072
+granite3.2-vision_2b,ja_democracy.png,ja,Democracy,0.9004237288135594
+granite3.2-vision_2b,vi_democracy.png,vi,Democracy,1.0
+granite3.2-vision_2b,zh_simp_democracy.png,zh_simp,Democracy,0.8379705400981997
+granite3.2-vision_2b,zh_trad_democracy.png,zh_trad,Democracy,1.0
+granite3.2-vision_2b,en_earth.png,en,Earth,0.6124497991967871
+granite3.2-vision_2b,ar_earth.png,ar,Earth,0.7854406130268199
+granite3.2-vision_2b,ja_earth.png,ja,Earth,1.0
+granite3.2-vision_2b,vi_earth.png,vi,Earth,1.0
+granite3.2-vision_2b,zh_simp_earth.png,zh_simp,Earth,0.8467065868263473
+granite3.2-vision_2b,zh_trad_earth.png,zh_trad,Earth,0.8778443113772455
+granite3.2-vision_2b,en_electricity.png,en,Electricity,0.6089588377723971
+granite3.2-vision_2b,ar_electricity.png,ar,Electricity,0.8237885462555066
+granite3.2-vision_2b,ja_electricity.png,ja,Electricity,0.6133333333333333
+granite3.2-vision_2b,vi_electricity.png,vi,Electricity,0.6497395833333334
+granite3.2-vision_2b,zh_simp_electricity.png,zh_simp,Electricity,1.0
+granite3.2-vision_2b,zh_trad_electricity.png,zh_trad,Electricity,1.0
+granite3.2-vision_2b,en_fire.png,en,Fire,0.5525423728813559
+granite3.2-vision_2b,ar_fire.png,ar,Fire,1.0
+granite3.2-vision_2b,ja_fire.png,ja,Fire,0.8293838862559242
+granite3.2-vision_2b,vi_fire.png,vi,Fire,0.7053191489361702
+granite3.2-vision_2b,zh_simp_fire.png,zh_simp,Fire,0.8404907975460123
+granite3.2-vision_2b,zh_trad_fire.png,zh_trad,Fire,0.8098159509202454
+granite3.2-vision_2b,en_gold.png,en,Gold,1.0
+granite3.2-vision_2b,ar_gold.png,ar,Gold,1.0
+granite3.2-vision_2b,ja_gold.png,ja,Gold,0.9140127388535032
+granite3.2-vision_2b,vi_gold.png,vi,Gold,0.6238532110091743
+granite3.2-vision_2b,zh_simp_gold.png,zh_simp,Gold,0.8400954653937948
+granite3.2-vision_2b,zh_trad_gold.png,zh_trad,Gold,1.0
+granite3.2-vision_2b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.5326757090012331
+granite3.2-vision_2b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,0.8755905511811024
+granite3.2-vision_2b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.7507987220447284
+granite3.2-vision_2b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,0.6059730250481695
+granite3.2-vision_2b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,1.0
+granite3.2-vision_2b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.85625
+granite3.2-vision_2b,en_internet.png,en,Internet,0.6360239162929746
+granite3.2-vision_2b,ar_internet.png,ar,Internet,1.0
+granite3.2-vision_2b,ja_internet.png,ja,Internet,0.6930232558139535
+granite3.2-vision_2b,vi_internet.png,vi,Internet,0.6467836257309941
+granite3.2-vision_2b,zh_simp_internet.png,zh_simp,Internet,1.0
+granite3.2-vision_2b,zh_trad_internet.png,zh_trad,Internet,0.80625
+granite3.2-vision_2b,en_iron.png,en,Iron,0.49366018596787825
+granite3.2-vision_2b,ar_iron.png,ar,Iron,0.7666399358460305
+granite3.2-vision_2b,ja_iron.png,ja,Iron,0.8238095238095238
+granite3.2-vision_2b,vi_iron.png,vi,Iron,0.8127208480565371
+granite3.2-vision_2b,zh_simp_iron.png,zh_simp,Iron,1.0
+granite3.2-vision_2b,zh_trad_iron.png,zh_trad,Iron,1.0
+granite3.2-vision_2b,en_mathematics.png,en,Mathematics,0.4743150684931507
+granite3.2-vision_2b,ar_mathematics.png,ar,Mathematics,0.7631935047361299
+granite3.2-vision_2b,ja_mathematics.png,ja,Mathematics,0.953416149068323
+granite3.2-vision_2b,vi_mathematics.png,vi,Mathematics,0.6373626373626373
+granite3.2-vision_2b,zh_simp_mathematics.png,zh_simp,Mathematics,1.0
+granite3.2-vision_2b,zh_trad_mathematics.png,zh_trad,Mathematics,1.0
+granite3.2-vision_2b,en_mobile_phone.png,en,Mobile Phone,1.0
+granite3.2-vision_2b,ar_mobile_phone.png,ar,Mobile Phone,1.0
+granite3.2-vision_2b,ja_mobile_phone.png,ja,Mobile Phone,1.0
+granite3.2-vision_2b,vi_mobile_phone.png,vi,Mobile Phone,1.0
+granite3.2-vision_2b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.8145454545454546
+granite3.2-vision_2b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.8690909090909091
+granite3.2-vision_2b,en_moon.png,en,Moon,0.8048192771084337
+granite3.2-vision_2b,ar_moon.png,ar,Moon,0.7695911413969335
+granite3.2-vision_2b,ja_moon.png,ja,Moon,0.7607361963190185
+granite3.2-vision_2b,vi_moon.png,vi,Moon,0.6864161849710982
+granite3.2-vision_2b,zh_simp_moon.png,zh_simp,Moon,0.8058252427184466
+granite3.2-vision_2b,zh_trad_moon.png,zh_trad,Moon,0.8009708737864077
+granite3.2-vision_2b,en_music.png,en,Music,0.6700507614213198
+granite3.2-vision_2b,ar_music.png,ar,Music,0.9527665317139001
+granite3.2-vision_2b,ja_music.png,ja,Music,1.0
+granite3.2-vision_2b,vi_music.png,vi,Music,0.6451388888888889
+granite3.2-vision_2b,zh_simp_music.png,zh_simp,Music,1.0
+granite3.2-vision_2b,zh_trad_music.png,zh_trad,Music,0.8941798941798942
+granite3.2-vision_2b,en_oxygen.png,en,Oxygen,0.5985160758450123
+granite3.2-vision_2b,ar_oxygen.png,ar,Oxygen,1.0
+granite3.2-vision_2b,ja_oxygen.png,ja,Oxygen,0.7469879518072289
+granite3.2-vision_2b,vi_oxygen.png,vi,Oxygen,0.6921202274573518
+granite3.2-vision_2b,zh_simp_oxygen.png,zh_simp,Oxygen,0.8726591760299626
+granite3.2-vision_2b,zh_trad_oxygen.png,zh_trad,Oxygen,0.9101123595505618
+granite3.2-vision_2b,en_paper.png,en,Paper,0.32196969696969696
+granite3.2-vision_2b,ar_paper.png,ar,Paper,0.7874519846350833
+granite3.2-vision_2b,ja_paper.png,ja,Paper,0.7740863787375415
+granite3.2-vision_2b,vi_paper.png,vi,Paper,0.6690031152647975
+granite3.2-vision_2b,zh_simp_paper.png,zh_simp,Paper,1.0
+granite3.2-vision_2b,zh_trad_paper.png,zh_trad,Paper,1.0
+granite3.2-vision_2b,en_periodic_table.png,en,Periodic Table,0.5828367103694875
+granite3.2-vision_2b,ar_periodic_table.png,ar,Periodic Table,0.7858231707317073
+granite3.2-vision_2b,ja_periodic_table.png,ja,Periodic Table,0.7238493723849372
+granite3.2-vision_2b,vi_periodic_table.png,vi,Periodic Table,0.7141615986099045
+granite3.2-vision_2b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.796875
+granite3.2-vision_2b,zh_trad_periodic_table.png,zh_trad,Periodic Table,0.8526785714285714
+granite3.2-vision_2b,en_philosophy.png,en,Philosophy,0.5458758109360519
+granite3.2-vision_2b,ar_philosophy.png,ar,Philosophy,1.0
+granite3.2-vision_2b,ja_philosophy.png,ja,Philosophy,0.8670520231213873
+granite3.2-vision_2b,vi_philosophy.png,vi,Philosophy,1.0
+granite3.2-vision_2b,zh_simp_philosophy.png,zh_simp,Philosophy,0.7756653992395437
+granite3.2-vision_2b,zh_trad_philosophy.png,zh_trad,Philosophy,1.0
+granite3.2-vision_2b,en_physics.png,en,Physics,0.41521068859198357
+granite3.2-vision_2b,ar_physics.png,ar,Physics,0.7762906309751434
+granite3.2-vision_2b,ja_physics.png,ja,Physics,0.9104477611940298
+granite3.2-vision_2b,vi_physics.png,vi,Physics,0.6558098591549296
+granite3.2-vision_2b,zh_simp_physics.png,zh_simp,Physics,1.0
+granite3.2-vision_2b,zh_trad_physics.png,zh_trad,Physics,0.8194726166328601
+granite3.2-vision_2b,en_sun.png,en,Sun,1.0
+granite3.2-vision_2b,ar_sun.png,ar,Sun,1.0
+granite3.2-vision_2b,ja_sun.png,ja,Sun,0.7411003236245954
+granite3.2-vision_2b,vi_sun.png,vi,Sun,0.6320582877959927
+granite3.2-vision_2b,zh_simp_sun.png,zh_simp,Sun,0.7432432432432432
+granite3.2-vision_2b,zh_trad_sun.png,zh_trad,Sun,0.8693693693693694
+granite3.2-vision_2b,en_water.png,en,Water,0.5431034482758621
+granite3.2-vision_2b,ar_water.png,ar,Water,0.7676950998185118
+granite3.2-vision_2b,ja_water.png,ja,Water,0.715
+granite3.2-vision_2b,vi_water.png,vi,Water,0.7922535211267606
+granite3.2-vision_2b,zh_simp_water.png,zh_simp,Water,0.875
+granite3.2-vision_2b,zh_trad_water.png,zh_trad,Water,0.89
+granite3.2-vision_2b,en_wheel.png,en,Wheel,0.6471354166666666
+granite3.2-vision_2b,ar_wheel.png,ar,Wheel,0.7475728155339806
+granite3.2-vision_2b,ja_wheel.png,ja,Wheel,1.0
+granite3.2-vision_2b,vi_wheel.png,vi,Wheel,0.6537173476222371
+granite3.2-vision_2b,zh_simp_wheel.png,zh_simp,Wheel,0.8402366863905325
+granite3.2-vision_2b,zh_trad_wheel.png,zh_trad,Wheel,1.0
+qwen3.5_4b,en_agriculture.png,en,Agriculture,0.000723589001447178
+qwen3.5_4b,ar_agriculture.png,ar,Agriculture,0.8166431593794076
+qwen3.5_4b,ja_agriculture.png,ja,Agriculture,0.034482758620689655
+qwen3.5_4b,vi_agriculture.png,vi,Agriculture,0.22401289282836423
+qwen3.5_4b,zh_simp_agriculture.png,zh_simp,Agriculture,0.011428571428571429
+qwen3.5_4b,zh_trad_agriculture.png,zh_trad,Agriculture,1.0
+qwen3.5_4b,en_architecture.png,en,Architecture,0.005392450569203115
+qwen3.5_4b,ar_architecture.png,ar,Architecture,1.0
+qwen3.5_4b,ja_architecture.png,ja,Architecture,0.034482758620689655
+qwen3.5_4b,vi_architecture.png,vi,Architecture,0.004081632653061225
+qwen3.5_4b,zh_simp_architecture.png,zh_simp,Architecture,0.010344827586206896
+qwen3.5_4b,zh_trad_architecture.png,zh_trad,Architecture,0.0034482758620689655
+qwen3.5_4b,en_art.png,en,Art,0.0009852216748768472
+qwen3.5_4b,ar_art.png,ar,Art,1.0
+qwen3.5_4b,ja_art.png,ja,Art,0.06047516198704104
+qwen3.5_4b,vi_art.png,vi,Art,0.0012422360248447205
+qwen3.5_4b,zh_simp_art.png,zh_simp,Art,0.0030959752321981426
+qwen3.5_4b,zh_trad_art.png,zh_trad,Art,0.0030959752321981426
+qwen3.5_4b,en_artificial_intelligence.png,en,Artificial Intelligence,0.0012658227848101266
+qwen3.5_4b,ar_artificial_intelligence.png,ar,Artificial Intelligence,1.0
+qwen3.5_4b,ja_artificial_intelligence.png,ja,Artificial Intelligence,1.0
+qwen3.5_4b,vi_artificial_intelligence.png,vi,Artificial Intelligence,0.001639344262295082
+qwen3.5_4b,zh_simp_artificial_intelligence.png,zh_simp,Artificial Intelligence,0.00390625
+qwen3.5_4b,zh_trad_artificial_intelligence.png,zh_trad,Artificial Intelligence,0.015625
+qwen3.5_4b,en_biology.png,en,Biology,0.0007496251874062968
+qwen3.5_4b,ar_biology.png,ar,Biology,1.0
+qwen3.5_4b,ja_biology.png,ja,Biology,0.048
+qwen3.5_4b,vi_biology.png,vi,Biology,0.014883720930232559
+qwen3.5_4b,zh_simp_biology.png,zh_simp,Biology,0.015804597701149427
+qwen3.5_4b,zh_trad_biology.png,zh_trad,Biology,0.011494252873563218
+qwen3.5_4b,en_chemistry.png,en,Chemistry,0.0009541984732824427
+qwen3.5_4b,ar_chemistry.png,ar,Chemistry,0.7761194029850746
+qwen3.5_4b,ja_chemistry.png,ja,Chemistry,0.01680672268907563
+qwen3.5_4b,vi_chemistry.png,vi,Chemistry,0.0026246719160104987
+qwen3.5_4b,zh_simp_chemistry.png,zh_simp,Chemistry,0.010416666666666666
+qwen3.5_4b,zh_trad_chemistry.png,zh_trad,Chemistry,0.010416666666666666
+qwen3.5_4b,en_computer.png,en,Computer,0.0010090817356205853
+qwen3.5_4b,ar_computer.png,ar,Computer,1.0
+qwen3.5_4b,ja_computer.png,ja,Computer,0.0
+qwen3.5_4b,vi_computer.png,vi,Computer,0.002652519893899204
+qwen3.5_4b,zh_simp_computer.png,zh_simp,Computer,0.002403846153846154
+qwen3.5_4b,zh_trad_computer.png,zh_trad,Computer,1.0
+qwen3.5_4b,en_democracy.png,en,Democracy,0.0010070493454179255
+qwen3.5_4b,ar_democracy.png,ar,Democracy,1.0
+qwen3.5_4b,ja_democracy.png,ja,Democracy,0.01694915254237288
+qwen3.5_4b,vi_democracy.png,vi,Democracy,0.005065123010130246
+qwen3.5_4b,zh_simp_democracy.png,zh_simp,Democracy,0.02127659574468085
+qwen3.5_4b,zh_trad_democracy.png,zh_trad,Democracy,0.02127659574468085
+qwen3.5_4b,en_earth.png,en,Earth,0.0015060240963855422
+qwen3.5_4b,ar_earth.png,ar,Earth,1.0
+qwen3.5_4b,ja_earth.png,ja,Earth,0.002785515320334262
+qwen3.5_4b,vi_earth.png,vi,Earth,0.00889121338912134
+qwen3.5_4b,zh_simp_earth.png,zh_simp,Earth,0.0011976047904191617
+qwen3.5_4b,zh_trad_earth.png,zh_trad,Earth,1.0
+qwen3.5_4b,en_electricity.png,en,Electricity,0.0012106537530266344
+qwen3.5_4b,ar_electricity.png,ar,Electricity,1.0
+qwen3.5_4b,ja_electricity.png,ja,Electricity,0.03333333333333333
+qwen3.5_4b,vi_electricity.png,vi,Electricity,0.005208333333333333
+qwen3.5_4b,zh_simp_electricity.png,zh_simp,Electricity,0.01366120218579235
+qwen3.5_4b,zh_trad_electricity.png,zh_trad,Electricity,0.00273224043715847
+qwen3.5_4b,en_fire.png,en,Fire,0.0013559322033898306
+qwen3.5_4b,ar_fire.png,ar,Fire,0.7018561484918794
+qwen3.5_4b,ja_fire.png,ja,Fire,0.0
+qwen3.5_4b,vi_fire.png,vi,Fire,0.0031914893617021275
+qwen3.5_4b,zh_simp_fire.png,zh_simp,Fire,0.03067484662576687
+qwen3.5_4b,zh_trad_fire.png,zh_trad,Fire,0.03067484662576687
+qwen3.5_4b,en_gold.png,en,Gold,0.0011235955056179776
+qwen3.5_4b,ar_gold.png,ar,Gold,1.0
+qwen3.5_4b,ja_gold.png,ja,Gold,0.0031847133757961785
+qwen3.5_4b,vi_gold.png,vi,Gold,0.001310615989515072
+qwen3.5_4b,zh_simp_gold.png,zh_simp,Gold,0.06205250596658711
+qwen3.5_4b,zh_trad_gold.png,zh_trad,Gold,1.0
+qwen3.5_4b,en_hydrogen_isotopes.png,en,Hydrogen Isotopes,0.002466091245376079
+qwen3.5_4b,ar_hydrogen_isotopes.png,ar,Hydrogen Isotopes,1.0
+qwen3.5_4b,ja_hydrogen_isotopes.png,ja,Hydrogen Isotopes,0.02875399361022364
+qwen3.5_4b,vi_hydrogen_isotopes.png,vi,Hydrogen Isotopes,1.0
+qwen3.5_4b,zh_simp_hydrogen_isotopes.png,zh_simp,Hydrogen Isotopes,0.003125
+qwen3.5_4b,zh_trad_hydrogen_isotopes.png,zh_trad,Hydrogen Isotopes,0.0
+qwen3.5_4b,en_internet.png,en,Internet,0.0007473841554559044
+qwen3.5_4b,ar_internet.png,ar,Internet,1.0
+qwen3.5_4b,ja_internet.png,ja,Internet,0.009302325581395349
+qwen3.5_4b,vi_internet.png,vi,Internet,0.0023391812865497076
+qwen3.5_4b,zh_simp_internet.png,zh_simp,Internet,0.002105263157894737
+qwen3.5_4b,zh_trad_internet.png,zh_trad,Internet,0.004166666666666667
+qwen3.5_4b,en_iron.png,en,Iron,0.005917159763313609
+qwen3.5_4b,ar_iron.png,ar,Iron,1.0
+qwen3.5_4b,ja_iron.png,ja,Iron,0.01904761904761905
+qwen3.5_4b,vi_iron.png,vi,Iron,0.014134275618374558
+qwen3.5_4b,zh_simp_iron.png,zh_simp,Iron,0.06896551724137931
+qwen3.5_4b,zh_trad_iron.png,zh_trad,Iron,0.058355437665782495
+qwen3.5_4b,en_mathematics.png,en,Mathematics,0.0017123287671232876
+qwen3.5_4b,ar_mathematics.png,ar,Mathematics,1.0
+qwen3.5_4b,ja_mathematics.png,ja,Mathematics,0.021739130434782608
+qwen3.5_4b,vi_mathematics.png,vi,Mathematics,0.014652014652014652
+qwen3.5_4b,zh_simp_mathematics.png,zh_simp,Mathematics,0.017123287671232876
+qwen3.5_4b,zh_trad_mathematics.png,zh_trad,Mathematics,0.017123287671232876
+qwen3.5_4b,en_mobile_phone.png,en,Mobile Phone,0.0022988505747126436
+qwen3.5_4b,ar_mobile_phone.png,ar,Mobile Phone,1.0
+qwen3.5_4b,ja_mobile_phone.png,ja,Mobile Phone,0.005633802816901409
+qwen3.5_4b,vi_mobile_phone.png,vi,Mobile Phone,1.0
+qwen3.5_4b,zh_simp_mobile_phone.png,zh_simp,Mobile Phone,0.007272727272727273
+qwen3.5_4b,zh_trad_mobile_phone.png,zh_trad,Mobile Phone,0.0036363636363636364
+qwen3.5_4b,en_moon.png,en,Moon,0.0024096385542168677
+qwen3.5_4b,ar_moon.png,ar,Moon,1.0
+qwen3.5_4b,ja_moon.png,ja,Moon,0.03067484662576687
+qwen3.5_4b,vi_moon.png,vi,Moon,0.001445086705202312
+qwen3.5_4b,zh_simp_moon.png,zh_simp,Moon,0.0048543689320388345
+qwen3.5_4b,zh_trad_moon.png,zh_trad,Moon,0.009708737864077669
+qwen3.5_4b,en_music.png,en,Music,0.0007251631617113851
+qwen3.5_4b,ar_music.png,ar,Music,0.747638326585695
+qwen3.5_4b,ja_music.png,ja,Music,0.006042296072507553
+qwen3.5_4b,vi_music.png,vi,Music,0.0006944444444444445
+qwen3.5_4b,zh_simp_music.png,zh_simp,Music,0.05291005291005291
+qwen3.5_4b,zh_trad_music.png,zh_trad,Music,0.005291005291005291
+qwen3.5_4b,en_oxygen.png,en,Oxygen,0.00247320692497939
+qwen3.5_4b,ar_oxygen.png,ar,Oxygen,1.0
+qwen3.5_4b,ja_oxygen.png,ja,Oxygen,0.012048192771084338
+qwen3.5_4b,vi_oxygen.png,vi,Oxygen,0.002437043054427295
+qwen3.5_4b,zh_simp_oxygen.png,zh_simp,Oxygen,0.5181023720349563
+qwen3.5_4b,zh_trad_oxygen.png,zh_trad,Oxygen,0.47440699126092384
+qwen3.5_4b,en_paper.png,en,Paper,0.0012626262626262627
+qwen3.5_4b,ar_paper.png,ar,Paper,1.0
+qwen3.5_4b,ja_paper.png,ja,Paper,0.009966777408637873
+qwen3.5_4b,vi_paper.png,vi,Paper,1.0
+qwen3.5_4b,zh_simp_paper.png,zh_simp,Paper,0.03383458646616541
+qwen3.5_4b,zh_trad_paper.png,zh_trad,Paper,0.0037593984962406013
+qwen3.5_4b,en_periodic_table.png,en,Periodic Table,0.0011918951132300357
+qwen3.5_4b,ar_periodic_table.png,ar,Periodic Table,1.0
+qwen3.5_4b,ja_periodic_table.png,ja,Periodic Table,0.02510460251046025
+qwen3.5_4b,vi_periodic_table.png,vi,Periodic Table,0.035621198957428324
+qwen3.5_4b,zh_simp_periodic_table.png,zh_simp,Periodic Table,0.013392857142857142
+qwen3.5_4b,zh_trad_periodic_table.png,zh_trad,Periodic Table,1.0
+qwen3.5_4b,en_philosophy.png,en,Philosophy,0.0018535681186283596
+qwen3.5_4b,ar_philosophy.png,ar,Philosophy,1.0
+qwen3.5_4b,ja_philosophy.png,ja,Philosophy,0.002890173410404624
+qwen3.5_4b,vi_philosophy.png,vi,Philosophy,0.0027548209366391185
+qwen3.5_4b,zh_simp_philosophy.png,zh_simp,Philosophy,1.0
+qwen3.5_4b,zh_trad_philosophy.png,zh_trad,Philosophy,0.019011406844106463
+qwen3.5_4b,en_physics.png,en,Physics,0.0010277492291880781
+qwen3.5_4b,ar_physics.png,ar,Physics,1.0
+qwen3.5_4b,ja_physics.png,ja,Physics,0.018656716417910446
+qwen3.5_4b,vi_physics.png,vi,Physics,0.04225352112676056
+qwen3.5_4b,zh_simp_physics.png,zh_simp,Physics,0.006085192697768763
+qwen3.5_4b,zh_trad_physics.png,zh_trad,Physics,0.02028397565922921
+qwen3.5_4b,en_sun.png,en,Sun,0.009630818619582664
+qwen3.5_4b,ar_sun.png,ar,Sun,0.7755775577557755
+qwen3.5_4b,ja_sun.png,ja,Sun,0.02912621359223301
+qwen3.5_4b,vi_sun.png,vi,Sun,1.0
+qwen3.5_4b,zh_simp_sun.png,zh_simp,Sun,0.03153153153153153
+qwen3.5_4b,zh_trad_sun.png,zh_trad,Sun,0.013513513513513514
+qwen3.5_4b,en_water.png,en,Water,0.0008620689655172414
+qwen3.5_4b,ar_water.png,ar,Water,1.0
+qwen3.5_4b,ja_water.png,ja,Water,1.0
+qwen3.5_4b,vi_water.png,vi,Water,0.0017605633802816902
+qwen3.5_4b,zh_simp_water.png,zh_simp,Water,0.01
+qwen3.5_4b,zh_trad_water.png,zh_trad,Water,0.0075
+qwen3.5_4b,en_wheel.png,en,Wheel,0.0013020833333333333
+qwen3.5_4b,ar_wheel.png,ar,Wheel,1.0
+qwen3.5_4b,ja_wheel.png,ja,Wheel,0.005154639175257732
+qwen3.5_4b,vi_wheel.png,vi,Wheel,0.003348961821835231
+qwen3.5_4b,zh_simp_wheel.png,zh_simp,Wheel,0.005917159763313609
+qwen3.5_4b,zh_trad_wheel.png,zh_trad,Wheel,0.005917159763313609

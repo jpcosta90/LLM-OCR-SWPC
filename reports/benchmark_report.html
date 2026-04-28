@@ -1,0 +1,66 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Impossible Triangle: Multimodal OCR Benchmark</title>
+        <style>
+            body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background: #f4f7f6; color: #333; }
+            h1, h2 { color: #2c3e50; }
+            .container { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+            table { border-collapse: collapse; width: 100%; margin: 20px 0; background: white; }
+            th, td { border: 1px solid #ddd; padding: 12px; text-align: center; }
+            th { background-color: #34495e; color: white; }
+            .heatmap-cell { font-weight: bold; }
+            .low-error { background-color: #d4edda; color: #155724; }
+            .mid-error { background-color: #fff3cd; color: #856404; }
+            .high-error { background-color: #f8d7da; color: #721c24; }
+            .summary-box { display: flex; gap: 20px; margin-bottom: 30px; }
+            .stat-card { flex: 1; padding: 20px; border-radius: 8px; color: white; text-align: center; }
+            .best-model { background: #27ae60; }
+            .avg-cer { background: #2980b9; }
+            .footer { margin-top: 50px; font-size: 0.9em; color: #7f8c8d; border-top: 1px solid #ddd; padding-top: 20px; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Impossible Triangle: OCR Benchmark Report</h1>
+            <p>Comparative analysis of Multimodal LLMs across 6 languages and 27 topics (162 total samples).</p>
+            
+            <div class="summary-box">
+    
+                <div class="stat-card best-model">
+                    <h3>🏆 Best Overall Model</h3>
+                    <div style="font-size: 1.5em; font-weight: bold;">ministral-3_8b</div>
+                    <p>CER: 3.04%</p>
+                </div>
+                <div class="stat-card avg-cer">
+                    <h3>📊 Total Samples</h3>
+                    <div style="font-size: 1.5em; font-weight: bold;">1620</div>
+                    <p>Processed across all families</p>
+                </div>
+            </div>
+            
+            <h2>Language x Model Performance (CER Heatmap)</h2>
+            <p>Lower is better. Cells are color-coded based on Character Error Rate.</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Language / Model</th>
+    <th>blaifa_InternVL3_5_4B</th><th>blaifa_InternVL3_5_8b</th><th>gemma4_e2b</th><th>gemma4_e4b</th><th>granite3.2-vision_2b</th><th>ministral-3_3b</th><th>ministral-3_8b</th><th>qwen3.5_2b</th><th>qwen3.5_4b</th><th>qwen3.5_9b</th></tr></thead><tbody><tr><td style='font-weight:bold; background:#f9f9f9;'>AR</td><td class='heatmap-cell high-error'>85.92%</td><td class='heatmap-cell high-error'>93.04%</td><td class='heatmap-cell high-error'>54.74%</td><td class='heatmap-cell high-error'>22.22%</td><td class='heatmap-cell high-error'>87.79%</td><td class='heatmap-cell mid-error'>15.67%</td><td class='heatmap-cell mid-error'>9.10%</td><td class='heatmap-cell high-error'>100.00%</td><td class='heatmap-cell high-error'>95.62%</td><td class='heatmap-cell high-error'>89.32%</td></tr><tr><td style='font-weight:bold; background:#f9f9f9;'>EN</td><td class='heatmap-cell mid-error'>9.71%</td><td class='heatmap-cell mid-error'>8.37%</td><td class='heatmap-cell high-error'>25.08%</td><td class='heatmap-cell low-error'>1.35%</td><td class='heatmap-cell high-error'>61.48%</td><td class='heatmap-cell low-error'>0.43%</td><td class='heatmap-cell low-error'>0.37%</td><td class='heatmap-cell low-error'>0.30%</td><td class='heatmap-cell low-error'>0.20%</td><td class='heatmap-cell mid-error'>10.53%</td></tr><tr><td style='font-weight:bold; background:#f9f9f9;'>JA</td><td class='heatmap-cell mid-error'>16.41%</td><td class='heatmap-cell mid-error'>14.14%</td><td class='heatmap-cell high-error'>59.89%</td><td class='heatmap-cell mid-error'>5.65%</td><td class='heatmap-cell high-error'>83.83%</td><td class='heatmap-cell low-error'>2.95%</td><td class='heatmap-cell low-error'>2.01%</td><td class='heatmap-cell high-error'>28.37%</td><td class='heatmap-cell mid-error'>9.17%</td><td class='heatmap-cell high-error'>23.57%</td></tr><tr><td style='font-weight:bold; background:#f9f9f9;'>VI</td><td class='heatmap-cell high-error'>36.19%</td><td class='heatmap-cell high-error'>44.52%</td><td class='heatmap-cell high-error'>63.18%</td><td class='heatmap-cell low-error'>4.49%</td><td class='heatmap-cell high-error'>72.57%</td><td class='heatmap-cell low-error'>1.97%</td><td class='heatmap-cell low-error'>1.36%</td><td class='heatmap-cell high-error'>33.66%</td><td class='heatmap-cell mid-error'>16.28%</td><td class='heatmap-cell high-error'>20.57%</td></tr><tr><td style='font-weight:bold; background:#f9f9f9;'>ZH_SIMP</td><td class='heatmap-cell mid-error'>17.24%</td><td class='heatmap-cell mid-error'>13.11%</td><td class='heatmap-cell high-error'>64.43%</td><td class='heatmap-cell mid-error'>14.83%</td><td class='heatmap-cell high-error'>89.06%</td><td class='heatmap-cell low-error'>3.32%</td><td class='heatmap-cell low-error'>2.56%</td><td class='heatmap-cell mid-error'>12.32%</td><td class='heatmap-cell mid-error'>7.26%</td><td class='heatmap-cell high-error'>21.71%</td></tr><tr><td style='font-weight:bold; background:#f9f9f9;'>ZH_TRAD</td><td class='heatmap-cell high-error'>33.46%</td><td class='heatmap-cell high-error'>29.54%</td><td class='heatmap-cell high-error'>68.68%</td><td class='heatmap-cell high-error'>21.32%</td><td class='heatmap-cell high-error'>91.33%</td><td class='heatmap-cell low-error'>2.97%</td><td class='heatmap-cell low-error'>2.81%</td><td class='heatmap-cell high-error'>36.74%</td><td class='heatmap-cell high-error'>21.26%</td><td class='heatmap-cell mid-error'>15.77%</td></tr>
+                </tbody>
+            </table>
+            
+            <h2>Detailed Metrics by Model Family</h2>
+            <ul>
+    <li><strong>blaifa_InternVL3_5_4B</strong>: Average CER 33.15%</li><li><strong>blaifa_InternVL3_5_8b</strong>: Average CER 33.79%</li><li><strong>gemma4_e2b</strong>: Average CER 56.00%</li><li><strong>gemma4_e4b</strong>: Average CER 11.64%</li><li><strong>granite3.2-vision_2b</strong>: Average CER 81.01%</li><li><strong>ministral-3_3b</strong>: Average CER 4.55%</li><li><strong>ministral-3_8b</strong>: Average CER 3.04%</li><li><strong>qwen3.5_2b</strong>: Average CER 35.23%</li><li><strong>qwen3.5_4b</strong>: Average CER 24.97%</li><li><strong>qwen3.5_9b</strong>: Average CER 30.24%</li>
+            </ul>
+            
+            <div class="footer">
+                Report generated on: Sun Apr 26 09:30:34 AM -03 2026
+<br>
+                Impossible Triangle Research Pipeline v1.0
+            </div>
+        </div>
+    </body>
+    </html>
+    
