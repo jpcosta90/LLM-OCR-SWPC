@@ -1,0 +1,7 @@
+There is a table in the image.
+
+| Article | Talk  |
+| ------- | -------- |
+| Science | Talk  |
+
+The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c.3000–1200 BCE). Their contributions to mathematics, astronomy, and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further advances, including the introduction of the Hindu–Arabic numerical system, were made during the Golden Age of India and Islamic Golden Age,173–192.
