@@ -1,0 +1,15 @@
+Isotopes of hydrogen
+
+Article Talk
+From Wikipedia, the free encyclopedia
+
+
+Hydrogen (^1H) has three naturally occurring isotopes: ^1H, 2^H and {formula_3}. ^{mathfrak{s}}^{mathtt{l e v _{n o m a l}}} H_{0} mathrm{{color:#ff98c5; font-size : larger }}! ! ,!
+ stable, while ^4He has a half-life of 12.3 s.[^a[^b]] Heavier isotopes also exist, all are synthetic and have a half-lives less than 1 zeptosecond ( {formula_6} ).[c][d]
+
+Hydrogen is the only element whose isotopes have different names that remain in common use today.^{mathfrak{s}}H^{mathtt{l e v _{n o m a l}}} !! ,!! ^2 mathrm{{color:#ff9801; font-size : larger }} H_{3} !!
+sometimes used for deuterium and tritium: IUPAC (International Union of Pure
+Applied Chemistry) accepts said symbols, but recommends the standard isotopic 
+symbols 1^H and {formula_7}, to avoid confusion in alphabetic sorting of chemical formulas.[e] Sometimes ^{mathfrak{s}}! !!!^{mathtt{l e v _{n o m a l}}} H_{0} mathrm{{color:#ff98c5; font-size : larger }}!
+^4H and {formula_3}, may be called protium to disambiguate.^1[ f ] During the early study of radioactivity, some other heavy radiotopes were given names , but such 
+names are rarely used today.

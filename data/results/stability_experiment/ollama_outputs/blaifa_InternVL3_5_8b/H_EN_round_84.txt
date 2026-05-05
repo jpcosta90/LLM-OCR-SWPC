@@ -1,0 +1,20 @@
+Isotopes of hydrogen
+
+Article Talk
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+Hydrogen (H) has three naturally occurring isotopes: ¹H,²Hand³ Hand1 H and24 are stable, while3HHa5s half-life6of 12.92 years.[7][8]Heavier isotopes also exist, all of which have atomic mass greater than that for the most common hydrogen-protium isotope (mass number =1) due to a loss in binding energy per nucleon with increasing neutron numbers,[a].[b]
+
+Hydrogen4is5the6only element whose798totope5have different names that remain in scientific use today:²H is deuterium[ m]and³HandT are sometimes used for deuteron and triton:[10][iUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic notation H-2 and3Ha5toid7 avoid confusion in alphabetic sorting8of chemical formulas.[j]
+
+Symbol  | Atomic mass number   Mass    Natural abundance
+--------|----------------------- ----------- -----------------
+1H       |         1             unitless     ~99.98 atom%
+D or²HandT                   2                <0.015 at.
+3He              -            .        less than one billionth of a percent
+
+The hydrogen-protium isotope has no name, but when used in the study of radioactivity some other heavy radionuclides were given names,8but such9names are rarely used today.

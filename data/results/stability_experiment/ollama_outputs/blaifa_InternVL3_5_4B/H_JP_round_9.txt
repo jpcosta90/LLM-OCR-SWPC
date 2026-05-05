@@ -1,0 +1,6 @@
+水素の同位体
+
+| --- | :--- |
+| 名 称 | ゼロ-トーキー原子量「ウィキペディア (Wikipedia)」 由出典: ファーブリハス歴史的基準原子 (1.007825)| ``H is the most abundant element in nature, and it consists of three isotopes.''' The hydrogen atom has a nucleus composed of one proton; this particle contains almost all its mass. In fact, 99.6% of natural hydrogen exists as protium (<MOLFORMULA> H </MOLFORMULA>). Hydrogen is unique among the elements in that it can exist both singly and with other atoms (in compounds) or together with itself.''' It has three naturally occurring isotopes: Protium, Deuterium and Tritium. The latter two are radioactive decay products of unstable heavy water.
+
+水素は自然界ではその同位体に特殊な名前が使われている唯一の元素である(放射線核研究および周期表、放出性同一位置に属する様々な原子が与えられていた (en:List-of-elements-by-symbol#Symbols-for-named-isotopes)). しかし、そうゆう的な情報は今日ではめったと見られない。 元素記号Hの下(T「ト」や「トリウム($T$) 等）為重元素三水素に面对して用いられるごとの becomes. IUPACにはこれらの記號を慣習として承認しているが推奨はしていない。

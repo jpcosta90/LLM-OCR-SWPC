@@ -1,0 +1,19 @@
+Isotopes of hydrogen
+
+Atomic  Number        Symbol    Name      Year Discovered 
+1                        H         Hydrogen          (Lavoisier, De Lacroix) 
+
+Hydrogen (^{1}H ) has three naturally occurring isotopes: ^{2}{\bf H},^{3}\mathrm{\texttt{H}}, and {^4 \mathsf{H}} .   ^{  } _{}^{  }\(^{  }_{ }
+
+stable, while \(^{_{}\!\!}_{{}^\scriptstyle{-}}} {}^{_1}_{_\phantom{{{2}{\bf H}}}\mathrm{\texttt{D}}\) has a half-life of \( \mathsf{T}=10.5793(6)  \,\mu s . ^4{}^m\) _ (Bing, Heavens et al.) Heavy isotopes also exist: all 
+are synthetic and have a hal\~f-life < zep second
+
+Hydrogen is the only element whose isotopes have different names that remain in common use today:\(^{2}{}_1 \mathrm{\texttt{H}}\) = deuterium^9and \(^{3}_{_{z}\,} {}_{}^\!\!{{\mathsf H}}}=\) tritum_. ^{ }  _{} 
+
+Sometimes used for deutetrum and tritiun: IUPAC (International Union of Pure A
+nd Applied Chemistry ) accepts said symbols , but recommends the standard isotopic 
+symbols \(^{2}{_{}}\) {\bf \texttt{(D)}} H And^3\mathrm{\mathsf{H}}, to avoid confusion in alphanetic sorting o f {chemical formulas} . _{} 
+
+During 1907, Glenn Seaborg suggested a study of radioactivity: some other heavy radioactive isotopes were given names , but such
+
+names are rarely used today.

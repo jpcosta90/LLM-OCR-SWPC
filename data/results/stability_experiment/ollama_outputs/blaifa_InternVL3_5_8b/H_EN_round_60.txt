@@ -1,0 +1,22 @@
+Isotopes of hydrogen
+
+Article  Talk 
+From Wikipedia, the free encyclopedia 
+
+Hydrogen (H) has three naturally occurring isotopes: ¹H, ²H and tritium³ ⁴₁₉₂ H . Hydrogens are stable while deuterons may be called proton to distinguish from neutrons. The term 'heavy hydrogen' is also used for the same reason; however it's not a neutron-proton pair but two protons surrounded by one electron in its ground state, with no net spin and thus has zero nuclear magnetic moment (a quantity related inversely proportional to precession frequency of spinning proton). ¹Heavier isotopes are all radioactive. Tritium is the most unstable due having half-life for about ten years or less than two minutes depending on conditions; deuterons have been known since around 1938, with a few others reported as early as in mid-20th century.
+
+Hydrogen has three naturally occurring isotopes: Protium (¹H), Deuterium²⁴₁₉₂ H and Tritonium³ 4. These are the most common isotope of hydrogen found on earth but there exist many other more rare ones known today including 3He, which can be produced artificially in laboratories using nuclear physics techniques.
+
+Hydrogen has three naturally occurring isotopes: Protium (¹H), Deuterium²⁴₁₉₂ H and Tritonium³ 4. These are the most common isotope of hydrogen found on earth but there exist many other more rare ones known today including 3He, which can be produced artificially in laboratories using nuclear physics techniques.
+
+In organic chemistry it refers to any substance containing carbon-hydrogen bonds (C-H) whether or not those hydrogens have been exchanged for deuteriums. In the same context D₂O is called heavy water even though its molecules are made up of two hydrogen atoms and one oxygen atom rather than three different elements as usual.
+
+Hydrogens with no neutrons, may be termed protons to distinguish from other forms; they contain only a single positive charge in their nucleus without any electrons orbiting around them. This leads these particles being classified under the category "nuclear physics" instead of general chemistry topics like organic reactions or biological processes such as photosynthesis.
+
+The name 'heavy hydrogen' was first used by Gilbert N. Lewis and Irving Langmuir, who also coined terms for isotopes of other elements in 1934.[8] It is sometimes called deuterium because it contains one proton inside its nucleus giving off a net charge equal to +e as usual; however this doesn't imply that there's any difference between prototypical hydrogen atoms and those containing extra neutrons. The term 'deuteron' was originally coined by J.J.Thomson in his book "Electrochemical Corpuscles" published around 1906 [23] but later became popularized through the works of several prominent physicists including James Chadwick, who discovered nuclear fission at Cambridge University during World War II.[7][8]
+
+Hydrogen is a unique element whose isotopes have different names that remain common use today: protium (¹H), deuterium²⁴₁₉₂ H and tritum³ 4. The symbols D/T are sometimes used for deuteron/triton respectively; however the former tends to be more widely accepted among chemists while others prefer using standardized notation like 1/2 or even decimal fractions when possible.[9][8]
+
+Applied Chemistry accepts said symbols, but recommends standard isotopic nomenclature whenever applicable especially if writing about radioactivity: e.g., H₂O instead of HD for water molecules consisting exclusively from deuteriums [7] since this helps avoid confusion in alphabetic sorting of chemical formulas. Similar practice applies to heavy hydrogen (²H) which is usually referred as 'deuteron' rather than simply deutrium or tritron because latter terms imply presence multiple neutrons within nucleus whereas former option indicates that there's only one additional nucleon compared normal proton-only configuration.
+
+During the early study of radioactivity, some other heavier isotopes were given names; such cases are rarely used today.

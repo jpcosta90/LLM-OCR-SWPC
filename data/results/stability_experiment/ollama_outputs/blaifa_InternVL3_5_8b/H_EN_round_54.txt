@@ -1,0 +1,17 @@
+Isotopes of hydrogen
+
+Article Talk
+From Wikipedia, the free encyclopedia
+
+
+Hydrogen (H) has three naturally occurring isotopes: 1 H , 2H and 3H . Hydrogen-1 ( protium ) is by far stable; while <MOLFORMULA> ^{4} </MOLFORMULA>
+Heavier isotopes also exist, all of which are synthetic and have a half-life of less than 1 zeptosecond (<SMILES> [Li]_{0.56238-7^{\circ}}(C)O[ClH_ {9}]^{+} </SMILES>) .
+
+Hydrogen is the only element whose isotopes have different names that remain in common use today; ² H is deuterium and <MOLFORMULA> ^{4}3Li_{2}(B(O))^{-}[C(=NH)]Cl[O]^{+1}_{950-78^{\circ}} </MOLFORMULA>
+sometimes used for deutetrium<sup>[note 1]</sup > and tritium; <SELFIES> [U(COOH)(COOH)][Li_2(O)_{\infty}]C[Cu]^{+} \rightleftharpoons C[H] </ SELFIES>
+
+Applied Chemistry ) accepts said symbols, but recommends the standard isotopic
+symbols ¹ H and ‰ , to avoid confusion in alphabetic sorting of chemical formulas; <IUPAC> [H_2O](CO)[Cl_{56-78^{\circ}}^{+1}_{3}] </ IUPAC>
+study by hydrogen, may be called protium for distinction. During the early
+studies on radioactivity some other heavy radionuclides were given names but such 
+names are rarely used today.
