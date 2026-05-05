@@ -1,0 +1,11 @@
+Isotopes of hydrogen
+
+1 ^H            3 ^H
+^1 ^H
+
+1 ^H             1 ¹B^H
+1 ^Hz          1 ¹B^H  (10^-21 s)
+
+Hydrogen (1 ^H) has three naturally occurring isotopes: ^1^H, ^2^H, and ^3^H. \(^1^H\) and \(^2^H\) are stable, while \(^3^H\) has a half-life of 12.32 years.  [^1^H] Heavier isotopes also exist; all are synthetic and have a half-life of less than 1 zettasecond (10\(^{-21}\) s). [^1^H[6] Heavier elements whose isotopes have different names that remain in common use today: ^2^H is deuterium and ^3^H is tritium.  [^1^H[8] The symbols D and T are sometimes used for deuterium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols \(^1^H\) and \(^3^H\), to avoid confusion in alphabetical sorting of chemical formulas. [^1^H[9] symbols \(^1^H\) and \(^3^H\), to avoid confusion in alphabetical sorting of chemical formulas].  [^1^H[10]
+
+During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.

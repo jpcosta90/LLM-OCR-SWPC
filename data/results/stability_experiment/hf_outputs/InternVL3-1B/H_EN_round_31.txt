@@ -1,0 +1,21 @@
+Isotopes of hydrogen
+```
+Isotopes of hydrogen:
+```
+\[^\mathrm{D}H\] and \(^\mathrm{t}H\)
+```
+```
+1^{\dagger}H and 2^{\dagger}H are stable, while 3^{\dagger}H has a half-life of 12.32 years. [4][nb=1] Heavier isotopes also exist; all are synthetic and have a half-life of less than 1 zeptosecond (10\{-21\} s). [5][6]
+```
+```
+\[^\mathrm{D}H\) and \(^\mathrm{t}H\) are sometimes used for deuteron and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols \(^{\mathrm{D}}H\) and \(^\mathrm{t}H\) to avoid confusion in alphabetical sorting of chemical formulas.
+\[^\mathrm{D}H\) and \(^\mathrm{t}H\), with no neutrons, may be called protium to disambiguate.
+During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.
+```
+```
+\[^\mathrm{D}H\)  and  \(^\mathrm{t}H\) are sometimes used for deuteron and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols  \(^{\mathrm{D}}H\) and \(^\mathrm{t}H\) to avoid confusion in alphabetical sorting of chemical formulas.
+\[^\mathrm{D}H\) and \(^\mathrm{t}H\), with no neutrons, may be called protium to disambiguate.
+During the early study of radioactive, some other heavy radioisotopes were given names, but such names are rarely used today.
+```
+
+(Note: The full text of this article is visible in the image, but it is too long and dense for extraction directly from the image.)

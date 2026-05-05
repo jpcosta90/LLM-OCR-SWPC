@@ -1,0 +1,11 @@
+**Isotopes of hydrogen**
+
+Hydrogen (¹H) has three naturally occurring isotopes:  
+- ¹H;  
+- ²H;  
+- and  
+³H.  
+1H and 2H are stable, while ³H has a half-life of 12.32 years.[^1] Heavier isotopes also exist; all are synthetic and have a half-life of less than 1 eptosecm (10⁻²¹ s).  
+^[^4][nb 1] Heavier isotopes: ¹H are stable, while ²H is deuterium[^7] and ³H is tritium.[^8] The symbols D and T are sometimes used for deutrium and tritium; IUPAC accepts symbolsdetium and symbols²H and符号³H, to avoid confusion in alphabetical sorting of chemical formulas.[^9]  
+
+Apart from proton, a few heavy radioisotopes were recently given names, but such names are rarely used today.

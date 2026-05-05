@@ -1,0 +1,10 @@
+[Editor]
+
+氘
+
+\[
+\begin{array}{lllll}
+\text{条评论} & \text{大陆简体} & \text{\hrv} & \text{pìe} & \text{dào} \quad \text{chu} \\
+\text{氢} & [1.0794(7)] (\text{7}) & \text{共有机质} & \text{间}\frac{1}{-}7 \text{之间}, & \text{共}\text{个}1\text{个离子,}, \text{质量数介于} \frac{1}{-}7 \text{之间,} & \text{共\text{个}2 \text{个\text{质子，}}其他$\text{'\u{9}}$} \text{没有\text{'\u{9}}$\text{原子}}\text{\text{分子}}, \text{中有\text{2 个\text{质\text{原子,}}其他\text{都\text{具有\text{放射性}}}.
+\text{天然存在的氘同位素有}\text{3 个,分别\text{氢1}\text{,\} 氦2\text{}}) 和具放射性的氚}{\u{1\text{H}}}$, 其中\text{H}{\u{}-\text{H}2} 和\text{H2}）和具放射性的氚$\u{H2}$(\u{H}2) , 其中\text{H3} ) \text{和\text{H}} )\text{和\text{H}})$ 的核素中只有痕量存在，为宇宙射线所产生。另外四个同位素\text{(4 Hto}7 } \text{都},\text{出\text{现\text{在\text{\mar Quant\quantity{10}{s}} } {\text{e}}}{}$
+\text{不出现在自然界中， only \text{在实验室制造出来 } ，且半衰期都少于}10\text{-}^{1\text{s}} {}^{-} ，极为不稳定。 \text{氢是唯一} \text{\textcite}{}\text{un\text{e\text{,}\text{one} \text{\text{\citetb\text{\text{aem\text{d}\u{cita}text{

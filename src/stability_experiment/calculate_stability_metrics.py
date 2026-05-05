@@ -88,7 +88,8 @@ def main():
         "data/results/stability_experiment/ollama_outputs"
     ]
     report_csv = "data/results/stability_experiment/stability_metrics.csv"
-    report_html = "data/results/stability_experiment/stability_report.html"
+    report_html_science = "data/results/stability_experiment/stability_report_science.html"
+    report_html_h = "data/results/stability_experiment/stability_report_h_novo.html"
     
     ground_truth = {}
     with open(gt_file, 'r', encoding='utf-8') as f:
@@ -164,7 +165,19 @@ def main():
                 'sd_err': statistics.stdev(errs) if len(errs) > 1 else 0.0,
             }
             
-    generate_html_report(stats, report_html)
+    # Split stats into two dictionaries
+    stats_science = defaultdict(dict)
+    stats_h = defaultdict(dict)
+    
+    for model in stats:
+        for img in stats[model]:
+            if "Science" in img:
+                stats_science[model][img] = stats[model][img]
+            elif "H_" in img:
+                stats_h[model][img] = stats[model][img]
+                
+    generate_html_report(stats_science, report_html_science)
+    generate_html_report(stats_h, report_html_h)
 
 if __name__ == "__main__":
     main()

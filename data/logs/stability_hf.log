@@ -1322,4 +1322,15 @@ Deleted cache: /home/joaopaulo/.cache/huggingface/hub/models--OpenGVLab--InternV
 ==================================================
 Starting HF Model: InternVL3-8B
 ==================================================
-Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files:  25%|██▌       | 1/4 [22:24<1:07:14, 1344.93s/it]Fetching 4 files: 100%|██████████| 4/4 [22:24<00:00, 336.23s/it]   
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [01:16<03:50, 76.74s/it]Loading checkpoint shards:  50%|█████     | 2/4 [01:38<01:29, 44.65s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [01:59<00:33, 33.88s/it]Loading checkpoint shards: 100%|██████████| 4/4 [02:03<00:00, 21.95s/it]Loading checkpoint shards: 100%|██████████| 4/4 [02:03<00:00, 30.91s/it]
+Processing Science_HK_Chinese.png (100 rounds)...
+Science_HK_Chinese.png (InternVL3-8B):   0%|          | 0/100 [00:00<?, ?it/s]Science_HK_Chinese.png (InternVL3-8B): 100%|██████████| 100/100 [00:00<00:00, 128423.27it/s]
+Processing Science_ZH_Chinese.png (100 rounds)...
+Science_ZH_Chinese.png (InternVL3-8B):   0%|          | 0/100 [00:00<?, ?it/s]Science_ZH_Chinese.png (InternVL3-8B): 100%|██████████| 100/100 [00:00<00:00, 131277.12it/s]
+Processing Science_Japanese.png (100 rounds)...
+Science_Japanese.png (InternVL3-8B):   0%|          | 0/100 [00:00<?, ?it/s]Science_Japanese.png (InternVL3-8B): 100%|██████████| 100/100 [00:00<00:00, 130298.35it/s]
+Processing Science_English.png (100 rounds)...
+Science_English.png (InternVL3-8B):   0%|          | 0/100 [00:00<?, ?it/s]Science_English.png (InternVL3-8B): 100%|██████████| 100/100 [00:00<00:00, 136800.52it/s]
+Cleaning up InternVL3-8B from cache...
+Deleted cache: /home/joaopaulo/.cache/huggingface/hub/models--OpenGVLab--InternVL3-8B

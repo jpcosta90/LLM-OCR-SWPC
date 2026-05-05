@@ -128,6 +128,8 @@ def main():
         os.makedirs(model_output_dir, exist_ok=True)
         
         try:
+            model = None
+            tokenizer = None
             model, tokenizer = load_model_by_name(model_name)
             
             for img in ground_truth_images:
@@ -152,8 +154,10 @@ def main():
         except Exception as e:
             print(f"Error processing {model_name}: {e}")
         finally:
-            del model
-            del tokenizer
+            if model is not None:
+                del model
+            if tokenizer is not None:
+                del tokenizer
             gc.collect()
             torch.cuda.empty_cache()
             

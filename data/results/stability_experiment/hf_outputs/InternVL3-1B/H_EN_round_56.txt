@@ -1,0 +1,6 @@
+Isotopes of hydrogen
+
+Isotopes:  
+\( ^{1}\)!, \( ^{2}\!,\) and \( ^{3}\)! Hydrogen (\(^{1}\!)\) and \( ^{2}\)! are stable, while \( ^{3}\)!\) have a half-life of 12.32 years.[10][2] Heavier isotopes also exist; all are synthesized and have a half-life of less than 1 zeptosec (10\(^{-2}\)!) [5][6]
+
+Hydrogen is the only element whose isotopes have different names that remain in common use today: \( ^{2}\)! is deuterium and \( ^{3}\)! is titanium. The symbols \(^{\!D}\) and \(^{\!T}\) are sometimes used for deuterium and tritium; IUPAC (International Union of Pure and Applied Chemistry) accepts said symbols, but recommends the standard isotopic symbols \( ^{\!2}\) and \( ^{\!3}\), to avoid confusion in alphabetical sorting of chemical formulas.9 Symbols \(^{\!2}\) and \(^{\!3}\) are to be called proton to disambiguous. [10] During the early study of radioactivity, some other heavy radioisotopes were given names, but such names are rarely used today.

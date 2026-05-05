@@ -1,0 +1,6 @@
+Isotopes of hydrogen
+Isotopes: \(^1H\), \(^2H\), and \(^3H\). \(^1H\) and \(^2H\) are stable, while \(^3H\) has a half-life of 12.32 years.
+\(^1\)H and \(^2H\) are synthetic and have a half-life of less than 1 zeptosec (10\(^{-2}\) s). \(^3H\) is tritium.
+The symbols \(^1H\) and \(^3H\) are sometimes used for deuteron and tritium; \(^D\) and \(^T\) are sometimes used for deuterium and tritium; \(^X\) and \(^{1/X}\) for any other isotope.
+
+The standard isotopic symbols \(^2H\) and \(^3H\) avoid confusion in apostrophe notation. \(^X\), with no neutrons, may be called protium to disambiguate. \(^X\), with no neutrons, may be called proton to disambige. During the early study of radioactivity, some other heavy radiotopes were given names, but such names are rarely used today.
