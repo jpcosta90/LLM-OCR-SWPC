@@ -1,0 +1,63 @@
+水素の同位体
+
+ hydrogen-1 atom  Hydrogen, sometimes called par氢 (氕) is a chemical element with atomic number 1 and symbol H on the periodic table.[a][b] It has only one proton but no neutrons in its nucleus.
+
+There are three naturally occurring isotopes of this non-metallic monatomic gas: protium which consists solely protons, deuterium or heavy hydrogen (D) contains a neutron as well; tritium is radioactive and very rare on Earth. Hydrogen was the first element to be artificially produced by nuclear reactions.[9]
+
+Hydrogenic atoms are single-electron systems whose Schrödinger equation can be solved analytically.
+
+The majority of naturally occurring deuterium, with an abundance relative to protium (1H) in natural water[clarification needed]  that is about one-twentieth per million or approximately a "part-per-million" level. It has been shown by mass spectrometry and other methods.[8]
+
+Hydrogen's most abundant isotopic form will be the subject of this article.
+
+Isotopes
+The nucleus contains two protons in addition to neutrons, giving it three different charge states known as hydrogen-1 (also called "protium", which is just a single proton), deuterium or heavy氢(D) and tritium(T). These are also referred to by the mass number of their nuclei. The name protium originates from its historical association with alchemy.
+
+Protium, being an element that has only one electron in total (one for each atom it contains under normal conditions)[citation needed]
+
+Deuterium is a stable hydrogen isotopic form consisting 1 proton and either no neutrons or two additional nuclear particles of the same charge as protons. In contrast to protium's single charged particle, deuterons are electrically neutral.
+
+In its most common state in nature on Earth at room temperature (25 °C) it is a colorless odor-less gas that does not dissolve readily into water.[citation needed]
+
+The other two isotopes of hydrogen: Triton and Deuteron. These do have neutrons; the difference between them lies only with their number.
+Hydrogen-1
+Protium, also known as "hydrogen," is by far the most abundant element in Earth's atmosphere.
+
+Deuterium or heavy氢 (D) was discovered prior to tritium and has a half-life of about 74 years. It contains one proton like ordinary hydrogen but with an added neutron inside its nucleus.[9]
+
+Triton, also known as Hydrogen-3, is unstable in nature since it decays via beta emission into helium; because there are three nucleons present (2 protons and a single neuteron) this form will eventually decay over time.
+
+It should be noted that these elements have different properties such as boiling point or freezing temperature due to their respective masses being slightly larger than those of protium. They also exhibit distinct chemical characteristics when reacting with other compounds; however the fundamental nature remains unchanged despite having additional nucleons within its nucleus.[9]
+
+Hydrogen is a non-metallic monatomic gas that will not dissolve readily into water under normal conditions.
+
+Isotopes
+Protium (H) – The most abundant form of hydrogen on Earth and contains only one proton in its atomic structure. It does have an electron but no neutrons present within the nucleus itself.[9]
+
+Deuterium(D)-Heavy氢 is a stable isotopic variant consisting 1proton &neutron pair located at center core region surrounded by single outer shell containing two electrons.
+
+Triton(H-3)–This unstable form decays into alpha particles over time due to presence of three nucleons(2 protons +one neutron). It exhibits unique characteristics when exposed towards certain chemicals but ultimately disintegrates leaving behind helium nucleus residue.[9]
+
+Hydrogen is a colorless odor less gas which can be found abundantly across various celestial bodies including stars planets etc.. However its actual composition may vary greatly depending upon specific environmental factors like temperature pressure density level present at given location [10].
+
+References
+
+[a] IUPAC Gold Book - Hydrogen (https://goldbook.iupac.org/html/H/A/AtmH.html)
+
+[b]^ The Cambridge Encyclopedia of Mathematics, "Hydrocarbons" section.
+
+[c] U.S. Geological Survey: Minerals and Rocks – Deuterium Isotope Ratios in Water
+
+[d]
+
+[e] J.R.C.McCutchan - Atomic Structure And Chemical Bonding In Hydrogen Atom (Cambridge University Press)
+
+[f]^ American Physical Society Division of Physics Publications- Properties Of Heavy hydrogen At Standard Conditions For Temperature Pressure Density Levels.
+
+[g] Nature Publishing Group Ltd., "Hydrocarbons".
+
+[h]
+
+[i]
+[j]
+[k][l]

@@ -1,0 +1,10 @@
+水素の同位体
+
+ hydrogen atom  Hydrogen: "Hydrogenic atoms" (Wikipedia)
+出典 フィリピン語学教科書「ウィキペディア」[ Wikipedia ]
+
+ 水素(H、標準原子量1,008)[注]には天然にH₁(protium)と3つの同位体がある。その 中の2つは非常に不安定な核("-heavy hydrogen"が実験室で合成されているが、自然では全く存 在しない[ref.])。
+
+ 水素の中性子を失った原子核(H¹ proton)に陽電子が使われている唯一の元素である(放射線的研究 による的是みは放出 by 同位体に似た構造から生じる [en List of elements with stable isotopes]。しかしながら、そのような同位素は今日ではほとんだな 存在している。(Uranium-235や(Helium 4の核が重曹と三つ水素で使用されている)。
+
+ このため、IUPAC에서는これらの記号を用いずに定義し続けるのが推奨していない。

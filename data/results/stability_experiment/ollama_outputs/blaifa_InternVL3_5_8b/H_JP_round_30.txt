@@ -1,0 +1,13 @@
+水素の同位体
+
+ hydrogen isotopes.
+元素 (honnei は、標識粒子量し10^{-4} )には天然にH_1, H2および95%の上3つが存在する。その他の Hydrogen-protium ({formula_nota}) {Hydroge }は放射性核種({{Uran}})と同位体として知られる。
+
+水素は今日ではこの同位体量特殊な慣例がない唯一の元素である (射線の研究
+初期には、放縁性同位量に様々ない慣倒が与えられていた [enList of elements by sy
+
+ symbols#Symbols for named isotopes]) しかし、そのような事前は今日ではめっただ 
+使われている。UIPAC定義より(「H」の3つと Hydrogen-protium ({formula_4})が存在量で三つ水素に大して用いられるこ
+とにある。
+
+IUPAGにはこれらの記号を使用していると報告しいているのが奨励されている

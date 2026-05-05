@@ -1,0 +1,16 @@
+Isotopes of hydrogen
+Article talk
+Isotopes of hydrogen have different names in
+common use today: $\text{2H}$, $\text{1H}$ and $\text{3H}$ isotopes
+from Wikipedia, the free encyclopedia $\text{[10]}$
+Hydrogen is the only element whose isotopes have different names in
+common use today: $\text{2H}$ is $\text{deuterium}$$\text{[7]}$ and $\text{3H}$ is $\text{tritium}$$\text{[8]}$
+The symbols $\text{D}$ and $\text{T}$ are
+sometimes used for deuterium and tritium; $\text{IUPAC}$ ($\text{International Union of Pure and Applied Chemistry}$) accepts said symbols, but recommends the standard isotopic
+symbols $\text{2H}$ and $\text{3H}$, to avoid confusion in alphabetic sorting of $\text{chemical}$ formulas.$\text{[9]}$
+Hydrogen has a $\text{half-life}$ of $12.32$ years. $\text{[5]}$
+Heavier isotopes also exist; all
+symbols $\text{2H}$ and $\text{3H}$ have $\text{half-life}$ of $10^{-21}$ $\text{s}$.$\text{[6]}$
+During the early
+study of radioactivity, some other heavy radioisotopes were given names, but such
+names are rarely used today.
