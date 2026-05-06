@@ -11,7 +11,7 @@ from transformers import BitsAndBytesConfig
 
 # Configuration
 LAB_NAME = 'OpenGVLab'
-MODELS = ['InternVL3-1B', 'InternVL3-2B', 'InternVL3-8B']
+MODELS = ['InternVL3-1B', 'InternVL3-2B', 'InternVL3-8B', 'InternVL3-14B']
 IMAGES_DIR = "data/raw2"
 GROUND_TRUTH_CSV = "data/ground_truth/raw2/raw2_manual_ocr_ground_truth.csv"
 OUTPUT_DIR = "data/results/stability_experiment/hf_outputs"
@@ -108,6 +108,15 @@ def load_model_by_name(model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True, use_fast=False)
     return model, tokenizer
 
+def check_model_completed(model_name, ground_truth_images):
+    model_safe_name = model_name.replace("/", "_").replace(":", "_")
+    model_output_dir = os.path.join(OUTPUT_DIR, model_safe_name)
+    if not os.path.exists(model_output_dir):
+        return False
+    expected_files = len(ground_truth_images) * N_ROUNDS
+    actual_files = len([f for f in os.listdir(model_output_dir) if f.endswith('.txt')])
+    return actual_files >= expected_files
+
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
@@ -124,6 +133,10 @@ def main():
 
     for model_name in MODELS:
         print(f"\n{'='*50}\nStarting HF Model: {model_name}\n{'='*50}")
+        if check_model_completed(model_name, ground_truth_images):
+            print(f"Skipping {model_name} - All rounds already completed.")
+            continue
+            
         model_output_dir = os.path.join(OUTPUT_DIR, model_name)
         os.makedirs(model_output_dir, exist_ok=True)
         

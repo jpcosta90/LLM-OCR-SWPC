@@ -1355,3 +1355,24 @@ Processing H_HK.png (100 rounds)...
 H_HK.png (InternVL3-8B): 100%|██████████| 100/100 [24:59<00:00, 15.20s/it]H_HK.png (InternVL3-8B): 100%|██████████| 100/100 [24:59<00:00, 15.00s/it]
 Cleaning up InternVL3-8B from cache...
 Deleted cache: /home/joaopaulo/.cache/huggingface/hub/models--OpenGVLab--InternVL3-8B
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+==================================================
+Starting HF Model: InternVL3-1B
+==================================================
+Skipping InternVL3-1B - All rounds already completed.
+
+==================================================
+Starting HF Model: InternVL3-2B
+==================================================
+Skipping InternVL3-2B - All rounds already completed.
+
+==================================================
+Starting HF Model: InternVL3-8B
+==================================================
+Skipping InternVL3-8B - All rounds already completed.
+
+==================================================
+Starting HF Model: InternVL3-14B
+==================================================
+Loading checkpoint shards:   0%|          | 0/7 [00:00<?, ?it/s]Loading checkpoint shards:  14%|█▍        | 1/7 [00:20<02:00, 20.10s/it]Loading checkpoint shards:  29%|██▊       | 2/7 [00:43<01:51, 22.20s/it]
