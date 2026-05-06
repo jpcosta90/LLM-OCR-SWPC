@@ -1375,4 +1375,831 @@ Skipping InternVL3-8B - All rounds already completed.
 ==================================================
 Starting HF Model: InternVL3-14B
 ==================================================
-Loading checkpoint shards:   0%|          | 0/7 [00:00<?, ?it/s]Loading checkpoint shards:  14%|█▍        | 1/7 [00:20<02:00, 20.10s/it]Loading checkpoint shards:  29%|██▊       | 2/7 [00:43<01:51, 22.20s/it]
+Loading checkpoint shards:   0%|          | 0/7 [00:00<?, ?it/s]Loading checkpoint shards:  14%|█▍        | 1/7 [00:20<02:00, 20.10s/it]Loading checkpoint shards:  29%|██▊       | 2/7 [00:43<01:51, 22.20s/it]Loading checkpoint shards:  43%|████▎     | 3/7 [01:06<01:30, 22.51s/it]Loading checkpoint shards:  57%|█████▋    | 4/7 [01:29<01:07, 22.61s/it]Loading checkpoint shards:  71%|███████▏  | 5/7 [01:52<00:45, 22.65s/it]Loading checkpoint shards:  86%|████████▌ | 6/7 [02:09<00:20, 20.96s/it]Loading checkpoint shards: 100%|██████████| 7/7 [02:15<00:00, 15.96s/it]Loading checkpoint shards: 100%|██████████| 7/7 [02:15<00:00, 19.35s/it]
+Processing Science_HK_Chinese.png (100 rounds)...
+Science_HK_Chinese.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   1%|          | 1/100 [00:58<1:37:03, 58.82s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   2%|▏         | 2/100 [01:55<1:34:00, 57.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   3%|▎         | 3/100 [02:50<1:31:28, 56.59s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   4%|▍         | 4/100 [03:47<1:30:32, 56.59s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   5%|▌         | 5/100 [04:43<1:29:29, 56.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   6%|▌         | 6/100 [05:40<1:28:45, 56.66s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   7%|▋         | 7/100 [06:38<1:28:12, 56.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   8%|▊         | 8/100 [07:38<1:28:42, 57.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):   9%|▉         | 9/100 [08:38<1:28:42, 58.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  10%|█         | 10/100 [09:36<1:27:56, 58.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  11%|█         | 11/100 [10:34<1:26:36, 58.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  12%|█▏        | 12/100 [11:34<1:26:04, 58.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  13%|█▎        | 13/100 [12:31<1:24:21, 58.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  14%|█▍        | 14/100 [13:27<1:22:25, 57.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  15%|█▌        | 15/100 [14:25<1:21:51, 57.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  16%|█▌        | 16/100 [15:21<1:19:55, 57.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  17%|█▋        | 17/100 [16:17<1:18:33, 56.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  18%|█▊        | 18/100 [17:13<1:17:36, 56.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  19%|█▉        | 19/100 [18:13<1:17:41, 57.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  20%|██        | 20/100 [19:12<1:17:17, 57.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  21%|██        | 21/100 [20:10<1:16:34, 58.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  22%|██▏       | 22/100 [21:09<1:15:51, 58.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  23%|██▎       | 23/100 [22:07<1:14:41, 58.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  24%|██▍       | 24/100 [23:07<1:14:21, 58.70s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  25%|██▌       | 25/100 [24:05<1:13:19, 58.67s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  26%|██▌       | 26/100 [25:05<1:12:38, 58.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  27%|██▋       | 27/100 [26:02<1:11:03, 58.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  28%|██▊       | 28/100 [26:59<1:09:33, 57.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  29%|██▉       | 29/100 [27:56<1:08:21, 57.77s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  30%|███       | 30/100 [28:53<1:07:07, 57.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  31%|███       | 31/100 [29:50<1:06:00, 57.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  32%|███▏      | 32/100 [30:49<1:05:28, 57.77s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  33%|███▎      | 33/100 [31:47<1:04:37, 57.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  34%|███▍      | 34/100 [32:44<1:03:16, 57.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  35%|███▌      | 35/100 [33:40<1:01:42, 56.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  36%|███▌      | 36/100 [34:38<1:01:21, 57.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  37%|███▋      | 37/100 [35:38<1:01:01, 58.12s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  38%|███▊      | 38/100 [36:36<1:00:12, 58.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  39%|███▉      | 39/100 [37:37<59:58, 59.00s/it]  Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  40%|████      | 40/100 [38:35<58:43, 58.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  41%|████      | 41/100 [39:34<57:50, 58.82s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  42%|████▏     | 42/100 [40:34<57:05, 59.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  43%|████▎     | 43/100 [41:29<55:04, 57.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  44%|████▍     | 44/100 [42:23<52:58, 56.75s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  45%|████▌     | 45/100 [43:17<51:11, 55.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  46%|████▌     | 46/100 [44:14<50:30, 56.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  47%|████▋     | 47/100 [45:12<50:00, 56.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  48%|████▊     | 48/100 [46:08<48:59, 56.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  49%|████▉     | 49/100 [46:59<46:39, 54.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  50%|█████     | 50/100 [47:59<46:57, 56.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  51%|█████     | 51/100 [48:54<45:50, 56.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  52%|█████▏    | 52/100 [49:52<45:16, 56.59s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  53%|█████▎    | 53/100 [50:50<44:43, 57.10s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  54%|█████▍    | 54/100 [51:48<43:55, 57.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  55%|█████▌    | 55/100 [52:45<42:53, 57.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  56%|█████▌    | 56/100 [53:42<41:49, 57.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  57%|█████▋    | 57/100 [54:37<40:32, 56.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  58%|█████▊    | 58/100 [55:32<39:10, 55.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  59%|█████▉    | 59/100 [56:29<38:34, 56.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  60%|██████    | 60/100 [57:27<37:50, 56.77s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  61%|██████    | 61/100 [58:24<37:02, 56.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  62%|██████▏   | 62/100 [59:24<36:36, 57.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  63%|██████▎   | 63/100 [1:00:21<35:28, 57.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  64%|██████▍   | 64/100 [1:01:18<34:28, 57.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  65%|██████▌   | 65/100 [1:02:16<33:37, 57.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  66%|██████▌   | 66/100 [1:03:14<32:45, 57.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  67%|██████▋   | 67/100 [1:04:14<32:04, 58.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  68%|██████▊   | 68/100 [1:05:10<30:49, 57.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  69%|██████▉   | 69/100 [1:06:08<29:48, 57.68s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  70%|███████   | 70/100 [1:07:05<28:44, 57.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  71%|███████   | 71/100 [1:08:02<27:43, 57.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  72%|███████▏  | 72/100 [1:08:58<26:30, 56.82s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  73%|███████▎  | 73/100 [1:09:56<25:49, 57.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  74%|███████▍  | 74/100 [1:10:54<24:53, 57.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  75%|███████▌  | 75/100 [1:11:51<23:51, 57.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  76%|███████▌  | 76/100 [1:12:49<23:04, 57.71s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  77%|███████▋  | 77/100 [1:13:47<22:09, 57.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  78%|███████▊  | 78/100 [1:14:46<21:18, 58.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  79%|███████▉  | 79/100 [1:15:42<20:03, 57.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  80%|████████  | 80/100 [1:16:40<19:11, 57.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  81%|████████  | 81/100 [1:17:37<18:13, 57.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  82%|████████▏ | 82/100 [1:18:35<17:14, 57.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  83%|████████▎ | 83/100 [1:19:34<16:25, 58.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  84%|████████▍ | 84/100 [1:20:30<15:19, 57.50s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  85%|████████▌ | 85/100 [1:21:25<14:11, 56.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  86%|████████▌ | 86/100 [1:22:23<13:17, 56.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  87%|████████▋ | 87/100 [1:23:20<12:23, 57.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  88%|████████▊ | 88/100 [1:24:19<11:31, 57.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  89%|████████▉ | 89/100 [1:25:18<10:36, 57.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  90%|█████████ | 90/100 [1:26:15<09:38, 57.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  91%|█████████ | 91/100 [1:27:14<08:43, 58.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  92%|█████████▏| 92/100 [1:28:14<07:48, 58.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  93%|█████████▎| 93/100 [1:29:13<06:51, 58.74s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  94%|█████████▍| 94/100 [1:30:12<05:53, 58.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  95%|█████████▌| 95/100 [1:31:10<04:53, 58.67s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  96%|█████████▌| 96/100 [1:32:10<03:55, 59.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  97%|█████████▋| 97/100 [1:33:04<02:52, 57.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  98%|█████████▊| 98/100 [1:34:02<01:55, 57.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B):  99%|█████████▉| 99/100 [1:34:59<00:57, 57.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_HK_Chinese.png (InternVL3-14B): 100%|██████████| 100/100 [1:35:55<00:00, 56.96s/it]Science_HK_Chinese.png (InternVL3-14B): 100%|██████████| 100/100 [1:35:55<00:00, 57.55s/it]
+Processing Science_ZH_Chinese.png (100 rounds)...
+Science_ZH_Chinese.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   1%|          | 1/100 [00:49<1:22:01, 49.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   2%|▏         | 2/100 [01:41<1:23:31, 51.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   3%|▎         | 3/100 [02:30<1:20:50, 50.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   4%|▍         | 4/100 [03:22<1:21:00, 50.63s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   5%|▌         | 5/100 [04:13<1:20:42, 50.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   6%|▌         | 6/100 [05:03<1:19:20, 50.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   7%|▋         | 7/100 [05:54<1:18:29, 50.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   8%|▊         | 8/100 [06:40<1:15:20, 49.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):   9%|▉         | 9/100 [07:30<1:14:57, 49.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  10%|█         | 10/100 [08:22<1:15:24, 50.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  11%|█         | 11/100 [09:10<1:13:42, 49.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  12%|█▏        | 12/100 [10:00<1:12:45, 49.61s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  13%|█▎        | 13/100 [10:49<1:11:34, 49.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  14%|█▍        | 14/100 [11:37<1:10:10, 48.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  15%|█▌        | 15/100 [12:25<1:09:19, 48.94s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  16%|█▌        | 16/100 [13:14<1:08:17, 48.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  17%|█▋        | 17/100 [14:02<1:07:13, 48.60s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  18%|█▊        | 18/100 [14:53<1:07:20, 49.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  19%|█▉        | 19/100 [15:41<1:06:09, 49.01s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  20%|██        | 20/100 [16:29<1:05:00, 48.76s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  21%|██        | 21/100 [17:22<1:05:40, 49.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  22%|██▏       | 22/100 [18:14<1:05:30, 50.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  23%|██▎       | 23/100 [19:02<1:03:47, 49.71s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  24%|██▍       | 24/100 [19:50<1:02:35, 49.42s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  25%|██▌       | 25/100 [20:41<1:02:22, 49.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  26%|██▌       | 26/100 [21:30<1:01:05, 49.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  27%|██▋       | 27/100 [22:19<59:53, 49.23s/it]  Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  28%|██▊       | 28/100 [23:08<59:12, 49.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  29%|██▉       | 29/100 [23:59<58:54, 49.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  30%|███       | 30/100 [24:50<58:24, 50.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  31%|███       | 31/100 [25:41<57:48, 50.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  32%|███▏      | 32/100 [26:32<57:15, 50.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  33%|███▎      | 33/100 [27:20<55:47, 49.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  34%|███▍      | 34/100 [28:09<54:28, 49.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  35%|███▌      | 35/100 [28:59<53:55, 49.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  36%|███▌      | 36/100 [29:48<52:39, 49.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  37%|███▋      | 37/100 [30:38<52:06, 49.63s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  38%|███▊      | 38/100 [31:29<51:39, 49.98s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  39%|███▉      | 39/100 [32:17<50:24, 49.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  40%|████      | 40/100 [33:06<49:23, 49.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  41%|████      | 41/100 [33:56<48:34, 49.41s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  42%|████▏     | 42/100 [34:46<48:02, 49.70s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  43%|████▎     | 43/100 [35:37<47:33, 50.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  44%|████▍     | 44/100 [36:28<46:55, 50.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  45%|████▌     | 45/100 [37:18<46:13, 50.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  46%|████▌     | 46/100 [38:08<45:06, 50.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  47%|████▋     | 47/100 [38:59<44:27, 50.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  48%|████▊     | 48/100 [39:49<43:37, 50.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  49%|████▉     | 49/100 [40:40<42:53, 50.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  50%|█████     | 50/100 [41:29<41:41, 50.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  51%|█████     | 51/100 [42:17<40:19, 49.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  52%|█████▏    | 52/100 [43:05<39:09, 48.94s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  53%|█████▎    | 53/100 [43:49<37:15, 47.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  54%|█████▍    | 54/100 [44:39<37:06, 48.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  55%|█████▌    | 55/100 [45:28<36:20, 48.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  56%|█████▌    | 56/100 [46:17<35:42, 48.70s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  57%|█████▋    | 57/100 [47:06<34:52, 48.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  58%|█████▊    | 58/100 [47:57<34:42, 49.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  59%|█████▉    | 59/100 [48:48<34:03, 49.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  60%|██████    | 60/100 [49:36<32:56, 49.42s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  61%|██████    | 61/100 [50:25<31:54, 49.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  62%|██████▏   | 62/100 [51:11<30:37, 48.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  63%|██████▎   | 63/100 [51:58<29:29, 47.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  64%|██████▍   | 64/100 [52:49<29:22, 48.95s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  65%|██████▌   | 65/100 [53:37<28:13, 48.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  66%|██████▌   | 66/100 [54:26<27:39, 48.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  67%|██████▋   | 67/100 [55:18<27:14, 49.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  68%|██████▊   | 68/100 [56:07<26:19, 49.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  69%|██████▉   | 69/100 [56:57<25:39, 49.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  70%|███████   | 70/100 [57:45<24:33, 49.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  71%|███████   | 71/100 [58:34<23:42, 49.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  72%|███████▏  | 72/100 [59:23<22:52, 49.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  73%|███████▎  | 73/100 [1:00:16<22:42, 50.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  74%|███████▍  | 74/100 [1:01:08<21:59, 50.76s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  75%|███████▌  | 75/100 [1:01:59<21:12, 50.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  76%|███████▌  | 76/100 [1:02:50<20:24, 51.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  77%|███████▋  | 77/100 [1:03:42<19:39, 51.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  78%|███████▊  | 78/100 [1:04:30<18:26, 50.30s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  79%|███████▉  | 79/100 [1:05:21<17:38, 50.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  80%|████████  | 80/100 [1:06:11<16:48, 50.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  81%|████████  | 81/100 [1:07:01<15:54, 50.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  82%|████████▏ | 82/100 [1:07:49<14:49, 49.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  83%|████████▎ | 83/100 [1:08:36<13:51, 48.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  84%|████████▍ | 84/100 [1:09:25<12:59, 48.74s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  85%|████████▌ | 85/100 [1:10:13<12:09, 48.66s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  86%|████████▌ | 86/100 [1:11:03<11:24, 48.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  87%|████████▋ | 87/100 [1:11:52<10:37, 49.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  88%|████████▊ | 88/100 [1:12:43<09:56, 49.67s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  89%|████████▉ | 89/100 [1:13:35<09:13, 50.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  90%|█████████ | 90/100 [1:14:27<08:27, 50.75s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  91%|█████████ | 91/100 [1:15:15<07:29, 49.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  92%|█████████▏| 92/100 [1:16:07<06:44, 50.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  93%|█████████▎| 93/100 [1:16:54<05:46, 49.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  94%|█████████▍| 94/100 [1:17:41<04:53, 48.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  95%|█████████▌| 95/100 [1:18:31<04:05, 49.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  96%|█████████▌| 96/100 [1:19:22<03:19, 49.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  97%|█████████▋| 97/100 [1:20:13<02:30, 50.10s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  98%|█████████▊| 98/100 [1:21:04<01:40, 50.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B):  99%|█████████▉| 99/100 [1:21:53<00:50, 50.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_ZH_Chinese.png (InternVL3-14B): 100%|██████████| 100/100 [1:22:43<00:00, 49.98s/it]Science_ZH_Chinese.png (InternVL3-14B): 100%|██████████| 100/100 [1:22:43<00:00, 49.64s/it]
+Processing Science_Japanese.png (100 rounds)...
+Science_Japanese.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   1%|          | 1/100 [00:39<1:05:14, 39.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   2%|▏         | 2/100 [01:18<1:03:54, 39.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   3%|▎         | 3/100 [01:58<1:04:04, 39.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   4%|▍         | 4/100 [02:37<1:03:09, 39.48s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   5%|▌         | 5/100 [03:17<1:02:49, 39.68s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   6%|▌         | 6/100 [03:57<1:02:09, 39.67s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   7%|▋         | 7/100 [04:36<1:01:07, 39.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   8%|▊         | 8/100 [05:16<1:00:50, 39.68s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):   9%|▉         | 9/100 [05:55<59:47, 39.42s/it]  Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  10%|█         | 10/100 [06:34<58:44, 39.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  11%|█         | 11/100 [06:36<41:27, 27.95s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  12%|█▏        | 12/100 [07:16<46:18, 31.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  13%|█▎        | 13/100 [07:55<49:08, 33.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  14%|█▍        | 14/100 [08:32<49:58, 34.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  15%|█▌        | 15/100 [09:11<51:01, 36.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  16%|█▌        | 16/100 [09:50<51:50, 37.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  17%|█▋        | 17/100 [10:29<52:03, 37.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  18%|█▊        | 18/100 [11:09<52:07, 38.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  19%|█▉        | 19/100 [11:48<52:02, 38.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  20%|██        | 20/100 [12:28<51:49, 38.87s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  21%|██        | 21/100 [13:07<51:20, 38.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  22%|██▏       | 22/100 [13:47<51:05, 39.30s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  23%|██▎       | 23/100 [14:27<50:37, 39.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  24%|██▍       | 24/100 [15:07<50:02, 39.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  25%|██▌       | 25/100 [15:46<49:14, 39.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  26%|██▌       | 26/100 [16:26<48:44, 39.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  27%|██▋       | 27/100 [17:05<48:02, 39.48s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  28%|██▊       | 28/100 [17:44<47:21, 39.47s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  29%|██▉       | 29/100 [18:24<46:50, 39.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  30%|███       | 30/100 [19:03<45:56, 39.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  31%|███       | 31/100 [19:43<45:19, 39.42s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  32%|███▏      | 32/100 [20:22<44:32, 39.30s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  33%|███▎      | 33/100 [21:01<43:49, 39.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  34%|███▍      | 34/100 [21:40<43:00, 39.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  35%|███▌      | 35/100 [22:19<42:32, 39.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  36%|███▌      | 36/100 [22:59<41:57, 39.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  37%|███▋      | 37/100 [23:37<41:02, 39.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  38%|███▊      | 38/100 [24:16<40:18, 39.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  39%|███▉      | 39/100 [24:55<39:44, 39.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  40%|████      | 40/100 [25:35<39:18, 39.31s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  41%|████      | 41/100 [26:15<38:39, 39.32s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  42%|████▏     | 42/100 [26:53<37:53, 39.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  43%|████▎     | 43/100 [27:33<37:13, 39.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  44%|████▍     | 44/100 [28:12<36:35, 39.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  45%|████▌     | 45/100 [28:52<36:10, 39.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  46%|████▌     | 46/100 [29:31<35:28, 39.41s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  47%|████▋     | 47/100 [30:10<34:38, 39.22s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  48%|████▊     | 48/100 [30:50<34:04, 39.31s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  49%|████▉     | 49/100 [31:29<33:23, 39.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  50%|█████     | 50/100 [32:08<32:48, 39.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  51%|█████     | 51/100 [32:47<32:01, 39.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  52%|█████▏    | 52/100 [33:26<31:23, 39.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  53%|█████▎    | 53/100 [34:06<30:50, 39.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  54%|█████▍    | 54/100 [34:46<30:16, 39.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  55%|█████▌    | 55/100 [35:26<29:41, 39.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  56%|█████▌    | 56/100 [36:06<29:10, 39.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  57%|█████▋    | 57/100 [36:45<28:20, 39.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  58%|█████▊    | 58/100 [37:24<27:35, 39.42s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  59%|█████▉    | 59/100 [38:03<26:56, 39.42s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  60%|██████    | 60/100 [38:43<26:20, 39.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  61%|██████    | 61/100 [39:23<25:42, 39.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  62%|██████▏   | 62/100 [40:02<25:03, 39.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  63%|██████▎   | 63/100 [40:42<24:20, 39.47s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  64%|██████▍   | 64/100 [41:22<23:51, 39.77s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  65%|██████▌   | 65/100 [42:01<23:03, 39.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  66%|██████▌   | 66/100 [42:40<22:22, 39.47s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  67%|██████▋   | 67/100 [43:20<21:41, 39.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  68%|██████▊   | 68/100 [43:59<20:55, 39.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  69%|██████▉   | 69/100 [44:38<20:16, 39.23s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  70%|███████   | 70/100 [45:17<19:38, 39.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  71%|███████   | 71/100 [45:58<19:13, 39.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  72%|███████▏  | 72/100 [46:37<18:29, 39.63s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  73%|███████▎  | 73/100 [47:17<17:48, 39.59s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  74%|███████▍  | 74/100 [47:54<16:52, 38.93s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  75%|███████▌  | 75/100 [48:34<16:17, 39.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  76%|███████▌  | 76/100 [49:13<15:37, 39.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  77%|███████▋  | 77/100 [49:52<15:00, 39.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  78%|███████▊  | 78/100 [50:32<14:22, 39.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  79%|███████▉  | 79/100 [51:11<13:44, 39.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  80%|████████  | 80/100 [51:48<12:52, 38.63s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  81%|████████  | 81/100 [52:28<12:20, 38.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  82%|████████▏ | 82/100 [53:07<11:41, 39.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  83%|████████▎ | 83/100 [53:46<11:03, 39.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  84%|████████▍ | 84/100 [54:26<10:27, 39.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  85%|████████▌ | 85/100 [55:06<09:51, 39.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  86%|████████▌ | 86/100 [55:45<09:13, 39.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  87%|████████▋ | 87/100 [56:25<08:33, 39.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  88%|████████▊ | 88/100 [57:04<07:52, 39.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  89%|████████▉ | 89/100 [57:42<07:09, 39.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  90%|█████████ | 90/100 [58:22<06:31, 39.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  91%|█████████ | 91/100 [59:01<05:54, 39.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  92%|█████████▏| 92/100 [59:41<05:15, 39.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  93%|█████████▎| 93/100 [1:00:21<04:36, 39.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  94%|█████████▍| 94/100 [1:01:00<03:57, 39.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  95%|█████████▌| 95/100 [1:01:40<03:17, 39.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  96%|█████████▌| 96/100 [1:02:20<02:38, 39.60s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  97%|█████████▋| 97/100 [1:03:00<01:59, 39.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  98%|█████████▊| 98/100 [1:03:40<01:19, 39.87s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B):  99%|█████████▉| 99/100 [1:04:20<00:40, 40.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_Japanese.png (InternVL3-14B): 100%|██████████| 100/100 [1:05:00<00:00, 39.84s/it]Science_Japanese.png (InternVL3-14B): 100%|██████████| 100/100 [1:05:00<00:00, 39.00s/it]
+Processing Science_English.png (100 rounds)...
+Science_English.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   1%|          | 1/100 [00:30<49:55, 30.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   2%|▏         | 2/100 [00:59<48:53, 29.94s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   3%|▎         | 3/100 [01:28<47:10, 29.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   4%|▍         | 4/100 [01:56<46:23, 29.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   5%|▌         | 5/100 [02:27<46:46, 29.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   6%|▌         | 6/100 [02:56<46:11, 29.48s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   7%|▋         | 7/100 [03:27<46:07, 29.76s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   8%|▊         | 8/100 [03:56<45:24, 29.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):   9%|▉         | 9/100 [04:24<44:11, 29.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  10%|█         | 10/100 [04:52<43:14, 28.82s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  11%|█         | 11/100 [05:22<43:16, 29.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  12%|█▏        | 12/100 [05:51<42:33, 29.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  13%|█▎        | 13/100 [06:19<41:54, 28.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  14%|█▍        | 14/100 [06:50<42:04, 29.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  15%|█▌        | 15/100 [07:19<41:22, 29.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  16%|█▌        | 16/100 [07:49<41:08, 29.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  17%|█▋        | 17/100 [08:16<39:55, 28.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  18%|█▊        | 18/100 [08:46<39:48, 29.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  19%|█▉        | 19/100 [09:16<39:34, 29.32s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  20%|██        | 20/100 [09:45<39:00, 29.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  21%|██        | 21/100 [10:15<38:54, 29.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  22%|██▏       | 22/100 [10:44<38:13, 29.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  23%|██▎       | 23/100 [11:14<38:00, 29.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  24%|██▍       | 24/100 [11:44<37:38, 29.71s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  25%|██▌       | 25/100 [12:14<37:17, 29.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  26%|██▌       | 26/100 [12:44<36:54, 29.93s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  27%|██▋       | 27/100 [13:15<36:28, 29.98s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  28%|██▊       | 28/100 [13:43<35:26, 29.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  29%|██▉       | 29/100 [14:12<34:39, 29.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  30%|███       | 30/100 [14:41<34:15, 29.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  31%|███       | 31/100 [15:10<33:25, 29.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  32%|███▏      | 32/100 [15:40<33:21, 29.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  33%|███▎      | 33/100 [16:14<34:30, 30.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  34%|███▍      | 34/100 [16:44<33:41, 30.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  35%|███▌      | 35/100 [17:13<32:29, 30.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  36%|███▌      | 36/100 [17:43<31:59, 29.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  37%|███▋      | 37/100 [18:12<31:17, 29.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  38%|███▊      | 38/100 [18:40<30:19, 29.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  39%|███▉      | 39/100 [19:09<29:30, 29.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  40%|████      | 40/100 [19:39<29:21, 29.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  41%|████      | 41/100 [20:07<28:32, 29.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  42%|████▏     | 42/100 [20:35<27:39, 28.61s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  43%|████▎     | 43/100 [21:04<27:26, 28.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  44%|████▍     | 44/100 [21:33<26:49, 28.75s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  45%|████▌     | 45/100 [22:06<27:41, 30.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  46%|████▌     | 46/100 [22:35<26:48, 29.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  47%|████▋     | 47/100 [23:05<26:13, 29.68s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  48%|████▊     | 48/100 [23:34<25:46, 29.74s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  49%|████▉     | 49/100 [24:03<24:52, 29.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  50%|█████     | 50/100 [24:31<24:08, 28.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  51%|█████     | 51/100 [25:01<23:55, 29.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  52%|█████▏    | 52/100 [25:31<23:39, 29.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  53%|█████▎    | 53/100 [25:59<22:50, 29.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  54%|█████▍    | 54/100 [26:29<22:22, 29.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  55%|█████▌    | 55/100 [26:57<21:38, 28.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  56%|█████▌    | 56/100 [27:26<21:17, 29.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  57%|█████▋    | 57/100 [27:56<20:59, 29.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  58%|█████▊    | 58/100 [28:28<21:10, 30.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  59%|█████▉    | 59/100 [28:52<19:23, 28.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  60%|██████    | 60/100 [29:24<19:30, 29.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  61%|██████    | 61/100 [29:52<18:53, 29.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  62%|██████▏   | 62/100 [30:22<18:31, 29.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  63%|██████▎   | 63/100 [30:51<17:52, 28.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  64%|██████▍   | 64/100 [31:17<17:00, 28.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  65%|██████▌   | 65/100 [31:47<16:43, 28.66s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  66%|██████▌   | 66/100 [32:16<16:25, 28.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  67%|██████▋   | 67/100 [32:45<15:47, 28.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  68%|██████▊   | 68/100 [33:14<15:22, 28.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  69%|██████▉   | 69/100 [33:42<14:50, 28.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  70%|███████   | 70/100 [34:09<14:03, 28.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  71%|███████   | 71/100 [34:38<13:40, 28.30s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  72%|███████▏  | 72/100 [35:08<13:29, 28.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  73%|███████▎  | 73/100 [35:37<13:06, 29.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  74%|███████▍  | 74/100 [36:07<12:39, 29.23s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  75%|███████▌  | 75/100 [36:37<12:19, 29.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  76%|███████▌  | 76/100 [37:08<11:54, 29.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  77%|███████▋  | 77/100 [37:36<11:16, 29.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  78%|███████▊  | 78/100 [38:09<11:06, 30.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  79%|███████▉  | 79/100 [38:38<10:33, 30.15s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  80%|████████  | 80/100 [39:08<10:00, 30.01s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  81%|████████  | 81/100 [39:36<09:21, 29.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  82%|████████▏ | 82/100 [40:07<08:55, 29.74s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  83%|████████▎ | 83/100 [40:37<08:28, 29.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  84%|████████▍ | 84/100 [41:07<07:59, 29.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  85%|████████▌ | 85/100 [41:37<07:27, 29.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  86%|████████▌ | 86/100 [42:07<06:59, 29.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  87%|████████▋ | 87/100 [42:34<06:18, 29.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  88%|████████▊ | 88/100 [43:04<05:52, 29.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  89%|████████▉ | 89/100 [43:33<05:21, 29.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  90%|█████████ | 90/100 [44:03<04:53, 29.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  91%|█████████ | 91/100 [44:34<04:29, 29.95s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  92%|█████████▏| 92/100 [45:06<04:05, 30.66s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  93%|█████████▎| 93/100 [45:35<03:30, 30.10s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  94%|█████████▍| 94/100 [46:06<03:02, 30.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  95%|█████████▌| 95/100 [47:07<03:17, 39.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  96%|█████████▌| 96/100 [47:37<02:26, 36.73s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  97%|█████████▋| 97/100 [48:06<01:42, 34.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  98%|█████████▊| 98/100 [48:36<01:06, 33.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B):  99%|█████████▉| 99/100 [49:07<00:32, 32.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+Science_English.png (InternVL3-14B): 100%|██████████| 100/100 [49:35<00:00, 31.19s/it]Science_English.png (InternVL3-14B): 100%|██████████| 100/100 [49:35<00:00, 29.76s/it]
+Processing H_EN.png (100 rounds)...
+H_EN.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   1%|          | 1/100 [00:22<37:46, 22.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   2%|▏         | 2/100 [00:45<37:25, 22.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   3%|▎         | 3/100 [01:08<37:07, 22.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   4%|▍         | 4/100 [01:33<37:54, 23.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   5%|▌         | 5/100 [01:56<37:16, 23.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   6%|▌         | 6/100 [02:20<36:46, 23.47s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   7%|▋         | 7/100 [02:43<36:13, 23.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   8%|▊         | 8/100 [03:06<35:43, 23.30s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):   9%|▉         | 9/100 [03:29<35:18, 23.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  10%|█         | 10/100 [03:53<34:58, 23.32s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  11%|█         | 11/100 [04:18<35:20, 23.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  12%|█▏        | 12/100 [04:41<34:32, 23.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  13%|█▎        | 13/100 [05:04<33:54, 23.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  14%|█▍        | 14/100 [05:27<33:21, 23.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  15%|█▌        | 15/100 [05:49<32:40, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  16%|█▌        | 16/100 [06:12<32:10, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  17%|█▋        | 17/100 [06:35<31:46, 22.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  18%|█▊        | 18/100 [06:58<31:25, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  19%|█▉        | 19/100 [07:21<31:11, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  20%|██        | 20/100 [07:45<30:58, 23.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  21%|██        | 21/100 [08:08<30:35, 23.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  22%|██▏       | 22/100 [08:31<30:14, 23.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  23%|██▎       | 23/100 [08:55<29:51, 23.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  24%|██▍       | 24/100 [09:18<29:33, 23.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  25%|██▌       | 25/100 [09:41<29:06, 23.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  26%|██▌       | 26/100 [10:04<28:25, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  27%|██▋       | 27/100 [10:27<28:01, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  28%|██▊       | 28/100 [10:50<27:48, 23.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  29%|██▉       | 29/100 [11:14<27:31, 23.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  30%|███       | 30/100 [11:37<27:02, 23.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  31%|███       | 31/100 [12:00<26:34, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  32%|███▏      | 32/100 [12:23<26:09, 23.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  33%|███▎      | 33/100 [12:46<25:41, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  34%|███▍      | 34/100 [13:09<25:30, 23.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  35%|███▌      | 35/100 [13:34<25:37, 23.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  36%|███▌      | 36/100 [13:57<25:03, 23.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  37%|███▋      | 37/100 [14:20<24:27, 23.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  38%|███▊      | 38/100 [14:43<23:55, 23.15s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  39%|███▉      | 39/100 [15:06<23:26, 23.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  40%|████      | 40/100 [15:27<22:32, 22.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  41%|████      | 41/100 [15:50<22:20, 22.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  42%|████▏     | 42/100 [16:13<22:09, 22.92s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  43%|████▎     | 43/100 [16:36<21:46, 22.92s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  44%|████▍     | 44/100 [17:00<21:30, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  45%|████▌     | 45/100 [17:23<21:11, 23.12s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  46%|████▌     | 46/100 [17:46<20:47, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  47%|████▋     | 47/100 [18:09<20:23, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  48%|████▊     | 48/100 [18:32<19:55, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  49%|████▉     | 49/100 [18:55<19:37, 23.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  50%|█████     | 50/100 [19:18<19:11, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  51%|█████     | 51/100 [19:41<18:46, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  52%|█████▏    | 52/100 [20:04<18:24, 23.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  53%|█████▎    | 53/100 [20:27<18:00, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  54%|█████▍    | 54/100 [20:50<17:40, 23.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  55%|█████▌    | 55/100 [21:13<17:18, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  56%|█████▌    | 56/100 [21:37<16:59, 23.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  57%|█████▋    | 57/100 [22:01<16:56, 23.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  58%|█████▊    | 58/100 [22:24<16:22, 23.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  59%|█████▉    | 59/100 [22:49<16:13, 23.73s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  60%|██████    | 60/100 [23:12<15:43, 23.60s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  61%|██████    | 61/100 [23:35<15:14, 23.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  62%|██████▏   | 62/100 [24:03<15:43, 24.82s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  63%|██████▎   | 63/100 [24:30<15:39, 25.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  64%|██████▍   | 64/100 [24:53<14:45, 24.59s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  65%|██████▌   | 65/100 [25:15<14:00, 24.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  66%|██████▌   | 66/100 [25:41<13:54, 24.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  67%|██████▋   | 67/100 [26:04<13:16, 24.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  68%|██████▊   | 68/100 [26:28<12:42, 23.84s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  69%|██████▉   | 69/100 [26:50<12:10, 23.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  70%|███████   | 70/100 [27:13<11:40, 23.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  71%|███████   | 71/100 [27:37<11:17, 23.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  72%|███████▏  | 72/100 [28:00<10:52, 23.32s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  73%|███████▎  | 73/100 [28:23<10:25, 23.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  74%|███████▍  | 74/100 [28:46<10:03, 23.22s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  75%|███████▌  | 75/100 [29:09<09:38, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  76%|███████▌  | 76/100 [29:32<09:16, 23.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  77%|███████▋  | 77/100 [29:56<08:59, 23.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  78%|███████▊  | 78/100 [30:20<08:34, 23.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  79%|███████▉  | 79/100 [30:43<08:08, 23.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  80%|████████  | 80/100 [31:06<07:45, 23.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  81%|████████  | 81/100 [31:29<07:22, 23.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  82%|████████▏ | 82/100 [31:53<07:00, 23.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  83%|████████▎ | 83/100 [32:15<06:32, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  84%|████████▍ | 84/100 [32:38<06:08, 23.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  85%|████████▌ | 85/100 [33:01<05:44, 23.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  86%|████████▌ | 86/100 [33:24<05:23, 23.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  87%|████████▋ | 87/100 [33:53<05:20, 24.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  88%|████████▊ | 88/100 [34:15<04:48, 24.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  89%|████████▉ | 89/100 [34:38<04:21, 23.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  90%|█████████ | 90/100 [35:02<03:55, 23.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  91%|█████████ | 91/100 [35:25<03:30, 23.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  92%|█████████▏| 92/100 [35:48<03:06, 23.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  93%|█████████▎| 93/100 [36:12<02:45, 23.63s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  94%|█████████▍| 94/100 [36:35<02:21, 23.50s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  95%|█████████▌| 95/100 [36:59<01:57, 23.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  96%|█████████▌| 96/100 [37:22<01:34, 23.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  97%|█████████▋| 97/100 [37:45<01:10, 23.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  98%|█████████▊| 98/100 [38:09<00:46, 23.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B):  99%|█████████▉| 99/100 [38:32<00:23, 23.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_EN.png (InternVL3-14B): 100%|██████████| 100/100 [38:57<00:00, 23.95s/it]H_EN.png (InternVL3-14B): 100%|██████████| 100/100 [38:57<00:00, 23.38s/it]
+Processing H_ZH.png (100 rounds)...
+H_ZH.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   1%|          | 1/100 [00:22<37:42, 22.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   2%|▏         | 2/100 [00:42<34:10, 20.92s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   3%|▎         | 3/100 [01:04<35:00, 21.66s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   4%|▍         | 4/100 [01:26<34:19, 21.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   5%|▌         | 5/100 [01:46<33:12, 20.98s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   6%|▌         | 6/100 [02:07<33:16, 21.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   7%|▋         | 7/100 [02:28<32:22, 20.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   8%|▊         | 8/100 [02:48<31:43, 20.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):   9%|▉         | 9/100 [03:10<32:13, 21.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  10%|█         | 10/100 [03:31<31:32, 21.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  11%|█         | 11/100 [03:51<30:48, 20.77s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  12%|█▏        | 12/100 [04:11<30:14, 20.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  13%|█▎        | 13/100 [04:32<29:42, 20.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  14%|█▍        | 14/100 [04:52<29:30, 20.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  15%|█▌        | 15/100 [05:13<29:07, 20.55s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  16%|█▌        | 16/100 [05:33<28:31, 20.38s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  17%|█▋        | 17/100 [05:54<28:21, 20.50s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  18%|█▊        | 18/100 [06:14<27:56, 20.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  19%|█▉        | 19/100 [06:35<27:50, 20.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  20%|██        | 20/100 [06:56<27:47, 20.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  21%|██        | 21/100 [07:16<27:04, 20.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  22%|██▏       | 22/100 [07:37<26:58, 20.76s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  23%|██▎       | 23/100 [07:58<26:40, 20.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  24%|██▍       | 24/100 [08:18<25:59, 20.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  25%|██▌       | 25/100 [08:38<25:11, 20.15s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  26%|██▌       | 26/100 [08:57<24:44, 20.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  27%|██▋       | 27/100 [09:18<24:37, 20.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  28%|██▊       | 28/100 [09:38<24:04, 20.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  29%|██▉       | 29/100 [09:58<23:58, 20.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  30%|███       | 30/100 [10:18<23:26, 20.10s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  31%|███       | 31/100 [10:39<23:18, 20.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  32%|███▏      | 32/100 [10:59<22:59, 20.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  33%|███▎      | 33/100 [11:19<22:30, 20.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  34%|███▍      | 34/100 [11:39<22:15, 20.23s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  35%|███▌      | 35/100 [12:00<22:02, 20.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  36%|███▌      | 36/100 [12:20<21:38, 20.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  37%|███▋      | 37/100 [12:41<21:32, 20.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  38%|███▊      | 38/100 [13:02<21:13, 20.53s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  39%|███▉      | 39/100 [13:23<20:57, 20.61s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  40%|████      | 40/100 [13:42<20:11, 20.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  41%|████      | 41/100 [14:02<19:47, 20.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  42%|████▏     | 42/100 [14:22<19:27, 20.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  43%|████▎     | 43/100 [14:42<19:09, 20.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  44%|████▍     | 44/100 [15:02<18:52, 20.22s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  45%|████▌     | 45/100 [15:22<18:28, 20.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  46%|████▌     | 46/100 [15:42<18:02, 20.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  47%|████▋     | 47/100 [16:03<17:47, 20.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  48%|████▊     | 48/100 [16:23<17:28, 20.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  49%|████▉     | 49/100 [16:43<17:04, 20.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  50%|█████     | 50/100 [17:03<16:46, 20.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  51%|█████     | 51/100 [17:24<16:39, 20.40s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  52%|█████▏    | 52/100 [17:45<16:21, 20.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  53%|█████▎    | 53/100 [18:05<15:55, 20.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  54%|█████▍    | 54/100 [18:25<15:35, 20.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  55%|█████▌    | 55/100 [18:45<15:07, 20.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  56%|█████▌    | 56/100 [19:05<14:43, 20.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  57%|█████▋    | 57/100 [19:26<14:34, 20.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  58%|█████▊    | 58/100 [19:45<14:09, 20.22s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  59%|█████▉    | 59/100 [20:05<13:46, 20.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  60%|██████    | 60/100 [20:27<13:43, 20.59s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  61%|██████    | 61/100 [20:48<13:29, 20.75s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  62%|██████▏   | 62/100 [21:09<13:12, 20.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  63%|██████▎   | 63/100 [21:30<12:49, 20.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  64%|██████▍   | 64/100 [21:50<12:23, 20.66s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  65%|██████▌   | 65/100 [22:10<11:56, 20.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  66%|██████▌   | 66/100 [22:30<11:29, 20.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  67%|██████▋   | 67/100 [22:50<11:03, 20.12s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  68%|██████▊   | 68/100 [23:11<10:55, 20.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  69%|██████▉   | 69/100 [23:30<10:21, 20.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  70%|███████   | 70/100 [23:50<10:01, 20.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  71%|███████   | 71/100 [24:10<09:38, 19.95s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  72%|███████▏  | 72/100 [24:30<09:17, 19.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  73%|███████▎  | 73/100 [24:49<08:54, 19.80s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  74%|███████▍  | 74/100 [25:09<08:34, 19.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  75%|███████▌  | 75/100 [25:30<08:25, 20.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  76%|███████▌  | 76/100 [25:51<08:07, 20.31s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  77%|███████▋  | 77/100 [26:11<07:44, 20.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  78%|███████▊  | 78/100 [26:31<07:20, 20.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  79%|███████▉  | 79/100 [26:52<07:07, 20.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  80%|████████  | 80/100 [27:12<06:46, 20.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  81%|████████  | 81/100 [27:33<06:27, 20.41s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  82%|████████▏ | 82/100 [27:51<05:57, 19.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  83%|████████▎ | 83/100 [28:11<05:39, 20.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  84%|████████▍ | 84/100 [28:31<05:19, 19.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  85%|████████▌ | 85/100 [28:52<05:02, 20.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  86%|████████▌ | 86/100 [29:12<04:43, 20.22s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  87%|████████▋ | 87/100 [29:32<04:22, 20.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  88%|████████▊ | 88/100 [29:53<04:02, 20.22s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  89%|████████▉ | 89/100 [30:14<03:46, 20.58s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  90%|█████████ | 90/100 [30:34<03:24, 20.49s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  91%|█████████ | 91/100 [30:55<03:04, 20.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  92%|█████████▏| 92/100 [31:15<02:42, 20.33s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  93%|█████████▎| 93/100 [31:37<02:25, 20.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  94%|█████████▍| 94/100 [31:57<02:04, 20.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  95%|█████████▌| 95/100 [32:18<01:43, 20.61s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  96%|█████████▌| 96/100 [32:39<01:22, 20.71s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  97%|█████████▋| 97/100 [33:00<01:02, 20.93s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  98%|█████████▊| 98/100 [33:21<00:42, 21.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B):  99%|█████████▉| 99/100 [33:42<00:20, 20.87s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_ZH.png (InternVL3-14B): 100%|██████████| 100/100 [34:02<00:00, 20.72s/it]H_ZH.png (InternVL3-14B): 100%|██████████| 100/100 [34:02<00:00, 20.43s/it]
+Processing H_JP.png (100 rounds)...
+H_JP.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   1%|          | 1/100 [00:19<32:44, 19.84s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   2%|▏         | 2/100 [00:40<32:45, 20.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   3%|▎         | 3/100 [01:00<32:28, 20.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   4%|▍         | 4/100 [01:20<32:10, 20.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   5%|▌         | 5/100 [01:39<31:30, 19.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   6%|▌         | 6/100 [01:59<31:16, 19.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   7%|▋         | 7/100 [02:19<30:44, 19.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   8%|▊         | 8/100 [02:39<30:24, 19.83s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):   9%|▉         | 9/100 [02:59<30:21, 20.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  10%|█         | 10/100 [03:22<31:10, 20.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  11%|█         | 11/100 [03:42<30:24, 20.50s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  12%|█▏        | 12/100 [04:02<29:49, 20.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  13%|█▎        | 13/100 [04:21<29:16, 20.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  14%|█▍        | 14/100 [04:42<28:57, 20.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  15%|█▌        | 15/100 [05:01<28:26, 20.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  16%|█▌        | 16/100 [05:21<28:01, 20.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  17%|█▋        | 17/100 [05:41<27:31, 19.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  18%|█▊        | 18/100 [06:01<27:16, 19.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  19%|█▉        | 19/100 [06:21<26:56, 19.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  20%|██        | 20/100 [06:41<26:37, 19.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  21%|██        | 21/100 [07:01<26:29, 20.12s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  22%|██▏       | 22/100 [07:21<26:07, 20.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  23%|██▎       | 23/100 [07:41<25:38, 19.98s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  24%|██▍       | 24/100 [08:01<25:24, 20.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  25%|██▌       | 25/100 [08:21<25:03, 20.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  26%|██▌       | 26/100 [08:42<24:43, 20.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  27%|██▋       | 27/100 [09:01<24:21, 20.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  28%|██▊       | 28/100 [09:26<25:28, 21.23s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  29%|██▉       | 29/100 [09:45<24:37, 20.80s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  30%|███       | 30/100 [10:05<24:01, 20.60s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  31%|███       | 31/100 [10:26<23:35, 20.51s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  32%|███▏      | 32/100 [10:45<22:55, 20.23s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  33%|███▎      | 33/100 [11:05<22:27, 20.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  34%|███▍      | 34/100 [11:25<22:02, 20.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  35%|███▌      | 35/100 [11:45<21:36, 19.94s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  36%|███▌      | 36/100 [12:05<21:15, 19.92s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  37%|███▋      | 37/100 [12:25<20:59, 20.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  38%|███▊      | 38/100 [12:45<20:46, 20.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  39%|███▉      | 39/100 [13:05<20:28, 20.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  40%|████      | 40/100 [13:25<20:04, 20.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  41%|████      | 41/100 [13:45<19:43, 20.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  42%|████▏     | 42/100 [14:06<19:32, 20.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  43%|████▎     | 43/100 [14:26<19:17, 20.31s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  44%|████▍     | 44/100 [14:46<18:49, 20.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  45%|████▌     | 45/100 [15:06<18:26, 20.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  46%|████▌     | 46/100 [15:26<18:01, 20.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  47%|████▋     | 47/100 [15:46<17:37, 19.96s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  48%|████▊     | 48/100 [16:07<17:33, 20.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  49%|████▉     | 49/100 [16:26<16:59, 19.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  50%|█████     | 50/100 [16:46<16:34, 19.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  51%|█████     | 51/100 [17:06<16:19, 20.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  52%|█████▏    | 52/100 [17:26<16:02, 20.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  53%|█████▎    | 53/100 [17:46<15:38, 19.98s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  54%|█████▍    | 54/100 [18:06<15:15, 19.90s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  55%|█████▌    | 55/100 [18:26<15:04, 20.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  56%|█████▌    | 56/100 [18:49<15:14, 20.77s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  57%|█████▋    | 57/100 [19:08<14:39, 20.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  58%|█████▊    | 58/100 [19:29<14:19, 20.47s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  59%|█████▉    | 59/100 [19:49<13:57, 20.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  60%|██████    | 60/100 [20:10<13:38, 20.46s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  61%|██████    | 61/100 [20:30<13:11, 20.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  62%|██████▏   | 62/100 [20:50<12:46, 20.18s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  63%|██████▎   | 63/100 [21:10<12:26, 20.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  64%|██████▍   | 64/100 [21:30<12:03, 20.10s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  65%|██████▌   | 65/100 [21:50<11:40, 20.01s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  66%|██████▌   | 66/100 [22:09<11:19, 20.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  67%|██████▋   | 67/100 [22:29<10:59, 19.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  68%|██████▊   | 68/100 [22:50<10:41, 20.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  69%|██████▉   | 69/100 [23:09<10:17, 19.92s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  70%|███████   | 70/100 [23:29<09:55, 19.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  71%|███████   | 71/100 [23:49<09:35, 19.84s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  72%|███████▏  | 72/100 [24:09<09:16, 19.88s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  73%|███████▎  | 73/100 [24:29<08:59, 19.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  74%|███████▍  | 74/100 [24:49<08:37, 19.89s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  75%|███████▌  | 75/100 [25:08<08:16, 19.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  76%|███████▌  | 76/100 [25:28<07:53, 19.74s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  77%|███████▋  | 77/100 [25:47<07:33, 19.70s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  78%|███████▊  | 78/100 [26:07<07:14, 19.73s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  79%|███████▉  | 79/100 [26:27<06:54, 19.75s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  80%|████████  | 80/100 [26:47<06:38, 19.93s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  81%|████████  | 81/100 [27:07<06:16, 19.80s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  82%|████████▏ | 82/100 [27:27<05:56, 19.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  83%|████████▎ | 83/100 [27:46<05:35, 19.76s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  84%|████████▍ | 84/100 [28:06<05:16, 19.80s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  85%|████████▌ | 85/100 [28:26<04:55, 19.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  86%|████████▌ | 86/100 [28:45<04:35, 19.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  87%|████████▋ | 87/100 [29:05<04:15, 19.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  88%|████████▊ | 88/100 [29:25<03:56, 19.73s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  89%|████████▉ | 89/100 [29:47<03:46, 20.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  90%|█████████ | 90/100 [30:08<03:24, 20.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  91%|█████████ | 91/100 [30:27<03:02, 20.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  92%|█████████▏| 92/100 [30:47<02:40, 20.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  93%|█████████▎| 93/100 [31:08<02:21, 20.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  94%|█████████▍| 94/100 [31:27<02:00, 20.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  95%|█████████▌| 95/100 [31:47<01:39, 19.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  96%|█████████▌| 96/100 [32:07<01:20, 20.02s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  97%|█████████▋| 97/100 [32:27<00:59, 19.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  98%|█████████▊| 98/100 [32:47<00:39, 19.87s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B):  99%|█████████▉| 99/100 [33:06<00:19, 19.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_JP.png (InternVL3-14B): 100%|██████████| 100/100 [33:26<00:00, 19.75s/it]H_JP.png (InternVL3-14B): 100%|██████████| 100/100 [33:26<00:00, 20.06s/it]
+Processing H_HK.png (100 rounds)...
+H_HK.png (InternVL3-14B):   0%|          | 0/100 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   1%|          | 1/100 [00:22<36:26, 22.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   2%|▏         | 2/100 [00:45<36:58, 22.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   3%|▎         | 3/100 [01:07<36:44, 22.72s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   4%|▍         | 4/100 [01:29<35:38, 22.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   5%|▌         | 5/100 [01:51<35:09, 22.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   6%|▌         | 6/100 [02:13<34:47, 22.21s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   7%|▋         | 7/100 [02:36<34:39, 22.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   8%|▊         | 8/100 [02:58<34:17, 22.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):   9%|▉         | 9/100 [03:21<33:51, 22.32s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  10%|█         | 10/100 [03:45<34:27, 22.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  11%|█         | 11/100 [04:07<33:28, 22.57s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  12%|█▏        | 12/100 [04:28<32:25, 22.10s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  13%|█▎        | 13/100 [04:53<33:26, 23.07s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  14%|█▍        | 14/100 [05:16<32:57, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  15%|█▌        | 15/100 [05:38<32:06, 22.67s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  16%|█▌        | 16/100 [06:01<31:46, 22.70s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  17%|█▋        | 17/100 [06:23<31:07, 22.50s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  18%|█▊        | 18/100 [06:46<31:15, 22.87s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  19%|█▉        | 19/100 [07:08<30:24, 22.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  20%|██        | 20/100 [07:30<29:45, 22.32s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  21%|██        | 21/100 [07:52<29:26, 22.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  22%|██▏       | 22/100 [08:15<29:02, 22.34s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  23%|██▎       | 23/100 [08:37<28:34, 22.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  24%|██▍       | 24/100 [08:58<27:55, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  25%|██▌       | 25/100 [09:20<27:34, 22.06s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  26%|██▌       | 26/100 [09:43<27:22, 22.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  27%|██▋       | 27/100 [10:05<26:55, 22.12s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  28%|██▊       | 28/100 [10:27<26:38, 22.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  29%|██▉       | 29/100 [10:50<26:19, 22.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  30%|███       | 30/100 [11:12<26:01, 22.30s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  31%|███       | 31/100 [11:33<25:21, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  32%|███▏      | 32/100 [11:57<25:32, 22.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  33%|███▎      | 33/100 [12:19<24:52, 22.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  34%|███▍      | 34/100 [12:42<24:41, 22.44s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  35%|███▌      | 35/100 [13:04<24:09, 22.31s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  36%|███▌      | 36/100 [13:25<23:37, 22.15s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  37%|███▋      | 37/100 [13:47<23:08, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  38%|███▊      | 38/100 [14:09<22:46, 22.03s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  39%|███▉      | 39/100 [14:30<22:08, 21.78s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  40%|████      | 40/100 [14:52<21:51, 21.87s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  41%|████      | 41/100 [15:15<21:40, 22.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  42%|████▏     | 42/100 [15:36<21:10, 21.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  43%|████▎     | 43/100 [15:59<21:07, 22.24s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  44%|████▍     | 44/100 [16:24<21:18, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  45%|████▌     | 45/100 [16:48<21:16, 23.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  46%|████▌     | 46/100 [17:09<20:16, 22.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  47%|████▋     | 47/100 [17:33<20:24, 23.11s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  48%|████▊     | 48/100 [17:55<19:37, 22.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  49%|████▉     | 49/100 [18:17<19:12, 22.61s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  50%|█████     | 50/100 [18:39<18:33, 22.26s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  51%|█████     | 51/100 [19:05<19:05, 23.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  52%|█████▏    | 52/100 [19:27<18:32, 23.19s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  53%|█████▎    | 53/100 [19:49<17:51, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  54%|█████▍    | 54/100 [20:12<17:33, 22.91s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  55%|█████▌    | 55/100 [20:35<17:05, 22.79s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  56%|█████▌    | 56/100 [20:57<16:26, 22.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  57%|█████▋    | 57/100 [21:18<15:52, 22.16s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  58%|█████▊    | 58/100 [21:39<15:18, 21.86s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  59%|█████▉    | 59/100 [22:02<15:04, 22.05s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  60%|██████    | 60/100 [22:25<14:57, 22.43s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  61%|██████    | 61/100 [22:47<14:29, 22.31s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  62%|██████▏   | 62/100 [23:09<14:02, 22.17s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  63%|██████▎   | 63/100 [23:32<13:52, 22.50s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  64%|██████▍   | 64/100 [23:53<13:14, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  65%|██████▌   | 65/100 [24:16<12:59, 22.27s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  66%|██████▌   | 66/100 [24:38<12:30, 22.08s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  67%|██████▋   | 67/100 [25:03<12:45, 23.20s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  68%|██████▊   | 68/100 [25:28<12:37, 23.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  69%|██████▉   | 69/100 [25:50<11:54, 23.04s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  70%|███████   | 70/100 [26:12<11:25, 22.84s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  71%|███████   | 71/100 [26:34<10:50, 22.45s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  72%|███████▏  | 72/100 [26:56<10:26, 22.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  73%|███████▎  | 73/100 [27:18<10:01, 22.28s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  74%|███████▍  | 74/100 [27:40<09:35, 22.13s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  75%|███████▌  | 75/100 [28:01<09:09, 22.00s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  76%|███████▌  | 76/100 [28:26<09:06, 22.76s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  77%|███████▋  | 77/100 [28:49<08:41, 22.69s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  78%|███████▊  | 78/100 [29:10<08:10, 22.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  79%|███████▉  | 79/100 [29:30<07:35, 21.70s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  80%|████████  | 80/100 [29:51<07:10, 21.54s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  81%|████████  | 81/100 [30:14<06:54, 21.81s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  82%|████████▏ | 82/100 [30:36<06:35, 21.97s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  83%|████████▎ | 83/100 [30:59<06:18, 22.25s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  84%|████████▍ | 84/100 [31:22<05:57, 22.36s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  85%|████████▌ | 85/100 [31:45<05:38, 22.56s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  86%|████████▌ | 86/100 [32:07<05:13, 22.37s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  87%|████████▋ | 87/100 [32:29<04:52, 22.52s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  88%|████████▊ | 88/100 [32:51<04:27, 22.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  89%|████████▉ | 89/100 [33:13<04:03, 22.14s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  90%|█████████ | 90/100 [33:36<03:43, 22.39s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  91%|█████████ | 91/100 [34:01<03:29, 23.29s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  92%|█████████▏| 92/100 [34:27<03:10, 23.85s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  93%|█████████▎| 93/100 [34:49<02:43, 23.35s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  94%|█████████▍| 94/100 [35:11<02:17, 22.99s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  95%|█████████▌| 95/100 [35:33<01:53, 22.65s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  96%|█████████▌| 96/100 [35:55<01:30, 22.62s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  97%|█████████▋| 97/100 [36:18<01:07, 22.64s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  98%|█████████▊| 98/100 [36:41<00:45, 22.61s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B):  99%|█████████▉| 99/100 [37:05<00:23, 23.09s/it]Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+H_HK.png (InternVL3-14B): 100%|██████████| 100/100 [37:29<00:00, 23.59s/it]H_HK.png (InternVL3-14B): 100%|██████████| 100/100 [37:29<00:00, 22.50s/it]
+Cleaning up InternVL3-14B from cache...
+Traceback (most recent call last):
+  File "/home/joaopaulo/Projects/LLM-OCR-SWPC/src/stability_experiment/hf_inference.py", line 186, in <module>
+    main()
+  File "/home/joaopaulo/Projects/LLM-OCR-SWPC/src/stability_experiment/hf_inference.py", line 182, in main
+    shutil.rmtree(cache_dir)
+  File "/usr/lib/python3.11/shutil.py", line 769, in rmtree
+    onerror(os.path.islink, path, sys.exc_info())
+  File "/usr/lib/python3.11/shutil.py", line 767, in rmtree
+    raise OSError("Cannot call rmtree on a symbolic link")
+OSError: Cannot call rmtree on a symbolic link
